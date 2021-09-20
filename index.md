@@ -3,6 +3,15 @@ layout: default
 title: Home
 ---
 
-# hello world
+# Website for Graham & McNeney Labs
 
-* This is a test
+
+### Welcome!
+
+The group has research interests in Statistical Genetics and Genetic Epidemiology.  We are primarily based in the Department of Statistics and Actuarial Science at Simon Fraser University, Burnaby and are part of the larger Statistics in the Life Sciences (SiLS) group.
+
+Please see our Members page to learn more about who we are and our Research Projects page for a description of research projects and available software.  The Group welcomes all students with interests in statistics and/or statistical computing who share a curiousity about genetics and biology.  Prospective students may find the webpage For Students to be helpful. Or, visit any of the links in the left navigation area to find out more.
+
+ 
+
+We and Simon Fraser University respectfully acknowledge the unceded traditional territories of the Coast Salish peoples, including the səl̓ilw̓ətaʔɬ (Tsleil-Waututh), kʷikʷəƛ̓əm (Kwikwetlem), Sḵwx̱wú7mesh Úxwumixw (Squamish) and xʷməθkʷəy̓əm (Musqueam) Nations, on which SFU Burnaby is located.
