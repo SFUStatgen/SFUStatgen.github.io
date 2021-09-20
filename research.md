@@ -22,14 +22,19 @@ elrm: An R package implementing Exact Logistic Regression via MCMC, using the me
 
 ## RECENT PUBLICATIONS
 ### 2021
-Gill E, Smith M, Gibson K, Morishita K, Lee A,, Falsafi R, Graham J, Foell D, Benseler S, Ross C, Luqmani R, Cabral D, Hancock R, Brown KL, the PedVas Initiative Investigators (2021). Different disease endotypes in phenotypically similar vasculitides affecting small-to-medium sized blood vessels. Frontiers in Immunology 12: 396.  DOI: 10.3389/fimmu.2021.638571
-Ratnasekera P and McNeney B (2021). Re-analysis of a genome-wide gene-by-environment interaction study of case-parent trios, adjusted for population stratification. Front. Genet. 11:600232. doi: 10.3389/fgene.2020.600232
-2019
-CB Karunarathna and J Graham. perfectphyloR: An R package for reconstructing perfect phylogenies. BMC Bioinformatics 20, Article number: 729 (2019). DOI 10.1186/s12859-019-3313-4.
-Nieuwoudt C, Brooks-Wilson A and Graham J. SimRVsequences: an R package to simulate genetic sequence data for pedigrees. Bioinformatics, btz881, https://doi.org/10.1093/bioinformatics/btz881. 
-Choi JC, Lu D, Beg MF, Graham J, and McNeney B for the Alzheimer's Disease Neuroimaging Initiative (2019). The Contribution Plot: Decomposition and Graphical Display of the RV Coefficient, with Application to Genetic and Brain Imaging Biomarkers of Alzheimer's Disease. Human Heredity, https://doi.org/10.1159/000501334.
-K Gibson, K Morishita, P Dancey, P Moorehead, B Drögemöller, X Xhan, J Graham, B Hancock, D Foell, S Benseler, R Luqmani, R Yeung, S Shenoi, M Bohm, A Rosenberg, C Ross, D Cabral, K Brown. Identification of novel Adenosine Deaminase 2 gene variants and varied clinical phenotype in pediatric vasculitis. Arthritis & Rheumatology  71: 1747-1755 DOI 10.1002/art.40913
-2018
+* Gill E, Smith M, Gibson K, Morishita K, Lee A,, Falsafi R, Graham J, Foell D, Benseler S, Ross C, Luqmani R, Cabral D, Hancock R, Brown KL, the PedVas Initiative Investigators (2021). Different disease endotypes in phenotypically similar vasculitides affecting small-to-medium sized blood vessels. Frontiers in Immunology 12: 396.  [DOI: 10.3389/fimmu.2021.638571](https://doi.org/10.3389/fimmu.2021.638571)
+* Ratnasekera P and McNeney B (2021). Re-analysis of a genome-wide gene-by-environment interaction study of case-parent trios, adjusted for population stratification. Front. Genet. 11:600232. [doi: 10.3389/fgene.2020.600232](https://doi.org/10.3389/fgene.2020.600232)
+
+### 2019
+
+* CB Karunarathna and J Graham. perfectphyloR: An R package for reconstructing perfect phylogenies. BMC Bioinformatics 20, Article number: 729 (2019).
+[DOI 10.1186/s12859-019-3313-4](https://doi.org/10.1186/s12859-019-3313-4).
+* Nieuwoudt C, Brooks-Wilson A and Graham J. SimRVsequences: an R package to simulate genetic sequence data for pedigrees. Bioinformatics, btz881, https://doi.org/10.1093/bioinformatics/btz881. 
+* Choi JC, Lu D, Beg MF, Graham J, and McNeney B for the Alzheimer's Disease Neuroimaging Initiative (2019). The Contribution Plot: Decomposition and Graphical Display of the RV Coefficient, with Application to Genetic and Brain Imaging Biomarkers of Alzheimer's Disease. Human Heredity, https://doi.org/10.1159/000501334.
+* K Gibson, K Morishita, P Dancey, P Moorehead, B Drögemöller, X Xhan, J Graham, B Hancock, D Foell, S Benseler, R Luqmani, R Yeung, S Shenoi, M Bohm, A Rosenberg, C Ross, D Cabral, K Brown. Identification of novel Adenosine Deaminase 2 gene variants and varied clinical phenotype in pediatric vasculitis. Arthritis & Rheumatology  71: 1747-1755 DOI https://doi.org/10.1002/art.40913
+
+### 2018
+
 Brown KL, Lubieniecki JM, Armaroli G, Kessel K, Gibson K, Graham J, Liu D, Hancock REW, Ross C, Benseler SM, Luqmani R, Cabral DA, Foell D and Kessel C on behalf of the ARChiVe Investigators Network within the PedVas Initiative (2018). S100A12 serum levels and PMN counts are elevated in childhood systemic vasculitides especially involving proteinase 3 specific anti-neutrophil cytoplasmic antibodies. Frontiers in Pediatrics, 23 November 2018, https://doi.org/10.3389/fped.2018.00341
 C Nieuwoudt, SJ Jones, A Brooks-Wilson, J Graham (2018). Simulating pedigrees ascertained for multiple disease-affected relatives. Source Code for Biology and Medicine, 13:2. https://doi.org/10.1186/s13029-018-0069-6
 Graham J, McNeney B, Platt RW (2018). Small sample methods. In N. Breslow, O. Borgan, N. Chatterjee, M. H. Gail, A. Scott, and C. J. Wild, editors, Handbook of Statistical Methods for Case-Control Studies, Chapman & Hall/CRC Handbooks of Modern Statistical Methods, chapter 9, pages 134–162. Chapman & Hall/CRC Press, Boca Raton, Florida.
