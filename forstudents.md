@@ -17,7 +17,7 @@ See articles in Quanta Magazine: &quot;<a href="https://www.quantamagazine.org/b
 <li><b>What information is available on graduate study in Statistics at SFU?</b><br>
 See the Department's <a href="http://stat.sfu.ca/grad/brochure.html">brochure</a>, which includes information on <a href="http://stat.sfu.ca/grad/brochure.html#stat_program">degree programs offered</a>, <a href="http://stat.sfu.ca/grad/brochure.html#How%20to%20Apply">how to apply</a>, <a href="http://stat.sfu.ca/grad/brochure.html#tuition">tuition and financial support</a>, etc. The SFU Dean of Graduate Studies Office has also prepared a helpful <a href="http://www.sfu.ca/dean-gradstudies/awards.html">site</a> detailing scholarship and award opportunities available to grad students.</li>
 <li><b>What is expected of graduate students in the programme?</b><br>
-We have drafted a short summary of <a href="http://stat.sfu.ca/statgen/forstudents/expectations.html">our expectations</a>.<br>
+We have drafted a short summary of <a href="/forstudents/expectations.html">our expectations</a>.<br>
 The Department has also prepared a list of <a href="/content/dam/sfu/stat/documents/Statgen/PrepMaterial.pdf">useful preparatory material for Masters students</a> entering our program; Statistics graduate students should focus on the Stat Theory and Linear Models components of this list.<br>
 </li>
 <li><b>What research resources are available?</b><br>
