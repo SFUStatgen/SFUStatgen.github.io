@@ -9,9 +9,9 @@
 <!-- end custom head snippets -->
 <nav>
   <p>&nbsp;<br></p>
-  <p style="color:white", align="center">
+  <p align="center">
   {% for item in site.data.navigation %}
-  <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>[{{ item.name }}]</a> &nbsp;
+  <a href="{{ item.link }}" style="color:white" {% if page.url == item.link %}class="current"{% endif %}>[{{ item.name }}]</a> &nbsp;
   {% endfor %}
   </p>
 </nav>
