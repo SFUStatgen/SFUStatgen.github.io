@@ -1,16 +1,16 @@
-- name: Home
+- name: HOME
   link: /
-- name: For Students
+- name: FOR STUDENTS
   link: /forstudents.html
-- name: Research
+- name: RESEARCH
   link: /research.html
-- name: Members
+- name: MEMBERS
   link: /members.html
-- name: Meetings
+- name: MEETINGS
   link: /meetings.html
-- name: Resources
+- name: RESOURCES
   link: /resources.html
-- name: Contact Us
+- name: CONTACT US
   link: /contact.html
-- name: Fun
+- name: FUN
   link: /fun.html
