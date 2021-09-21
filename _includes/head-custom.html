@@ -8,6 +8,7 @@
 
 <!-- end custom head snippets -->
 <nav>
+  <p>&nbsp;<br></p>
   <p style="color:white", align="center">
   {% for item in site.data.navigation %}
   <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>[{{ item.name }}]</a> &nbsp;
