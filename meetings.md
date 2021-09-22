@@ -2,12 +2,13 @@
 layout: default
 title: Meetings
 ---
+
 # Meetings/Talks
 
 
-<p style="font-family: tahoma , arial , helvetica , sans-serif; font-size: 12.0px;">Here is a list of meetings for the <a href="http://stat.sfu.ca/statgen/meetings/jclub.html">SFU StatGen journal club</a> seminars and various talks connected to our group.</p>
-<p style="font-family: tahoma , arial , helvetica , sans-serif; font-size: 12.0px;"><b>Schedule:</b></p>
-<p style="font-family: tahoma , arial , helvetica , sans-serif; font-size: 12.0px;">See the <a href="https://wiki.its.sfu.ca/research/sils/index.php/Main_Page">SiLS working group website</a> for recent journal clubs.</p>
+<p>Here is a list of meetings for the <a href="meetings/jclub.html">SFU StatGen journal club</a> seminars and various talks connected to our group.</p>
+<p><b>Schedule:</b></p>
+<p>See the <a href="https://wiki.its.sfu.ca/research/sils/index.php/Main_Page">SiLS working group website</a> for recent journal clubs.</p>
 <table cellspacing="10">
 <tbody><tr><td width="55" valign="top">Jun. 8, 2021</td>
 <td width="90" valign="top">Payman Nickchi (SFU)</td>
