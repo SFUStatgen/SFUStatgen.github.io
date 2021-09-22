@@ -13,4 +13,4 @@ You will have to have <a href="http://www.r-project.org">R</a> installed on your
 
 <pre>install.packages(&quot;trioGxE&quot;)</pre>
 
-The software is licenced under the <a href="http://www.gnu.org">GNU</a> <a href="http://www.gnu.org/licenses/gpl.html">General Public Licence</a>.</p>
+The software is licenced under the <a href="http://www.gnu.org">GNU</a> <a href="http://www.gnu.org/licenses/gpl.html">General Public Licence</a>.
