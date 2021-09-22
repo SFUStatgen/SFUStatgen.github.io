@@ -11,7 +11,7 @@ title: sampletrees
 </h3>
 <p>For the C++ program, Mac and Linux users need to install from source, but Windows users can download pre-compiled versions.</p>
 <ul>
-<li>From source: Download the C++ source code and documentation as a <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/sampletrees_2015-11-27.tar.gz">gzipped tar file</a> and follow the <a href="research/sampletrees/installfromsource.html">instructions for installing from source</a>.&nbsp;</li>
+<li>From source: Download the C++ source code and documentation as a <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/sampletrees_2015-11-27.tar.gz">gzipped tar file</a> and follow the <a href="sampletrees/installfromsource.html">instructions for installing from source</a>.&nbsp;</li>
 <li>Compiled versions for Windows: Download compiled versions for <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/sampletrees32.exe">32 bit Windows</a> or for <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/sampletrees64.exe">64 bit Windows</a>. (Note: Before using one of these pre-compiled versions you may wish to change its name from sampletreesXX.exe, where XX is 32 or 64, to sampletrees.exe to match the documentation.)<br>
 </li>
 </ul>
