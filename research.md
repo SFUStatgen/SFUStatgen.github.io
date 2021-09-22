@@ -121,7 +121,9 @@ An R package to identify cryptic relatedness in genetic association studies. For
 <li><b>Burkett K</b>, <b>McNeney B</b>, <b>Graham J</b>. A note on inference of trait associations with SNP haplotypes and other attributes in generalized linear models. <i>Hum Hered</i> 2004;<b>57</b>(4):200-6. PubMed ID: <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15583426">15583426</a></li>
 <li>Tebbutt SJ, He JQ, <b>Burkett KM </b>, Ruan J, Opushnyev IV, Tripp BW, Zeznik JA, Abara CO, Nelson CC, Walley KR. Microarray genotyping resource to determine population stratification in genetic association studies of complex disease. <i>Biotechniques</i> 2004; <b>37</b>(6):977-85.PMID: 15597547</li>
 </ul>
-<p style="font-family: tahoma , arial , helvetica , sans-serif;"><b>Posters</b></p>
+
+## Posters
+
 <table cellspacing="0" cellpadding="1" border="0" style="font-family: tahoma , arial , helvetica , sans-serif;">
 <tbody><tr><td valign="top" width="90"><p>May 2019</p>
 <p>&nbsp;</p>
