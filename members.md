@@ -7,7 +7,7 @@ title: Members
 <ul>
 <li><a href="http://www.stat.sfu.ca/%7Ejgraham">Jinko Graham</a>, Faculty, Statistics &amp; Actuarial Science, SFU<br>
 </li>
-<li><a href="http://people.stat.sfu.ca/~mcneney">Brad McNeney</a>, Faculty, Statistics &amp; Actuarial Science, SFU</li>
+<li><a href="https://mcneney.github.io/">Brad McNeney</a>, Faculty, Statistics &amp; Actuarial Science, SFU</li>
 <li>Dongmeng Liu, PhD student, Statistics &amp; Actuarial Science, SFU</li>
 <li>Payman Nickchi, PhD student, Statistics &amp; Actuarial Science, SFU</li>
 <li>Pulindu Ratnasekera, PhD student, Statistics &amp; Actuarial Science, SFU</li>
