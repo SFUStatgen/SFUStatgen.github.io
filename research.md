@@ -22,6 +22,7 @@ An R package to identify cryptic relatedness in genetic association studies. For
 
 ### Recent Publications
 
+<h6 style="font-family: tahoma , arial , helvetica , sans-serif;">2021</h6>
 <ul style="font-family: tahoma , arial , helvetica , sans-serif;">
 <li>Gill E, Smith M, Gibson K, Morishita K, Lee A,, Falsafi R, <b>Graham J</b>, Foell D, Benseler S, Ross C, Luqmani R, Cabral D, Hancock R, Brown KL, the PedVas Initiative Investigators (2021). Different disease endotypes in phenotypically similar vasculitides affecting small-to-medium sized blood vessels. <i>Frontiers in Immunology</i> 12: 396.&nbsp;&nbsp;<b><a href="https://doi.org/10.3389/fimmu.2021.638571">DOI: 10.3389/fimmu.2021.638571</a></b></li>
 <li><b>Ratnasekera P</b> and <b>McNeney B</b> (2021). Re-analysis of a genome-wide gene-by-environment interaction study of case-parent trios, adjusted for population stratification. Front. Genet. 11:600232. <a href="https://doi.org/10.3389/fgene.2020.600232">doi: 10.3389/fgene.2020.600232</a></li>
