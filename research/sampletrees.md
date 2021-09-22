@@ -2,6 +2,9 @@
 layout: default
 title: sampletrees
 ---
+
+## Sampletrees and Rsampletrees
+
 <p>A Markov chain Monte Carlo algorithm for sampling gene genealogies conditional on either phased or unphased SNP genotype data. The algorithm has been implemented in C++ by Kelly Burkett. For details, see <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/ws-procs_PostReview.pdf">Burkett <i>et al.</i> (2013a)</a> and <a href="https://www.degruyter.com/view/j/sagmb.2013.12.issue-5/sagmb-2012-0011/sagmb-2012-0011.xml">Burkett <i>et al.</i> (2013b)</a>. For an application to genetic association mapping, see <a href="http://www.frontiersin.org/Journal/10.3389/fgene.2013.00260/abstract">Burkett <i>et al</i>. (2013c)</a>.<br>
 </p>
 <p>In addition to the sampletrees C++ program, the <a href="http://www.r-project.org">R</a> package <a href="http://cran.r-project.org/web/packages/Rsampletrees/index.html">Rsampletrees</a> is available to assist users with (i) creating the input files needed by sampletrees, and (ii) processing and plotting the results of a sampletrees run. Most users of sampletrees will also want Rsampletrees.</p>

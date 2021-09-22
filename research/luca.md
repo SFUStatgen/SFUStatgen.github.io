@@ -1,7 +1,9 @@
 ---
 layout: default
-title: luca
+title: Likelihood Under Covariate Assumptions (luca)
 ---
+
+## Likelihood Under Covariate Assumptions (luca)
 
 <p>In genetic association studies, there is increasing interest in understanding the joint effects of genetic and nongenetic factors. For rare diseases, the case-control study is the standard design and logistic regression is the standard method of inference. However, the power to detect statistical interaction is a concern, even with relatively large samples. LUCA implements maximum likelihood inference under</p>
 <ol>

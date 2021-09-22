@@ -3,6 +3,8 @@ layout: default
 title: crypticIBDcheck
 ---
 
+## CrypticIBDcheck
+
 <p><b>CrypticIBDcheck</b> can be used to identify pairs of closely-related subjects based on genetic marker data from single-nucleotide polymorphisms (SNPs). The package is able to accommodate SNPs in linkage disequibrium (LD), without the need to thin the markers so that they are approximately independent in the population. Sample pairs are identified as related by superposing their estimated identity-by-descent (IBD) coefficients on plots of IBD coefficients for pairs of simulated subjects from one of several common close relationships. The methods are particularly relevant to candidategene association studies, in which dependent SNPs cluster in a relatively small number of genes spread throughout the genome.</p>
 <p>For more information about the package and its features, please see <a href="http://www.scfbm.org/content/8/1/5">Nembot-Simo et al. (2013).</a></p>
 <p>The CrypticIBDcheck R package is <a href="https://cran.r-project.org/package=CrypticIBDcheck">available from the  Comprehensive R Archive Network</a>. See the package help file (package?CrypticIBDcheck from within R) for a description of the package features.</p>
