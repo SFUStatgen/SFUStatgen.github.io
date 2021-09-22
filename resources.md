@@ -6,8 +6,8 @@ title: Resources
 
 <h2><b>General Computing</b></h2>
 <ul>
-<li>A recent overview of the computing resources in Statistics and Actuarial Science from the <a href="http://stat.sfu.ca/content/dam/sfu/stat/documents/comp2014.pdf">2014 computing seminar</a>.</li>
-<li>The Departmental webpage on <a href="http://stat.sfu.ca/research/computing.html">computing</a>, including information on the <a href="http://www.rcg.sfu.ca/documentation/#_the_colony_hpc_cluster">Colony cluster</a>, the computing cluster used by members of the Department.<br>
+<li>A recent overview of the computing resources in Statistics and Actuarial Science from the <a href="https://stat.sfu.ca/content/dam/sfu/stat/documents/comp2014.pdf">2014 computing seminar</a>.</li>
+<li>The Departmental webpage on <a href="https://stat.sfu.ca/research/computing.html">computing</a>, including information on the <a href="https://www.rcg.sfu.ca/documentation/#_the_colony_hpc_cluster">Colony cluster</a>, the computing cluster used by members of the Department.<br>
 </li>
 <li>Some useful <a href="http://biostat.mc.vanderbilt.edu/wiki/Main/ProgrammingTipsForStatisticians">programming tips for statisticians.</a></li>
 <li>General <a href="http://cscs.umich.edu/%7Ecrshalizi/weblog/593.html">advice</a> about how to approach programming.</li>
