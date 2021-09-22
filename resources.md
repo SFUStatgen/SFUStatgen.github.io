@@ -15,7 +15,7 @@ title: Resources
 ## Simulating Genomic Data
 
 * Dick Hudson's [ms program](http://home.uchicago.edu/rhudson1/source/mksamples.html)
-* [fastsimcoal2](http://cmpg.unibe.ch/software/fastsimcoal2
+* [fastsimcoal2](http://cmpg.unibe.ch/software/fastsimcoal2)
 * [msprime](https://tskit.dev/msprime/docs/stable/intro.html): a Python package for simulation. See also:
 that uses a novel "succinct tree sequences" data structure to efficiently
 store the ancestral history of a set of DNA sequences. See also:
