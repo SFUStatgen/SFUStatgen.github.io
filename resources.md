@@ -4,12 +4,6 @@ title: Resources
 ---
 # Research and Computing Resources
 
-<p>&nbsp;</p>
-<h2><b>Collaboration</b></h2>
-<ul>
-<li>Some thoughts <a href="http://www.sfu.ca/%7Edean/OnStatisticalCollaborativeWork.pdf">On collaborative statistical work</a> by Charmaine Dean<br>
-</li>
-</ul>
 <h2><b>General Computing</b></h2>
 <ul>
 <li>A recent overview of the computing resources in Statistics and Actuarial Science from the <a href="http://stat.sfu.ca/content/dam/sfu/stat/documents/comp2014.pdf">2014 computing seminar</a>.</li>
