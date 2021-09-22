@@ -14,11 +14,7 @@ If this installation method does not work for you, this <a href="http://stackove
 </ul>
 <h4>The GNU Scientific Library (GSL).<br>
 </h4>
-<p>The program is dependent on gsl (gnu scientific library) being installed. This library is used by other programs, so it may already be installed. Check in /usr/include or usr/local/include for a directory called gsl. This is the most likely place to find gsl.<br>
-<br>
-If gsl is not installed, the latest version can be obtained from <a href="ftp://ftp.gnu.org/gnu/gsl/gsl-latest.tar.gz">ftp://ftp.gnu.org/gnu/gsl/gsl-latest.tar.gz</a><br>
-<br>
-Unpack this tar file (tar xzvf gls-latest.tar.gz) and follow the installation instructions in the INSTALL file. You will need root access to put the files in /usr/include. If this is not possible, then the directions to install it in a different directory, such as the home directory are given below.<br>
+<p>The program is dependent on the <a href="https://www.gnu.org/software/gsl/">gsl (gnu scientific library)</a> being installed. This library is used by other programs, so it may already be installed. Check in /usr/include or usr/local/include for a directory called gsl. This is the most likely place to find gsl. If not already installed, download the latest release from the <a href="https://www.gnu.org/software/gsl/">gsl</a> website and follow the installation instructions in the README and INSTALL files. You will need root access to put the files in /usr/include. If this is not possible, then the directions to install it in a different directory, such as the home directory are given below.<br>
 </p>
 <ul>
 <li>&nbsp;Move the directory that was created by unpacking the tar file. It will be called gsl-X where X is the version number.</li>
