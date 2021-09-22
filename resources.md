@@ -16,11 +16,12 @@ title: Resources
 
 * Dick Hudson's [ms program](http://home.uchicago.edu/rhudson1/source/mksamples.html)
 * [fastsimcoal2](http://cmpg.unibe.ch/software/fastsimcoal2
-* [msprime](https://tskit.dev/msprime/docs/stable/intro.html): a Python package for simulation that uses a novel "succinct tree sequences" data structure that efficiently
-stores the ancestral history of a set of DNA sequences. See also:
+* [msprime](https://tskit.dev/msprime/docs/stable/intro.html): a Python package for simulation. See also:
+that uses a novel "succinct tree sequences" data structure to efficiently
+store the ancestral history of a set of DNA sequences. See also:
     * Payman Nickchi's [tutorial materials](https://github.com/paymannickchi/msprime) 
     on GitHub and [command-line demo](https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/mspcommands.txt)
-    * Documentation for the [tskit](https://tskit.dev/tskit/docs/stable/) Python package that underlies msprime.
+    * Documentation for the [tskit](https://tskit.dev/tskit/docs/stable/) Python package that implements the "succinct tree sequences" data structure that underlies msprime.
 <h2><b>Computing with R</b></h2>
 <ul>
 <li>Configuring the necessary <a href="/content/sfu/stat/statgen/resources/r-tools-for-building-packages-on-windows.html">R tools to allow you to build your own R packages on Windows</a>.</li>
