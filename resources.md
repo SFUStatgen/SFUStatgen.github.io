@@ -7,7 +7,7 @@ title: Resources
 <p>&nbsp;</p>
 <h2><b>Collaboration</b></h2>
 <ul>
-<li>Some thoughts <a href="http://www.stat.sfu.ca/%7Edean/OnStatisticalCollaborativeWork.pdf">On collaborative statistical work</a> by Charmaine Dean<br>
+<li>Some thoughts <a href="http://www.sfu.ca/%7Edean/OnStatisticalCollaborativeWork.pdf">On collaborative statistical work</a> by Charmaine Dean<br>
 </li>
 </ul>
 <h2><b>General Computing</b></h2>
@@ -20,16 +20,16 @@ title: Resources
 </ul>
 <h2><b>Simulating Genomic Data</b></h2>
 <ul>
-<li>Dick Hudson's <a href="http://home.uchicago.edu/rhudson1/source/mksamples.html">ms program</a> and <a href="/content/dam/sfu/stat/documents/Statgen/msdoc.pdf">documentation</a>.</li>
+<li>Dick Hudson's <a href="http://home.uchicago.edu/rhudson1/source/mksamples.html">ms program</a>.</li>
 <li><a href="http://cmpg.unibe.ch/software/fastsimcoal2">fastsimcoal2</a></li>
-<a href="http://cmpg.unibe.ch/software/fastsimcoal2"> </a><li>msprime: <a href="https://pypi.python.org/pypi/msprime">Python package</a>, Payman Nickchi's <a href="https://github.com/paymannickchi/msprime">tutorial&nbsp;materials</a> on GitHub and <a href="/content/dam/sfu/stat/documents/Statgen/mspcommands.txt">command-line demo</a></li>
+<a href="http://cmpg.unibe.ch/software/fastsimcoal2"> </a><li>msprime: <a href="https://pypi.python.org/pypi/msprime">Python package</a>, Payman Nickchi's <a href="https://github.com/paymannickchi/msprime">tutorial&nbsp;materials</a> on GitHub and <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/mspcommands.txt">command-line demo</a></li>
 </ul>
 <h2><b>Computing with R</b></h2>
 <ul>
 <li>Configuring the necessary <a href="/content/sfu/stat/statgen/resources/r-tools-for-building-packages-on-windows.html">R tools to allow you to build your own R packages on Windows</a>.</li>
-<li><a href="/content/dam/sfu/stat/documents/Statgen/DIYRpackage.pdf">Creating R packages with RStudio and roxygen2</a>, by Christina Nieuwoudt.</li>
-<li><a href="/content/dam/sfu/stat/documents/Statgen/ParallelComputing_inR_CC.pdf">Parallel Computing in R with WestGrid</a>, by Bhagya Karunarathna.</li>
-<li><a href="/content/dam/sfu/stat/documents/Statgen/RcppandR.pdf">Integrating R with C++ and C</a>, by Biljana&nbsp; Stojkova and Edouard Djeutem, as part of their course on Statistical Computing. Biljana has also provided a link to her <a href="/content/dam/sfu/stat/documents/Statgen/FinalReport.pdf">final proje</a>ct from Stat Computing, including the <a href="/content/dam/sfu/stat/documents/Statgen/R%20Functions%20and%20Data%20supporting%20Final%20Report.rar">R scripts and other fil</a>es that support the project.</li>
+<li><a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/DIYRpackage.pdf">Creating R packages with RStudio and roxygen2</a>, by Christina Nieuwoudt.</li>
+<li><a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/ParallelComputing_inR_CC.pdf">Parallel Computing in R with WestGrid</a>, by Bhagya Karunarathna.</li>
+<li><a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/RcppandR.pdf">Integrating R with C++ and C</a>, by Biljana&nbsp; Stojkova and Edouard Djeutem, as part of their course on Statistical Computing. Biljana has also provided a link to her <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/FinalReport.pdf">final proje</a>ct from Stat Computing, including the <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/R%20Functions%20and%20Data%20supporting%20Final%20Report.rar">R scripts and other fil</a>es that support the project.</li>
 </ul>
 <h2>Computing with C/C++</h2>
 <p>Our group uses the GNU tools, such as the gcc C compiler and the g++ C++ compiler, for software development. How you access these tools depends on your operating system.</p>
@@ -44,15 +44,11 @@ title: Resources
 <ul>
 <li>MinGW is a contraction of &quot;minimalist GNU for Windows&quot;. Though not as full-featured a toolset as cygwin (see below) MinGW has the advantage that it is able to compile binary executable files that do not rely on any system-specific libraries, making these binary executables portable across systems.<ul>
 <li>Complete installation instructions from the <a href="http://mingw.org">MinGW website</a> are available on their <a href="http://www.mingw.org/wiki/Getting_Started">Getting Started</a> page.</li>
-<li>Some notes on the installation based on our experiences are given <a href="resources/mingw.html">here</a>.<br>
-</li>
 </ul>
 </li>
 <li>Cygwin provides a complete Unix-like environment for Windows computers.&nbsp; &nbsp;Binary executables compiled under cygwin rely on cygwin-specific libraries and hence can only be run by users with the same system as the one on which the binary file was compiled.<br>
 <ul>
 <li>Full cygwin installation instructions are available at <a href="https://cygwin.com/cygwin-ug-net/setup-net.html">here</a>.</li>
-<li>Some notes on the installation based on our experiences are given <a href="resources/cygwin.html">here.</a><br>
-</li>
 </ul>
 </li>
 </ul>
@@ -72,7 +68,7 @@ If this installation method does not work for you, this <a href="http://stackove
 <li>&nbsp;<a href="http://www.lib.sfu.ca/help/publish/thesis/templates#latex-template">LaTeX template</a> from the SFU Library.<br>
 </li>
 <li>A BibTeX sytle file forwarded by Flora Qu: <a href="/content/dam/sfu/stat/documents/Statgen/jasasty-ay.bst">jasasty-ay.bst</a>. The &quot;ay&quot; in the name appears to refer to &quot;author-year&quot; style references [e.g. Qu (2009)], rather than numeric citations in the text. Flora reports having had trouble with other bibtex style files, but that this one works. She notes: &quot;When you use this bib style file, you need to add \usepackage{natbib} in the main tex file.&quot;</li>
-<li>In addition to the LaTeX files, MSc students may be interested in looking at a few recent projects from the department to get sense of the scope and size of a typical MSc project: (i) <a href="http://www.stat.sfu.ca/content/dam/sfu/stat/alumnitheses/2015/chenlu%20shi_finalproject.pdf">Chenlu Shi</a>, (ii) &nbsp;<a href="http://www.stat.sfu.ca/content/dam/sfu/stat/alumnitheses/2014/MSc%20Project%20Report%20-%20Kunasekaran%20Nirmalkanna.pdf">Kunasekaran Nirmalkanna</a>, (iii) &nbsp;<a href="http://www.stat.sfu.ca/content/dam/sfu/stat/alumnitheses/2014/RachelLipson%20Final%201141.pdf">Rachel Lipson</a></li>
+<li>In addition to the LaTeX files, MSc students may be interested in looking at a few recent projects from the department to get sense of the scope and size of a typical MSc project: (i) <a href="http://www.sfu.ca/content/dam/sfu/stat/alumnitheses/2015/chenlu%20shi_finalproject.pdf">Chenlu Shi</a>, (ii) &nbsp;<a href="http://www.sfu.ca/content/dam/sfu/stat/alumnitheses/2014/MSc%20Project%20Report%20-%20Kunasekaran%20Nirmalkanna.pdf">Kunasekaran Nirmalkanna</a>, (iii) &nbsp;<a href="http://www.sfu.ca/content/dam/sfu/stat/alumnitheses/2014/RachelLipson%20Final%201141.pdf">Rachel Lipson</a></li>
 </ul>
 </li>
 <li>LaTeX posters:<ul>
