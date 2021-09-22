@@ -10,7 +10,8 @@ We are always excited to welcome new students! We look forward to building an en
 * Understanding that the financial support of the Department is for the purpose of completing your program of study. If you wish to retain the financial support of the Department and extend your program completion time through activities such as auditing extra courses, please consult with your supervisor first.  
 * Attending to your TA and RA duties professionally.
 * Retaining your eligibility for University Graduate Fellowships by maintaining a minimum 3.5 grade-point average (3.5 is between a B+ and A-).
-* Avoiding all forms of academic dishonesty (e.g. plagiarism ), at all costs!
+* Avoiding all forms of academic dishonesty (e.g. plagiarism ), at all costs! We recommend that students take the [SFU library plagiarism tutorial](https://canvas.sfu.ca/courses/15986)
+when they start the program.
 * Showing interest in departmental seminars and research-group meetings.
 * Appreciating the central role of written and verbal communication in all research.
 * Being willing to outline your arguments for written or presented work (e.g. thesis, research manuscript or presentation) before preparing it, and expecting to discuss these ideas with others in the research group. 
