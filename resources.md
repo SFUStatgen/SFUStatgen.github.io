@@ -12,12 +12,15 @@ title: Resources
 <li>Some useful <a href="http://biostat.mc.vanderbilt.edu/wiki/Main/ProgrammingTipsForStatisticians">programming tips for statisticians.</a></li>
 <li>General <a href="http://cscs.umich.edu/%7Ecrshalizi/weblog/593.html">advice</a> about how to approach programming.</li>
 </ul>
-<h2><b>Simulating Genomic Data</b></h2>
-<ul>
-<li>Dick Hudson's <a href="http://home.uchicago.edu/rhudson1/source/mksamples.html">ms program</a>.</li>
-<li><a href="http://cmpg.unibe.ch/software/fastsimcoal2">fastsimcoal2</a></li>
-<a href="http://cmpg.unibe.ch/software/fastsimcoal2"> </a><li>msprime: <a href="https://pypi.python.org/pypi/msprime">Python package</a>, Payman Nickchi's <a href="https://github.com/paymannickchi/msprime">tutorial&nbsp;materials</a> on GitHub and <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/mspcommands.txt">command-line demo</a></li>
-</ul>
+## Simulating Genomic Data
+
+* Dick Hudson's [ms program](http://home.uchicago.edu/rhudson1/source/mksamples.html)
+* [fastsimcoal2](http://cmpg.unibe.ch/software/fastsimcoal2
+* [msprime](https://tskit.dev/msprime/docs/stable/intro.html): a Python package for simulation that uses a novel "succinct tree sequences" data structure that efficiently
+stores the ancestral history of a set of DNA sequences. See also:
+    * Payman Nickchi's [tutorial materials](https://github.com/paymannickchi/msprime) 
+    on GitHub and [command-line demo](https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/mspcommands.txt)
+    * Documentation for the [tskit](https://tskit.dev/tskit/docs/stable/) Python package that underlies msprime.
 <h2><b>Computing with R</b></h2>
 <ul>
 <li>Configuring the necessary <a href="/content/sfu/stat/statgen/resources/r-tools-for-building-packages-on-windows.html">R tools to allow you to build your own R packages on Windows</a>.</li>
