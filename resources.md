@@ -23,6 +23,8 @@ store the ancestral history of a set of DNA sequences. See also:
     * Payman Nickchi's [tutorial materials](https://github.com/paymannickchi/msprime) 
     on GitHub and [command-line demo](https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/mspcommands.txt)
     * Documentation for the [tskit](https://tskit.dev/tskit/docs/stable/) Python package that implements the "succinct tree sequences" data structure that underlies msprime.
+* [SLiM](https://messerlab.org/slim/)
+    * Add Nirodha's tutorial **FIX ME**
 <h2><b>Computing with R</b></h2>
 <ul>
 <li><a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/DIYRpackage.pdf">Creating R packages with RStudio and roxygen2</a>, by Christina Nieuwoudt.</li>
