@@ -12,5 +12,5 @@ title: hapassoc
 <p>install.packages(&quot;hapassoc&quot;)</p>
 <p>Windows users can also install the package via the &quot;Packages&quot; menu item. hapassoc is part of the <a href="https://cran.r-project.org/view=Genetics">statistical genetics task view</a>, so if you have this task view installed, you already have hapassoc installed.</p>
 <p>The software is licenced under the <a href="http://www.gnu.org">GNU</a> <a href="http://www.gnu.org/licenses/gpl.html">General Public Licence</a>.</p>
-<p>For more details on the implementation, please see our <a href="http://www.jstatsoft.org/v16/i02/v16i02.pdf">paper</a> in the Journal of Statistical Software, or the earlier <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15583426">paper</a> in Human Heredity.</p>
+<p>For more details on the implementation, please see our <a href="https://cran.r-project.org/web/packages/hapassoc/vignettes/hapassoc.pdf">vignette</a>, or the earlier <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15583426">paper</a> in Human Heredity.</p>
 
