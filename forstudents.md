@@ -4,7 +4,7 @@ title: For Students
 ---
 # Information for Prospective Students
 
-The Statistical Genetics Working Group is based in the Department of Statistics and Actuarial Science at SFU. 
+We are based in the Department of Statistics and Actuarial Science at SFU. 
 The Group welcomes all students with interests in statistics and/or statistical computing who share a curiousity about genetics and biology. 
 Students in the group enroll in the Department's graduate programme.
 More information on StatGen and graduate studies in Statistics at SFU is available through the following links.
