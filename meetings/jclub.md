@@ -2,7 +2,7 @@
 layout: default
 title: Fun
 ---
-# SFU Statistical Genetics Journal Club
+# Journal Club Philosophy
 
 
 <p>Our SFU journal club is modeled on the StatGen journal club at University of Washington. Like them, we want a participatory seminar to present our own work and/or papers from the literature. This document has been adapted from their <a href="http://courses.washington.edu/b581/how_to.html">how-to</a>.</p>
