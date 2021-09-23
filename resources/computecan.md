@@ -19,7 +19,7 @@ and click on "Register" near the bottom right. Fill out the following applicatio
 student, as appropriate, under "Sponsored User". After you submit the form, the Compute Canada system should send your supervisor
 an email to approve your request. Please let them know when you submit the form so that they can keep an eye out for the approval email.
 
-### Loggin in to cedar
+### Logging in to cedar
 
 The cluster that we use most is called [cedar.computecanada.ca](https://docs.computecanada.ca/wiki/Cedar). You will need to log in 
 with an SSH client. See the Compute Canada [documentation on SSH](https://docs.computecanada.ca/wiki/SSH) for details.
