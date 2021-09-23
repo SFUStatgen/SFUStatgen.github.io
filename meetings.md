@@ -10,15 +10,38 @@ title: Meetings
 <p><b>Schedule:</b></p>
 <p>See the <a href="https://wiki.its.sfu.ca/research/sils/index.php/Main_Page">SiLS working group website</a> for recent journal clubs.</p>
 <table cellspacing="10">
-<tbody><tr><td width="55" valign="top">Jun. 8, 2021</td>
-<td width="90" valign="top">Payman Nickchi (SFU)</td>
-<td width="330" valign="top">SSC 2021, Session on Methods in Spatial, Cohort, or Case-Control Studies: A comparison of association methods for fine-mapping rare variants in case-control studies</td>
-<td valign="top">Zoom,&nbsp; 1:30-1:45</td>
-</tr><tr><td width="55" valign="top">Jun. 8, 2021</td>
-<td width="90" valign="top">Bhagya Karunarathna (SFU)</td>
-<td width="330" valign="top">SSC 2021, Session on Methods in Spatial, Cohort, or Case-Control Studies: Using the relatedness of sequences to fine-map genetic variants</td>
-<td valign="top">Zoom,&nbsp; 1:15-1:30</td>
-</tr><tr><td width="55" valign="top">Jun. 8, 2021</td>
+<tbody>
+   <tr>
+    <td width="55" valign="top">Sept. 13, 2021</td>
+    <td width="90" valign="top">Christina Nieuwoudt (SFU)</td>
+    <td width="330" valign="top">PhD defence: Simulation and statistical methods for family-based sequencing studies</td>
+    <td valign="top">Zoom,&nbsp; 9:30-11:45</td>
+  </tr>
+   <tr>
+    <td width="55" valign="top">Aug. 24, 2021</td>
+    <td width="90" valign="top">Charith (Bhagya) Karunarathna (SFU)</td>
+    <td width="330" valign="top">PhD defence: Sequence clustering for genetic mapping of binary traits</td>
+    <td valign="top">Zoom,&nbsp; 9:30-11:45</td>
+  </tr>
+   <tr>
+    <td width="55" valign="top">Aug. 18, 2021</td>
+    <td width="90" valign="top">Xuefei (Gloria) Yang (SFU)</td>
+    <td width="330" valign="top">MSc defence: Covariance-adjusted, sparse, reduced-rank regression with adjustment for confounders</td>
+    <td valign="top">Zoom,&nbsp; 10:30-11:45</td>
+  </tr>
+  <tr>
+    <td width="55" valign="top">Jun. 8, 2021</td>
+    <td width="90" valign="top">Payman Nickchi (SFU)</td>
+    <td width="330" valign="top">SSC 2021, Session on Methods in Spatial, Cohort, or Case-Control Studies: A comparison of association methods for fine-mapping rare variants in case-control studies</td>
+    <td valign="top">Zoom,&nbsp; 1:30-1:45</td>
+  </tr>
+  <tr>
+    <td width="55" valign="top">Jun. 8, 2021</td>
+    <td width="90" valign="top">Bhagya Karunarathna (SFU)</td>
+    <td width="330" valign="top">SSC 2021, Session on Methods in Spatial, Cohort, or Case-Control Studies: Using the relatedness of sequences to fine-map genetic variants</td>
+    <td valign="top">Zoom,&nbsp; 1:15-1:30</td>
+  </tr>
+  <tr><td width="55" valign="top">Jun. 8, 2021</td>
 <td width="90" valign="top">Ying (Daisy) Yu (SFU)</td>
 <td width="330" valign="top">SSC 2021, Session on Understanding Genes and the Genome: Shrinkage Parameter Estimation in Penalized Logistic Regression Analysis of Case-Control Data</td>
 <td valign="top">Zoom,&nbsp; 11:30-11:45</td>
