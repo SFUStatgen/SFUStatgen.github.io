@@ -17,7 +17,7 @@ Next, go to the Compute Canada login/registration page at
 
 and click on "Register" near the bottom right. Fill out the following application pages. When asked about your "Position" say MSc or PhD 
 student, as appropriate, under "Sponsored User". After you submit the form, the Compute Canada system should send your supervisor
-an email to approve your request. Please let me know when you submit the form so that they can keep an eye out for the approval email.
+an email to approve your request. Please let them know when you submit the form so that they can keep an eye out for the approval email.
 
 ### Loggin in to cedar
 
