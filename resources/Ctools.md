@@ -13,11 +13,11 @@ How you access the GNU C and C++ compilers depends on your operating system.
 </li>
 </ul>
 <h3>Windows</h3>
-<p>Windows users will have to install the tools themselves. Two options are <a href="https://sourceforge.net/projects/mingw/">MinGW</a> and <a href="https://www.cygwin.com/">cygwin.</a><br>
+<p>Windows users will have to install the tools themselves. Two options are <a href="https://osdn.net/projects/mingw/">MinGW</a> and <a href="https://www.cygwin.com/">cygwin.</a><br>
 </p>
 <ul>
 <li>MinGW is a contraction of &quot;minimalist GNU for Windows&quot;. Though not as full-featured a toolset as cygwin (see below) MinGW has the advantage that it is able to compile binary executable files that do not rely on any system-specific libraries, making these binary executables portable across systems.<ul>
-<li>Complete installation instructions from the <a href="http://mingw.org">MinGW website</a> are available on their <a href="http://www.mingw.org/wiki/Getting_Started">Getting Started</a> page.</li>
+<li>Installation instructions are not currently available</li>
 </ul>
 </li>
 <li>Cygwin provides a complete Unix-like environment for Windows computers.&nbsp; &nbsp;Binary executables compiled under cygwin rely on cygwin-specific libraries and hence can only be run by users with the same system as the one on which the binary file was compiled.<br>
