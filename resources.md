@@ -4,7 +4,12 @@ title: Resources
 ---
 # Research and Computing Resources
 
-<h2><b>General Computing</b></h2>
+## Compute Canada
+
+* TO ADD
+
+## General Computing
+* FIX
 <ul>
 <li>A recent overview of the computing resources in Statistics and Actuarial Science from the <a href="https://stat.sfu.ca/content/dam/sfu/stat/documents/comp2014.pdf">2014 computing seminar</a>.</li>
 <li>The Departmental webpage on <a href="https://stat.sfu.ca/research/computing.html">computing</a>, including information on the <a href="https://www.rcg.sfu.ca/documentation/#_the_colony_hpc_cluster">Colony cluster</a>, the computing cluster used by members of the Department.<br>
@@ -12,6 +17,7 @@ title: Resources
 <li>Some useful <a href="http://biostat.mc.vanderbilt.edu/wiki/Main/ProgrammingTipsForStatisticians">programming tips for statisticians.</a></li>
 <li>General <a href="http://cscs.umich.edu/%7Ecrshalizi/weblog/593.html">advice</a> about how to approach programming.</li>
 </ul>
+
 ## Simulating Genomic Data
 
 * Dick Hudson's [ms program](http://home.uchicago.edu/rhudson1/source/mksamples.html)
@@ -29,7 +35,9 @@ store the ancestral history of a set of DNA sequences. See also:
 <li><a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/ParallelComputing_inR_CC.pdf">Parallel Computing in R with WestGrid</a>, by Bhagya Karunarathna.</li>
 <li><a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/RcppandR.pdf">Integrating R with C++ and C</a>, by Biljana&nbsp; Stojkova and Edouard Djeutem, as part of their course on Statistical Computing. Biljana has also provided a link to her <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/FinalReport.pdf">final proje</a>ct from Stat Computing, including the <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/R%20Functions%20and%20Data%20supporting%20Final%20Report.rar">R scripts and other fil</a>es that support the project.</li>
 </ul>
-<h2>Computing with C/C++</h2>
+
+## Computing with C/C++
+
 <p>Our group uses the GNU tools, such as the gcc C compiler and the g++ C++ compiler, for software development. How you access these tools depends on your operating system.</p>
 <h3>Linux</h3>
 <ul>
