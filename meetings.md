@@ -6,7 +6,7 @@ title: Meetings
 # Meetings/Talks
 
 
-<p>Here is a list of meetings for the <a href="meetings/jclub.html">SFU StatGen journal club</a> seminars and various talks connected to our group.</p>
+<p>Here is our philosophy on <a href="meetings/jclub.html">journal clubs</a>.</p>
 <p><b>Schedule:</b></p>
 <p>See the <a href="https://wiki.its.sfu.ca/research/sils/index.php/Main_Page">SiLS working group website</a> for recent journal clubs.</p>
 <table cellspacing="10">
