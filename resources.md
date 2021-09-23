@@ -10,7 +10,7 @@ title: Resources
 See our [Getting started](resources/computecan.html) page for information on registering with Compute Canada and accessing their resources.
 * See the Department's webpage on <a href="https://www.sfu.ca/stat-actsci/research/research-resources/computing-research.html">computing</a> for information on getting help, access to the Unix network and software available to SFU faculty, staff and students
 * Some useful <a href="http://biostat.mc.vanderbilt.edu/wiki/Main/ProgrammingTipsForStatisticians">programming tips for statisticians.</a>
-* General <a href="http://cscs.umich.edu/%7Ecrshalizi/weblog/593.html">advice</a> about how to approach programming.
+* Advice on <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510">scientific computing best practices</a> from the people who developped the [Software and Data Carpentry](https://carpentries.org/) workshops.
 
 
 ## Simulating Genomic Data
