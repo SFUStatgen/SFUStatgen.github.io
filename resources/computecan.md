@@ -25,7 +25,7 @@ The Compute Canada servers run the Unix operating system. If you are unfamiliar 
 
 ### Logging in to cedar
 
-The cluster that we use most is called [cedar.computecanada.ca](https://docs.computecanada.ca/wiki/Cedar). You will need to log in 
+The cluster that we use most is [cedar.computecanada.ca](https://docs.computecanada.ca/wiki/Cedar). You will need to log in to cedar
 with an SSH client. See the Compute Canada [documentation on SSH](https://docs.computecanada.ca/wiki/SSH) for more information.
 
 ### Running your jobs
@@ -38,7 +38,7 @@ To run a job you must create what's called a "batch script" and submit it to a "
 ### Getting help
 
 **Don't be afraid to ask for help!!** Computing on a cluster has a rather steep learning curve. We've all struggled.
-Feel free to ask other members (particularly other students) in the group for advice. If none of us can help, contact [Compute Canada tech support](https://docs.computecanada.ca/wiki/Technical_support).
+Feel free to ask other members, particularly other students in the group, for advice. If none of us can help, contact [Compute Canada tech support](https://docs.computecanada.ca/wiki/Technical_support).
 
 ### Running R in batch mode
 
