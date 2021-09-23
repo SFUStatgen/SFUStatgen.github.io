@@ -8,7 +8,7 @@ title: Resources
 
 * These days we do most of our computationally-demanding work on [Compute Canada](https://computecanada.ca).
 See our [Getting started](resources/computecan.html) page for information on registering with Compute Canada and accessing their resources.
-* See the Department's webpage on <a href="https://www.sfu.ca/stat-actsci/research/research-resources/computing-research.html">computing</a> for information on getting help, access to the Unix network and software available to SFU faculty, staff and students
+* See the Department's webpage on <a href="https://www.sfu.ca/stat-actsci/research/research-resources/computing-research.html">computing</a> for information on getting help, access to the Unix network, and links to software that is available to SFU faculty, staff and students
 * Some useful <a href="http://biostat.mc.vanderbilt.edu/wiki/Main/ProgrammingTipsForStatisticians">programming tips for statisticians.</a>
 * Advice on scientific computing for <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510">beginners</a> and more [advanced](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745) users, from the people who developped the [Software and Data Carpentry](https://carpentries.org/) workshops.
 
