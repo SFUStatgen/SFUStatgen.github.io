@@ -8,10 +8,10 @@ We are always excited to welcome new students! We look forward to building an en
 
 * Informing us in advance if you are considering simultaneous study in a programme at another institution or work off campus in addition to your study and work commitments at SFU. We are happy to work with you to accommodate these and help you use these to get credit towards your SFU degree.  Note that internships, co-op work terms and part-time employment may be counted as credit for the Master's level course requirement in STAT 811/812.
 * Understanding that the financial support of the Department is for the purpose of completing your program of study. If you wish to retain the financial support of the Department and extend your program completion time through activities such as auditing extra courses, please consult with your supervisor first.  
-* Attending to your TA and RA duties professionally.
+* Attending to your TA and RA duties professionally. Please note that Department policy prohibits TAs privately tutoring students enrolled in
+courses/Workshop to which they are appointed as TA’s that term. Beware of contract cheating companies that recruit TAs to solicit course materials.
 * Retaining your eligibility for University Graduate Fellowships by maintaining a minimum 3.5 grade-point average (3.5 is between a B+ and A-).
-* Avoiding all forms of academic dishonesty (e.g. plagiarism ), at all costs! We recommend that students take the [SFU library plagiarism tutorial](https://canvas.sfu.ca/courses/15986)
-when they start the program.
+* Avoiding all forms of [academic dishonesty](https://www.sfu.ca/students/academicintegrity/what-is-it.html) (e.g. plagiarism ), at all costs! Plagiarism is "the unacknowledged use of other people’s ideas/work". Learn more from the SFU Library's page on [avoiding plagiarism](https://www.lib.sfu.ca/help/academic-integrity/plagiarism).
 * Showing interest in departmental seminars and research-group meetings.
 * Appreciating the central role of written and verbal communication in all research.
 * Being willing to outline your arguments for written or presented work (e.g. thesis, research manuscript or presentation) before preparing it, and expecting to discuss these ideas with others in the research group. 
