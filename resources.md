@@ -101,3 +101,7 @@ Our group uses the GNU tools, such as the gcc C compiler and the g++ C++ compile
 </ul>
 A typical sized poster (4ft-by-3ft) costs $48 (REM), $48~$72 (cornerstone) and $72 ~ $84 (IRMACS).</li>
 </ul>
+
+## Old documents and resources
+
+* See [here](resources/olddocs.html) for other, possibly out-dated, resources
