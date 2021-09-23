@@ -42,10 +42,9 @@ store the ancestral history of a set of DNA sequences. See also:
 
 ## Computing with Python
 
-* [getting started](https://www.python.org/about/gettingstarted/)
+* [Getting started](https://www.python.org/about/gettingstarted/)
 * [Documentation](https://www.python.org/doc/)
-* A list of [integrated development environments](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments)
-*  **what else are people using?**
+* [Integrated development environments](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments)
 
 
 
