@@ -9,7 +9,7 @@
 <nav>
   <p align="center">
   {% for item in site.data.navigation %}
-  <a href="{{ item.link }}" style="color:white" {% if page.url == item.link %}class="current"{% endif %}>[{{ item.name }}]</a> &nbsp;
+  <a href="{{ item.link }}" {% if page.url == item.link %}style="color:white"{% else %}style="color:grey"{% endif %}>[{{ item.name }}]</a> &nbsp;
   {% endfor %}
   </p>
 </nav>
