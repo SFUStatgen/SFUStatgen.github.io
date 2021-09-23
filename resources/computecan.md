@@ -19,6 +19,10 @@ and click on "Register" near the bottom right. Fill out the following applicatio
 student, as appropriate, under "Sponsored User". After you submit the form, the Compute Canada system should send your supervisor
 an email to approve your request. Please let them know when you submit the form so that they can keep an eye out for the approval email.
 
+### Get to know Unix
+
+If you are unfamiliar with Unix, you can consult an online tutorial, such as [this one](https://www.cs.sfu.ca/~ggbaker/reference/unix/) written by Greg Baker.
+
 ### Logging in to cedar
 
 The cluster that we use most is called [cedar.computecanada.ca](https://docs.computecanada.ca/wiki/Cedar). You will need to log in 
