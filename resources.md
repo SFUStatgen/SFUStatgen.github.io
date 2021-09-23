@@ -39,14 +39,7 @@ store the ancestral history of a set of DNA sequences. See also:
 
 Our group uses the GNU tools, such as the gcc C compiler and the g++ C++ compiler, for software development
 * How you [access these tools](resources/Ctools.html) depends on your operating system
-* The [GNU Scientific Library](https://www.gnu.org/software/gsl/) includes implementations of **many** common scientific functions that you can include in your C or C++ programs. Here is a sample of the subject areas covered by the GSL:
-    * statistics, such as means, variances, correlations, order statistics, etc.
-    * vectors and matrices,
-    * random number generation
-    * Monte Carlo integration
-    * least squares
-    * linear algebra
-    * and more ...
+* The [GNU Scientific Library](https://www.gnu.org/software/gsl/) includes implementations of **many** common scientific functions that you can include in your C or C++ programs. This extensive library includes functions for summary statistics, vectors and matrices, random number generation, linear algebra, Monte Carlo integration and more.
     
 
 <h2>TeX/LaTeX<br>
