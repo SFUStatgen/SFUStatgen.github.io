@@ -27,4 +27,4 @@ install.packages(&quot;Rsampletrees&quot;)
 </h3>
 <p>Documentation for the C++ program is available in the <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/sampletrees_Rsampletrees_documentation.pdf">combined sampletrees/Rsampletrees documentation.</a> Please be aware that the software is under active development, with improvements to the user interface in progress. As a result, the documentation may be out of date in some places.</p>
 <h3>Documentation for Rsampletrees</h3>
-<p>See the <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/sampletrees_Rsampletrees_documentation.pdf">combined sampletrees/Rsampletrees documentation.</a> In addition, the help pages for all functions in the package (also known as the reference manual) is available <a href="http://cran.r-project.org/web/packages/Rsampletrees/Rsampletrees.pdf">here</a>. A package vignette is currently under development.</p>
+<p>See the <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/sampletrees_Rsampletrees_documentation.pdf">combined sampletrees/Rsampletrees documentation.</a> </p>
