@@ -14,6 +14,6 @@ Please see our [Members](/members.html) page to learn more about who we are and 
 
  
 ---
-<p style="font-size:85%;font-style:italic">
+<p style="font-size:90%;font-style:italic">
 We and Simon Fraser University respectfully acknowledge the unceded traditional territories of the Coast Salish peoples, including the səl̓ilw̓ətaʔɬ (Tsleil-Waututh), kʷikʷəƛ̓əm (Kwikwetlem), Sḵwx̱wú7mesh Úxwumixw (Squamish) and xʷməθkʷəy̓əm (Musqueam) Nations, on which SFU Burnaby is located.
  </p>
