@@ -8,7 +8,7 @@ title: Resources
 
 * These days we do most of our computationally-demanding work on [Compute Canada](https://computecanada.ca).
 See our [Getting started](resources/computecan.html) page for information on registering with Compute Canada and accessing their resources.
-* Some useful information is available in and old, and mostly out-of-date, departmental webpage on <a href="https://stat.sfu.ca/research/computing.html">computing</a>. This page will be updated over the coming months.
+* See the Department's webpage on <a href="https://www.sfu.ca/stat-actsci/research/research-resources/computing-research.html">computing</a> for information on getting help, access to the Unix network and software available to SFU faculty, staff and students
 * Some useful <a href="http://biostat.mc.vanderbilt.edu/wiki/Main/ProgrammingTipsForStatisticians">programming tips for statisticians.</a>
 * General <a href="http://cscs.umich.edu/%7Ecrshalizi/weblog/593.html">advice</a> about how to approach programming.
 
@@ -37,14 +37,14 @@ store the ancestral history of a set of DNA sequences. See also:
 
 ## Computing with C/C++
 
-<p>Our group uses the GNU tools, such as the gcc C compiler and the g++ C++ compiler, for software development. How you access these tools depends on your operating system.</p>
+<Our group uses the GNU tools, such as the gcc C compiler and the g++ C++ compiler, for software development. How you access these tools depends on your operating system.
 <h3>Linux</h3>
 <ul>
 <li>GNU tools come with any Linux distribution (Linux itself is GNU) and are available on the Department Linux servers such as queen.rcg.sfu.ca, oak.fas.sfu.ca,&nbsp;rcg-linux-ts1.rcg.sfu.ca and dumbcane.fas.sfu.ca<br>
 </li>
 </ul>
 <h3>Windows</h3>
-<p>Windows users will have to install the tools themselves. Two options are<a href="http://cygwin.com"></a> <a href="www.mingw.org">MinGW</a> and <a href="http://cygwin.com">cygwin.</a><br>
+<p>Windows users will have to install the tools themselves. Two options are <a href="https://sourceforge.net/projects/mingw/">MinGW</a> and <a href="https://www.cygwin.com/">cygwin.</a><br>
 </p>
 <ul>
 <li>MinGW is a contraction of &quot;minimalist GNU for Windows&quot;. Though not as full-featured a toolset as cygwin (see below) MinGW has the advantage that it is able to compile binary executable files that do not rely on any system-specific libraries, making these binary executables portable across systems.<ul>
