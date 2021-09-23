@@ -18,27 +18,19 @@ by Biljana&nbsp; Stojkova and Edouard Djeutem, as part of their course on Statis
 <li>A template for a 3-column poster, courtesy of Jean Shin, is available as a <a href="/content/dam/sfu/stat/documents/Statgen/poster_3column.tar.gz">gzipped tar file</a> (for Unix -- unpack with with tar xzvf poster_3column.tar.gz) or as a <a href="/content/dam/sfu/stat/documents/Statgen/poster_3column.zip">zip file</a> (for Windows). The archive includes a template .tex file and a complete poster.</li>
 </ul>
 
-## R Graphics using the Grid Package
+## Documentation from Sigal Blay
 
-<ul>
-<li> Documentation by Sigal Blay, January 2006 on the grid package, which
-provides a low-level graphics system to produce reusable, editable graphical components.<br>
+* R Graphics using the Grid Package, January 2006.<br> 
+The grid package provides a low-level graphics system to produce reusable, editable graphical components.<br>
 <b>Formats:</b> <a href="http://www.sfu.ca/%7Esblay/R/grid.ppt">PowerPoint</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.sfu.ca/%7Esblay/R/grid.txt">Text file</a></li>
-<li><p><b><a href="http://www.sfu.ca/%7Esblay/R#docs">How to Inspect R package documentation </a></b><br>
-by Sigal Blay, 2005.</p>
-</li>
-<li><p><b>Using the 'snow' R package </b><br>
-by Sigal Blay, January 2005.<br>
+
+
+* <a href="http://www.sfu.ca/%7Esblay/R#docs">How to Inspect R package documentation</a>, 2005
+
+* Using the 'snow' R package, January 2005.<br>
 The 'snow' package provides a high-level interface for using a workstation cluster for parallel computations in R. <b>snow Simplified</b> is a friendly user guide.<br>
 <b>Formats:</b> <a href="http://www.sfu.ca/%7Esblay/R/snow.html">HTML</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.sfu.ca/%7Esblay/R/snow.txt">Text file</a></p>
-</li>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><b>&nbsp;</b></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</ul>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.sfu.ca/%7Esblay/R/snow.txt">Text file</a>
+
 
