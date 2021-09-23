@@ -8,7 +8,7 @@ title: Resources
 
 * These days we do most of our heavy computing on [Compute Canada](https://computecanada.ca).
 See our [Getting started](resources/computecan.html) page for information on registering and accessing these resources.
-* Some useful information is available on and old, and mostly out-of-date, departmental webpage on <a href="https://stat.sfu.ca/research/computing.html">computing</a>. This page will be updated over the coming months.
+* Some useful information is available in and old, and mostly out-of-date, departmental webpage on <a href="https://stat.sfu.ca/research/computing.html">computing</a>. This page will be updated over the coming months.
 * Some useful <a href="http://biostat.mc.vanderbilt.edu/wiki/Main/ProgrammingTipsForStatisticians">programming tips for statisticians.</a>
 * General <a href="http://cscs.umich.edu/%7Ecrshalizi/weblog/593.html">advice</a> about how to approach programming.
 
