@@ -26,7 +26,8 @@ store the ancestral history of a set of DNA sequences. See also:
 
 ## Computing with R
 
-* <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/DIYRpackage.pdf">Creating R packages with RStudio and roxygen2</a>, by Christina Nieuwoudt, based on the evolving online textbook [R packages](https://r-pkgs.org/) by Hadley Wickham and Jenny Bryan. 
+* [RStudio](https://www.rstudio.com/) is an interface, or ["integrated development environment (IDE)"](https://en.wikipedia.org/wiki/Integrated_development_environment) for R
+*  <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/DIYRpackage.pdf">Creating R packages with RStudio and roxygen2</a>, by Christina Nieuwoudt, based on the evolving online textbook [R packages](https://r-pkgs.org/) by Hadley Wickham and Jenny Bryan. 
 * <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/ParallelComputing_inR_CC.pdf">Parallel Computing in R with WestGrid</a>, by Bhagya Karunarathna.
 * Hadley Wickham's [Advanced R](https://adv-r.hadley.nz/) textbook includes useful information on
     * [debugging](https://adv-r.hadley.nz/debugging.html)
@@ -36,10 +37,17 @@ store the ancestral history of a set of DNA sequences. See also:
 
 ## Computing with C/C++
 
-Our group uses the GNU tools, such as the gcc C compiler and the g++ C++ compiler, for software development
-* How you [access these tools](resources/Ctools.html) depends on your operating system
+* Our group uses the GNU tools, such as the gcc C compiler and the g++ C++ compiler, for software development. How you [access these tools](resources/Ctools.html) depends on your operating system
 * The [GNU Scientific Library](https://www.gnu.org/software/gsl/) includes implementations of **many** common scientific functions that you can include in your C or C++ programs. This extensive library includes functions for summary statistics, vectors and matrices, random number generation, linear algebra, Monte Carlo integration and more.
-    
+
+## Computing with Python
+
+* [getting started](https://www.python.org/about/gettingstarted/)
+* [Documentation](https://www.python.org/doc/)
+* A list of [integrated development environments](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments)
+*  **what else are people using?**
+
+
 
 <h2>TeX/LaTeX<br>
 </h2>
