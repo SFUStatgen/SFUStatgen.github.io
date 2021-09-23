@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Website for Graham & McNeney Labs
+# Graham & McNeney Labs
 
 
 ### Welcome!
