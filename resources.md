@@ -6,8 +6,8 @@ title: Resources
 
 ## General Computing
 
-* These days we do most of our heavy computing on [Compute Canada](https://computecanada.ca).
-See our [Getting started](resources/computecan.html) page for information on registering and accessing these resources.
+* These days we do most of our computationally-demanding work on [Compute Canada](https://computecanada.ca).
+See our [Getting started](resources/computecan.html) page for information on registering with Compute Canada and accessing their resources.
 * Some useful information is available in and old, and mostly out-of-date, departmental webpage on <a href="https://stat.sfu.ca/research/computing.html">computing</a>. This page will be updated over the coming months.
 * Some useful <a href="http://biostat.mc.vanderbilt.edu/wiki/Main/ProgrammingTipsForStatisticians">programming tips for statisticians.</a>
 * General <a href="http://cscs.umich.edu/%7Ecrshalizi/weblog/593.html">advice</a> about how to approach programming.
@@ -24,13 +24,16 @@ store the ancestral history of a set of DNA sequences. See also:
     on GitHub and [command-line demo](https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/mspcommands.txt)
     * Documentation for the [tskit](https://tskit.dev/tskit/docs/stable/) Python package that implements the "succinct tree sequences" data structure that underlies msprime.
 * [SLiM](https://messerlab.org/slim/)
-    * Add Nirodha's tutorial **FIX ME**
-<h2><b>Computing with R</b></h2>
-<ul>
-<li><a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/DIYRpackage.pdf">Creating R packages with RStudio and roxygen2</a>, by Christina Nieuwoudt.</li>
-<li><a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/ParallelComputing_inR_CC.pdf">Parallel Computing in R with WestGrid</a>, by Bhagya Karunarathna.</li>
-<li><a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/RcppandR.pdf">Integrating R with C++ and C</a>, by Biljana&nbsp; Stojkova and Edouard Djeutem, as part of their course on Statistical Computing. Biljana has also provided a link to her <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/FinalReport.pdf">final proje</a>ct from Stat Computing, including the <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/R%20Functions%20and%20Data%20supporting%20Final%20Report.rar">R scripts and other fil</a>es that support the project.</li>
-</ul>
+
+## Computing with R
+
+* <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/DIYRpackage.pdf">Creating R packages with RStudio and roxygen2</a>, by Christina Nieuwoudt, based on the evolving online textbook [R packages](https://r-pkgs.org/) by Hadley Wickham and Jenny Bryan. 
+* <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/ParallelComputing_inR_CC.pdf">Parallel Computing in R with WestGrid</a>, by Bhagya Karunarathna.
+* If you are looking to speed things up, consider using [Rcpp](http://www.rcpp.org/) to integrate C++ code into your R code. See also:
+    *  <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/RcppandR.pdf">Integrating R with C++ and C</a>, 
+    by Biljana&nbsp; Stojkova and Edouard Djeutem, as part of their course on Statistical Computing. 
+    * Biljana has also provided a link to her <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/FinalReport.pdf">final proje</a>ct from Stat Computing, including the <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/R%20Functions%20and%20Data%20supporting%20Final%20Report.rar">R scripts and other files</a> that support the project.
+
 
 ## Computing with C/C++
 
