@@ -38,7 +38,17 @@ store the ancestral history of a set of DNA sequences. See also:
 ## Computing with C/C++
 
 Our group uses the GNU tools, such as the gcc C compiler and the g++ C++ compiler, for software development
-* 
+* How you [access these tools](resources/Ctools.html) depends on your operating system
+* The [GNU Scientific Library](https://www.gnu.org/software/gsl/) includes implementations of **many** common scientific functions that you can include in your C or C++ programs. Here is a sample of the subject areas covered by the GSL:
+    * statistics, such as means, variances, correlations, order statistics, etc.
+    * vectors and matrices,
+    * random number generation
+    * Monte Carlo integration
+    * least squares
+    * linear algebra
+    * and more ...
+    
+
 <h2>TeX/LaTeX<br>
 </h2>
 <ul>
@@ -91,34 +101,3 @@ Our group uses the GNU tools, such as the gcc C compiler and the g++ C++ compile
 </ul>
 A typical sized poster (4ft-by-3ft) costs $48 (REM), $48~$72 (cornerstone) and $72 ~ $84 (IRMACS).</li>
 </ul>
-<h2><b>Old Documents <br>
-</b></h2>
-<p>&nbsp;</p>
-<ul>
-<li>Templates for LaTeX posters:<ul>
-<li>A template for a 2-column poster, courtesy of Kelly Burkett, is available as a <a href="/content/dam/sfu/stat/documents/Statgen/poster_2column.tar.gz">gzipped tar file</a> (for Unix -- unpack with with tar xzvf poster_2column.tar.gz) or as a <a href="/content/dam/sfu/stat/documents/Statgen/poster_2column.zip">zip file</a> (for Windows). The archive includes a template .tex file and a complete poster.</li>
-<li>A template for a 3-column poster, courtesy of Jean Shin, is available as a <a href="/content/dam/sfu/stat/documents/Statgen/poster_3column.tar.gz">gzipped tar file</a> (for Unix -- unpack with with tar xzvf poster_3column.tar.gz) or as a <a href="/content/dam/sfu/stat/documents/Statgen/poster_3column.zip">zip file</a> (for Windows). The archive includes a template .tex file and a complete poster.</li>
-</ul>
-</li>
-<li><b>R Graphics using the Grid Package</b><br>
-by Sigal Blay, January 2006.<br>
-The grid package provides a low-level graphics system to produce reusable, editable graphical components.<br>
-<b>Formats:</b> <a href="http://www.sfu.ca/%7Esblay/R/grid.ppt">PowerPoint</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.sfu.ca/%7Esblay/R/grid.txt">Text file</a></li>
-<li><p><b><a href="http://www.sfu.ca/%7Esblay/R#docs">How to Inspect R package documentation </a></b><br>
-by Sigal Blay, 2005.</p>
-</li>
-<li><p><b>Using the 'snow' R package </b><br>
-by Sigal Blay, January 2005.<br>
-The 'snow' package provides a high-level interface for using a workstation cluster for parallel computations in R. <b>snow Simplified</b> is a friendly user guide.<br>
-<b>Formats:</b> <a href="http://www.sfu.ca/%7Esblay/R/snow.html">HTML</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.sfu.ca/%7Esblay/R/snow.txt">Text file</a></p>
-</li>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><b>&nbsp;</b></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</ul>
-
