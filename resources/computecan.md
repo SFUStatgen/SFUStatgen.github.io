@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Compute Canada
+---
 
 # Getting started with Compute Canada
 
