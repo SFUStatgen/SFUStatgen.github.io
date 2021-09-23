@@ -29,11 +29,11 @@ store the ancestral history of a set of DNA sequences. See also:
 
 * <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/DIYRpackage.pdf">Creating R packages with RStudio and roxygen2</a>, by Christina Nieuwoudt, based on the evolving online textbook [R packages](https://r-pkgs.org/) by Hadley Wickham and Jenny Bryan. 
 * <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/ParallelComputing_inR_CC.pdf">Parallel Computing in R with WestGrid</a>, by Bhagya Karunarathna.
-* If you are looking to speed things up, consider using [Rcpp](http://www.rcpp.org/) to integrate C++ code into your R code. See also:
-    *  <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/RcppandR.pdf">Integrating R with C++ and C</a>, 
-    by Biljana&nbsp; Stojkova and Edouard Djeutem, as part of their course on Statistical Computing. 
-    * Biljana has also provided a link to her <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/FinalReport.pdf">final proje</a>ct from Stat Computing, including the <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/R%20Functions%20and%20Data%20supporting%20Final%20Report.rar">R scripts and other files</a> that support the project.
-
+* Hadley Wikham's online [Advanced R](https://adv-r.hadley.nz/) textbook includes useful information on
+    * [debugging](https://adv-r.hadley.nz/debugging.html)
+    * [profiling](https://adv-r.hadley.nz/perf-measure.html)
+    * [optimizing](https://adv-r.hadley.nz/perf-improve.html) and
+    * [integrating C++](https://adv-r.hadley.nz/rcpp.html) using [Rcpp](http://www.rcpp.org/). 
 
 ## Computing with C/C++
 
