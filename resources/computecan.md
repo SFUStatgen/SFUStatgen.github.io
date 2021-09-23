@@ -41,5 +41,4 @@ Feel free to ask other members (particularly other students) in the group for ad
 * See the [Parallel Computing in R with WestGrid](https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/ParallelComputing_inR_CC.pdf)
  presentation by Bhagya Karunarathna.
 
-* 
 
