@@ -8,7 +8,7 @@ title: Resources
 
 * These days we do most of our heavy computing on [Compute Canada](https://computecanada.ca).
 See our [Getting started](resources/computecan.html) page for information on registering and accessing these resources.
-* Some useful information is available on old, and mostly out-of-date, departmental webpage on <a href="https://stat.sfu.ca/research/computing.html">computing</a>. This page will be updated over the coming months.
+* Some useful information is available on and old, and mostly out-of-date, departmental webpage on <a href="https://stat.sfu.ca/research/computing.html">computing</a>. This page will be updated over the coming months.
 * Some useful <a href="http://biostat.mc.vanderbilt.edu/wiki/Main/ProgrammingTipsForStatisticians">programming tips for statisticians.</a>
 * General <a href="http://cscs.umich.edu/%7Ecrshalizi/weblog/593.html">advice</a> about how to approach programming.
 
@@ -17,7 +17,7 @@ See our [Getting started](resources/computecan.html) page for information on reg
 
 * Dick Hudson's [ms program](http://home.uchicago.edu/rhudson1/source/mksamples.html)
 * [fastsimcoal2](http://cmpg.unibe.ch/software/fastsimcoal2)
-* [msprime](https://tskit.dev/msprime/docs/stable/intro.html): a Python package for simulation. See also:
+* [msprime](https://tskit.dev/msprime/docs/stable/intro.html): a Python package for simulation
 that uses a novel "succinct tree sequences" data structure to efficiently
 store the ancestral history of a set of DNA sequences. See also:
     * Payman Nickchi's [tutorial materials](https://github.com/paymannickchi/msprime) 
@@ -25,7 +25,6 @@ store the ancestral history of a set of DNA sequences. See also:
     * Documentation for the [tskit](https://tskit.dev/tskit/docs/stable/) Python package that implements the "succinct tree sequences" data structure that underlies msprime.
 <h2><b>Computing with R</b></h2>
 <ul>
-<li>Configuring the necessary <a href="/content/sfu/stat/statgen/resources/r-tools-for-building-packages-on-windows.html">R tools to allow you to build your own R packages on Windows</a>.</li>
 <li><a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/DIYRpackage.pdf">Creating R packages with RStudio and roxygen2</a>, by Christina Nieuwoudt.</li>
 <li><a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/ParallelComputing_inR_CC.pdf">Parallel Computing in R with WestGrid</a>, by Bhagya Karunarathna.</li>
 <li><a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/RcppandR.pdf">Integrating R with C++ and C</a>, by Biljana&nbsp; Stojkova and Edouard Djeutem, as part of their course on Statistical Computing. Biljana has also provided a link to her <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/FinalReport.pdf">final proje</a>ct from Stat Computing, including the <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/R%20Functions%20and%20Data%20supporting%20Final%20Report.rar">R scripts and other fil</a>es that support the project.</li>
@@ -93,7 +92,7 @@ If this installation method does not work for you, this <a href="http://stackove
 <li>Regular paper only; $48 for an A0 poster.<br>
 </li>
 <li>If you send a pdf file to Laurence Lee (laurence_lee@sfu.ca) by 11AM, you can have the poster by 2 or 3PM in the same day</li>
-<li>You can send the grant account number to be charged to Laurence. Sadika can provide the account number that is required.&nbsp;<br>
+<li>You can send the grant account number to be charged to Laurence. Charlene can provide the account number that is required.&nbsp;<br>
 </li>
 <li>Before they release your poster to you, your supervisor needs to sign an invoice to agree to have their account charged.&nbsp; You need to return this invoice to the REM office.&nbsp; It's also possible to pick up a hard copy of the invoice before your poster is done printing to have signed by your supervisor.</li>
 <li>I'm not sure which option is best, but it would be a good idea to ask about the invoice with Laurence when you place your order to make sure that you will be able to get your poster in time.</li>
