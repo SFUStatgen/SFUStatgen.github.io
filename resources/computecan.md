@@ -5,7 +5,7 @@ title: Compute Canada
 
 # Getting started with Compute Canada
 
-### Register for an account
+### Registering for an account
 
 Before you can use the Compute Canada resources you will need to register for an account. Your account will be linked to a "sponsor", 
 so before you start the registration, send an email to your supervisor (Jinko or Brad) and ask them for their Compute Canada
@@ -19,16 +19,16 @@ and click on "Register" near the bottom right. Fill out the following applicatio
 student, as appropriate, under "Sponsored User". After you submit the form, the Compute Canada system should send your supervisor
 an email to approve your request. Please let them know when you submit the form so that they can keep an eye out for the approval email.
 
-### Get to know Unix
+### Getting to know Unix
 
-If you are unfamiliar with Unix, you can consult an online tutorial, such as [this one](https://www.cs.sfu.ca/~ggbaker/reference/unix/) written by Greg Baker.
+The Compute Canada servers run the Unix operating system. If you are unfamiliar with Unix, you can consult an online tutorial, such as [this one](https://www.cs.sfu.ca/~ggbaker/reference/unix/).
 
 ### Logging in to cedar
 
 The cluster that we use most is called [cedar.computecanada.ca](https://docs.computecanada.ca/wiki/Cedar). You will need to log in 
-with an SSH client. See the Compute Canada [documentation on SSH](https://docs.computecanada.ca/wiki/SSH) for details.
+with an SSH client. See the Compute Canada [documentation on SSH](https://docs.computecanada.ca/wiki/SSH) for more information.
 
-### Running jobs
+### Running your jobs
 
 To run a job you must create what's called a "batch script" and submit it to a "scheduler". 
 
@@ -43,6 +43,6 @@ Feel free to ask other members (particularly other students) in the group for ad
 ### Running R in batch mode
 
 * See the [Parallel Computing in R with WestGrid](https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/ParallelComputing_inR_CC.pdf)
- presentation by Bhagya Karunarathna.
+ presentation by Bhagya Karunarathna. (Note: WestGrid is the western-Canada division of Compute Canada.)
 
 
