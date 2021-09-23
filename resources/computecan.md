@@ -13,7 +13,7 @@ user ID (CCRI).
 
 Next, go to the Compute Canada login/registration page at
 
-https://ccdb.computecanada.ca/security/login
+[https://ccdb.computecanada.ca/security/login](https://ccdb.computecanada.ca/security/login)
 
 and click on "Register" near the bottom right. Fill out the following application pages. When asked about your "Position" say MSc or PhD 
 student, as appropriate, under "Sponsored User". After you submit the form, the Compute Canada system should send your supervisor
