@@ -6,7 +6,7 @@ title: Resources
 
 ## Compute Canada
 
-* TO ADD
+* See the [Getting started](resources/computecan.html) page
 
 ## General Computing
 * FIX
