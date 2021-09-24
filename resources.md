@@ -60,14 +60,14 @@ store the ancestral history of a set of DNA sequences. See also:
 </li>
 <li>LaTeX posters:<ul>
 <li>The package tizkposter is popular these days.<ul>
-<li>Download the LaTeX package <a href="http://mirrors.ctan.org/graphics/pgf/contrib/tikzposter.zip">zipfile</a>,</li>
+<li>Download the LaTeX package <a href="https://mirrors.ctan.org/graphics/pgf/contrib/tikzposter.zip">zipfile</a>,</li>
 <li>use unzip to unpack it into its own directory,</li>
 <li>change to this directory and run &quot;latex tikzposter.ins&quot; to generate the class files and examples.</li>
 <li>The documentation file is tikzposter.pdf. An example poster is in the file tikzposter-example.tex. A template that you can use as a starting point for your own posters is in the file tizkposter-template.tex.</li>
 </ul>
 </li>
 <li>Another possibility is the beamerposter package, which you may prefer over tikzposter if you use beamer for presentations.<ul>
-<li>Downoad the LaTeX package <a href="http://mirrors.ctan.org/macros/latex/contrib/beamerposter.zip">zipfile</a>,</li>
+<li>Downoad the LaTeX package <a href="https://mirrors.ctan.org/macros/latex/contrib/beamerposter.zip">zipfile</a>,</li>
 <li>use unzip to unpack it into its own directory and change to this directory.</li>
 <li>The documentation is in the file beamerposter.pdf, and an example is in the file example.tex.</li>
 </ul>
