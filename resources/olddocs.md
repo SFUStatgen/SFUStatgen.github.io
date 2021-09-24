@@ -3,6 +3,10 @@ layout: default
 title: Old Documents
 ---
 
+# Old Documentation
+
+Warning: possibly out of date
+
 ## Rcpp
 
 *  <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/RcppandR.pdf">Integrating R with C++ and C</a>, 
