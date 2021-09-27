@@ -19,5 +19,5 @@ Fax:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;778.782.4368<br>
 
 ## How to find us:
 
-<a href="http://www.sfu.ca/sub/about/maps-and-directions/burnaby.html">Map</a> of campus and directions. The Department is located in the Kinesiology wing of the Shrum Science Centre (select &quot;Shrum Centre Kinesiology&quot; from the drop-down list of buildings on the map).
+<a href="https://www.sfu.ca/sub/about/maps-and-directions/burnaby.html">Map</a> of campus and directions. The Department is located in the Kinesiology wing of the Shrum Science Centre (select &quot;Shrum Centre Kinesiology&quot; from the drop-down list of buildings on the map).
 
