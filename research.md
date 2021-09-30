@@ -125,14 +125,29 @@ An R package to identify cryptic relatedness in genetic association studies. For
 ## Posters
 
 <table cellspacing="0" cellpadding="1" border="0" style="font-family: tahoma , arial , helvetica , sans-serif;">
-<tbody><tr><td valign="top" width="90"><p>May 2019</p>
-<p>&nbsp;</p>
-<p>August 2018</p>
-</td>
-<td><p>Annual Meeting of the Statistical Society of Canada, Calgary AB; Sampling Partial Genealogies Using Sequential Importance Sampling. D Liu (presenter) and J Graham.</p>
-
-</td>
-</tr><tr><td valign="top" width="90">August 2018</td>
+<tbody>
+ <tr>
+    <td valign="top" width="90">Oct. 2021</td>
+    <td>International Genetic Epidemiology Annual Meeting, online; A Comparison of Association Methods for Fine-mapping Rare Variants in Case-Control Studies. P. Nickchi (presenter) C. Karunarathna and J Graham
+    </td>
+ </tr>
+  <tr>
+    <td valign="top" width="90">Oct. 2021</td>
+    <td>International Genetic Epidemiology Annual Meeting, online; Shrinkage Parameter Estimation in Penalized Logistic Regression Analysis of Case-Control Data.  Y. Yu (presenter) S. Chen and B. McNeney
+    </td>
+ </tr>
+  <tr>
+    <td valign="top" width="90">Oct. 2021</td>
+    <td>International Genetic Epidemiology Annual Meeting, online; Re-analysis of a Genome-Wide Gene-By-Environment Interaction Study of Case Parent Trios, Adjusted
+for Population Stratification. P. Ratnasekera (presenter), J. Graham and B. McNeney
+    </td>
+ </tr>
+  <tr>
+    <td valign="top" width="90">May 2019</td>
+    <td><p>Annual Meeting of the Statistical Society of Canada, Calgary AB; Sampling Partial Genealogies Using Sequential Importance Sampling. D Liu (presenter) and J Graham.</p>
+    </td>
+ </tr>
+  <tr><td valign="top" width="90">August 2018</td>
 <td>Workshop on&nbsp;New Statistical Methods for Family-Based Sequencing Studies,&nbsp;Banff International Research Station (BIRS), Banff, AB;&nbsp;SimRVSequences: Simulating Sequence Data for Pedigrees. C Nieuwoudt (presenter), A Brooks-Wilson and J Graham.</td>
 </tr><tr><td valign="top" width="90">August 2018</td>
 <td>Workshop on&nbsp;New Statistical Methods for Family-Based Sequencing Studies,&nbsp;Banff International Research Station (BIRS), Banff, AB;&nbsp;On Using Gene Genealogies to Find Trait-Influencing Variants, P Nickchi (presenter) and J Graham.</td>
