@@ -128,18 +128,18 @@ An R package to identify cryptic relatedness in genetic association studies. For
 <tbody>
  <tr>
     <td valign="top" width="90">Oct. 2021</td>
-    <td>International Genetic Epidemiology Annual Meeting, online; A Comparison of Association Methods for Fine-mapping Rare Variants in Case-Control Studies. P. Nickchi (presenter) C. Karunarathna and J Graham
+    <td>International Genetic Epidemiology Annual Meeting, online; A Comparison of Association Methods for Fine-mapping Rare Variants in Case-Control Studies. P Nickchi (presenter) C Karunarathna and J Graham
     </td>
  </tr>
   <tr>
     <td valign="top" width="90">Oct. 2021</td>
-    <td>International Genetic Epidemiology Annual Meeting, online; Shrinkage Parameter Estimation in Penalized Logistic Regression Analysis of Case-Control Data.  Y. Yu (presenter) S. Chen and B. McNeney
+    <td>International Genetic Epidemiology Annual Meeting, online; Shrinkage Parameter Estimation in Penalized Logistic Regression Analysis of Case-Control Data.  Y Yu (presenter) S Chen and B McNeney
     </td>
  </tr>
   <tr>
     <td valign="top" width="90">Oct. 2021</td>
     <td>International Genetic Epidemiology Annual Meeting, online; Re-analysis of a Genome-Wide Gene-By-Environment Interaction Study of Case Parent Trios, Adjusted
-for Population Stratification. P. Ratnasekera (presenter), J. Graham and B. McNeney
+for Population Stratification. P Ratnasekera (presenter), J Graham and B McNeney
     </td>
  </tr>
   <tr>
