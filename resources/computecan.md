@@ -38,7 +38,7 @@ To run a job you must create what's called a "batch script" and submit it to a "
 ### Getting help
 
 * WestGrid (the Western Canada division of Compute Canada) has its own [youtube channel](https://www.youtube.com/user/WGSeminarSeries) where they post videos of past seminars/webinars.
-* Sharcnet (the Ontario division of Compute Canada) also has [youtube channel](https://www.youtube.com/channel/UCCRmb5_GMWT2hSlALHlwIMg). Their "new users" webinars look useful.
+* Sharcnet (the Ontario division of Compute Canada) also has a [youtube channel](https://www.youtube.com/channel/UCCRmb5_GMWT2hSlALHlwIMg). Their "new users" webinars look useful.
 * Contact [Compute Canada tech support](https://docs.computecanada.ca/wiki/Technical_support).
 
 ### Running R in batch mode
