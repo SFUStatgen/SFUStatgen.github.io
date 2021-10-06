@@ -48,6 +48,3 @@ To run a job you must create what's called a "batch script" and submit it to a "
 * See the [Parallel Computing in R with WestGrid](https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/ParallelComputing_inR_CC.pdf)
  presentation by Bhagya Karunarathna. (Note: WestGrid is the western-Canada division of Compute Canada.)
 
-### Serial jobs
-
-* Our group often runs Monte Carlo simulations. The task is to run the same program over and over with different inputs or random seeds. This is an example of 
