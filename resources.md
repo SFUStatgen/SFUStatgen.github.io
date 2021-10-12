@@ -52,7 +52,7 @@ store the ancestral history of a set of DNA sequences. See also:
 
 Some tips from Michael Pyrcz, U. of Texas Austin:
 
-<img src="assets/images/RtoR_tips.png" alt="respreview" width="90%">
+<img src="assets/images/RtoR_tips.png" alt="respreview" width="100%">
 
 
 <h2>TeX/LaTeX<br>
