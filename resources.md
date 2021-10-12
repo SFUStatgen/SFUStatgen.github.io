@@ -4,13 +4,9 @@ title: Resources
 ---
 # Research and Computing Resources
 
-## Responding to reviewrs
+## Computing
 
-Some tips from Michael Pyrcz, U. of Texas Austin:
-
-<img src="assets/images/RtoR_tips.png" alt="respreview" width="80%">
-
-## General Computing
+#### General Computing
 
 * These days we do most of our computationally-demanding work on [Compute Canada](https://computecanada.ca).
 See our [getting started](resources/computecan.html) page for information on registering with Compute Canada and accessing their resources.
@@ -18,7 +14,7 @@ See our [getting started](resources/computecan.html) page for information on reg
 * Advice on scientific computing for [beginners](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510) and more [advanced](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745) users, from the people who developped the [Software and Data Carpentry](https://carpentries.org/) workshops.
 
 
-## Simulating Genomic Data
+#### Simulating Genomic Data
 
 * Dick Hudson's [ms program](http://home.uchicago.edu/rhudson1/source/mksamples.html)
 * [fastsimcoal2](http://cmpg.unibe.ch/software/fastsimcoal2)
@@ -30,7 +26,7 @@ store the ancestral history of a set of DNA sequences. See also:
     * Documentation for the [tskit](https://tskit.dev/tskit/docs/stable/) Python package that implements the "succinct tree sequences" data structure that underlies msprime.
 * [SLiM](https://messerlab.org/slim/)
 
-## Computing with R
+#### Computing with R
 
 * [RStudio](https://www.rstudio.com/) is an interface, or ["integrated development environment (IDE)"](https://en.wikipedia.org/wiki/Integrated_development_environment) for R
 *  <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/DIYRpackage.pdf">Creating R packages with RStudio and roxygen2</a>, by Christina Nieuwoudt, based on the evolving online textbook [R packages](https://r-pkgs.org/) by Hadley Wickham and Jenny Bryan. 
@@ -41,17 +37,22 @@ store the ancestral history of a set of DNA sequences. See also:
     * [optimizing](https://adv-r.hadley.nz/perf-improve.html) and
     * [integrating C++](https://adv-r.hadley.nz/rcpp.html) using [Rcpp](http://www.rcpp.org/). 
 
-## Computing with C/C++
+#### Computing with C/C++
 
 * Our group uses the GNU tools, such as the gcc C compiler and the g++ C++ compiler, for software development. How you [access these tools](resources/Ctools.html) depends on your operating system
 * The [GNU Scientific Library](https://www.gnu.org/software/gsl/) includes implementations of **many** common scientific functions that you can include in your C or C++ programs. This extensive library includes functions for summary statistics, vectors and matrices, random number generation, linear algebra, Monte Carlo integration and more.
 
-## Computing with Python
+#### Computing with Python
 
 * [Getting started](https://www.python.org/about/gettingstarted/)
 * [Documentation](https://www.python.org/doc/)
 * [Integrated development environments](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments)
 
+## Responding to reviewrs
+
+Some tips from Michael Pyrcz, U. of Texas Austin:
+
+<img src="assets/images/RtoR_tips.png" alt="respreview" width="80%">
 
 
 <h2>TeX/LaTeX<br>
