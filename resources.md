@@ -4,6 +4,12 @@ title: Resources
 ---
 # Research and Computing Resources
 
+## Responding to reviewrs
+
+Some tips from Michael Pyrcz, U. of Texas Austin:
+
+<img src="assets/images/RtoR_tips.png" alt="respreview" width="400">
+
 ## General Computing
 
 * These days we do most of our computationally-demanding work on [Compute Canada](https://computecanada.ca).
