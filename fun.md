@@ -10,5 +10,5 @@ Graduation celebration for Bhagya and Christina, Sept. 13, 2021. L to R: Brad, J
 
 Bhagya's convocation at SFU, Oct. 7, 2021
 
-![Bhagya convo1](assets/images/BK.JPG)
-![Bhagya convo1](assets/images/BKJG.jpeg)
+<img src="assets/images/BK.JPG" alt="BhagyaConvo1" width="400">
+<img src="assets/images/BKJG.jpeg" alt="BhagyaConvo2" width="400">
