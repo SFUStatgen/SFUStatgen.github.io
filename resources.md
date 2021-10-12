@@ -8,7 +8,7 @@ title: Resources
 
 Some tips from Michael Pyrcz, U. of Texas Austin:
 
-<img src="assets/images/RtoR_tips.png" alt="respreview" width="400">
+<img src="assets/images/RtoR_tips.png" alt="respreview" width="80%">
 
 ## General Computing
 
