@@ -5,7 +5,7 @@ title: Members
 # Current Members
 
 <ul>
-<li><a href="http://www.stat.sfu.ca/%7Ejgraham">Jinko Graham</a>, Faculty, Statistics &amp; Actuarial Science, SFU<br>
+<li><a href="https://jinkog.github.io">Jinko Graham</a>, Faculty, Statistics &amp; Actuarial Science, SFU<br>
 </li>
 <li><a href="https://mcneney.github.io/">Brad McNeney</a>, Faculty, Statistics &amp; Actuarial Science, SFU</li>
 <li>Dongmeng Liu, PhD student, Statistics &amp; Actuarial Science, SFU</li>
