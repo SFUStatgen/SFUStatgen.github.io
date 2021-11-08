@@ -14,7 +14,7 @@ title: Meetings
    <tr>
     <td width="55" valign="top">Nov. 19, 2021</td>
     <td width="90" valign="top">Payman Nickchi (SFU)</td>
-    <td width="330" valign="top">CANSSI Showcase lightning talk: A Comparison of Association Methods for Fine-mapping Rare Variants in Case-Control Studies</td>
+    <td width="330" valign="top">CANSSI Showcase lightning talk: A comparison of association methods for fine-mapping rare variants in case-control studies</td>
     <td valign="top">Zoom,&nbsp; 12:00-1:00</td>
    </tr>
    <tr>
