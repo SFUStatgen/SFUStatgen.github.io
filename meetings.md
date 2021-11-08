@@ -12,6 +12,12 @@ title: Meetings
 <table cellspacing="10">
 <tbody>
    <tr>
+    <td width="55" valign="top">Nov. 19, 2021</td>
+    <td width="90" valign="top">Payman Nickchi (SFU)</td>
+    <td width="330" valign="top">CANSSI Showcase lightning talk: A Comparison of Association Methods for Fine-mapping Rare Variants in Case-Control Studies</td>
+    <td valign="top">Zoom,&nbsp; 12:00-1:00</td>
+   </tr>
+   <tr>
     <td width="55" valign="top">Sept. 13, 2021</td>
     <td width="90" valign="top">Christina Nieuwoudt (SFU)</td>
     <td width="330" valign="top">PhD defence: Simulation and statistical methods for family-based sequencing studies</td>
