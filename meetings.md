@@ -6,8 +6,10 @@ title: Meetings
 # Meetings/Talks
 
 
-<p>Here is our philosophy on <a href="meetings/jclub.html">journal clubs</a>.</p>
-<p>Many of our meeting/talks are part of the <a href="https://wiki.its.sfu.ca/research/sils/index.php/Main_Page">SiLS working group</a> journal club. Below are talks not affiliated with SiLS.</p>
+<p>Here is our philosophy on <a href="meetings/jclub.html">journal clubs</a>.
+   Many of our meeting/talks are part of the 
+   <a href="https://wiki.its.sfu.ca/research/sils/index.php/Main_Page">SiLS working group</a> journal club. 
+   Below are talks not affiliated with SiLS.</p>
 <p><b>Schedule:</b></p>
 <table cellspacing="10">
 <tbody>
