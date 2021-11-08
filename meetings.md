@@ -7,8 +7,8 @@ title: Meetings
 
 
 <p>Here is our philosophy on <a href="meetings/jclub.html">journal clubs</a>.</p>
-<p><b>Schedule:</b></p>
 <p>See the <a href="https://wiki.its.sfu.ca/research/sils/index.php/Main_Page">SiLS working group website</a> for recent journal clubs.</p>
+<p><b>Schedule:</b></p>
 <table cellspacing="10">
 <tbody>
    <tr>
@@ -53,7 +53,7 @@ title: Meetings
 <td valign="top">Zoom,&nbsp; 11:30-11:45</td>
 </tr><tr><td width="55" valign="top">Jun. 8, 2021</td>
 <td width="90" valign="top">Pulindu Ratnasekera (SFU)</td>
-<td width="330" valign="top">SSC 2021, Session on Understanding Genes and the Genome: Re-analysis of a Genome-Wide Gene-By-Environment Interaction Study of Case Parent Trios, Adjusted for Population Stratification</td>
+<td width="330" valign="top">SSC 2021, Session on Understanding Genes and the Genome: Re-analysis of a genome-wide gene-by-environment interaction study of case parent trios, adjusted for population stratification</td>
 <td valign="top">Zoom,&nbsp; 11:00-11:15</td>
 </tr><tr><td width="55" valign="top">Aug. 19, 2020</td>
 <td width="90" valign="top">Coco Liu (SFU)</td>
