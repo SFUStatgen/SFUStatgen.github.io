@@ -2,6 +2,7 @@
 layout: default
 title: Introduction to Compute Canada
 ---
+# Introduction to Compute Canada
 
 ## Resources for working on Compute Canada
 
