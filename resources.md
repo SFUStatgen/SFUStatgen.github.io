@@ -9,8 +9,8 @@ title: Resources
 #### General Computing
 
 * These days we do most of our computationally-demanding work on [Compute Canada](https://computecanada.ca).
-See our [Compute Canada resources](resources/computecan.html) page for information on registering with Compute Canada and using their
-resources for your computing with our group.
+See our [Compute Canada introduction](resources/computecan.html) page for information on registering with Compute Canada and using their
+resources.
 * The Department's [computing resources](https://www.sfu.ca/stat-actsci/research/research-resources/computing-research.html) webpage gives information on getting help at SFU, access to our Unix network, and links to software that is available to SFU faculty, staff and students.
 * Advice on scientific computing for [beginners](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510) and more [advanced](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745) users, from the people who developped the [Software and Data Carpentry](https://carpentries.org/) workshops.
 

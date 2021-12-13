@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Compute Canada
+title: Introduction to Compute Canada
 ---
 
 ## Resources for working on Compute Canada
 
-We have a few pages to get people started:
-* [Getting started](computecan_gettingstarted.md), including information on registering for an account, learning Unix, and logging in to the system.
+See
+* [Getting started](computecan_gettingstarted.md), for information on registering for an account, learning Unix, and logging in to the system.
 * [Running jobs](computecan_runningjobs.md), for information on creating batch scripts and submitting them to the scheduler
-* [Working with files and file quotas](computecan_filesquotas.md),for information about the Compute Canada filesystem and quota system.
+* [Working with files and file quotas](computecan_filesquotas.md), for information about the Compute Canada filesystem and quota system.
 
 ### Getting help
 
