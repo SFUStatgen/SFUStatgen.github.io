@@ -2,6 +2,7 @@
 layout: default
 title: Working with files and disk quotas on Compute Canada
 ---
+
 # Compute Canada files and quotas
 
 This information is specific to the cluster cedar.computecanada.ca 
@@ -22,8 +23,13 @@ as user `<user>` you will be in the `/home/<user>` directory.
 ## Purpose of each disk
 
 Roughly speaking
-* `\home` is for code and other files that you work with but don't need to share with anyone
-* `/project` is for files that need to be stored long-term and shared with others
+* `/home` is for code and other files that you work with but don't need to share with anyone.
+    * Note: You should plan to share **everything** you do that leads
+    to research output, such as a thesis or paper. This is a basic
+    requirement of open science.
+* `/project` is for files that need to be stored long-term and shared with others.
+    * Scripts and data needed to reproduce your research findings should go here. 
+    * Most of the research we do is as a group and should be saved in the group's shared directory. See the **SFU Statgen datasharing group** below.
 * `/scratch` is for your computing. 
     * Copy scripts and data needed for your jobs from `/home` or `/project`, and run the jobs from your `/scratch/<user>` diretory (or a sub-directory). 
     * Output files will end up in the same directory you run from. 
@@ -33,9 +39,15 @@ Roughly speaking
 
 * You have quotas on each disk. 
 * On `/home` you have about 50GB, on `/project` you have about 2GB and on `/scratch` you have about 20TB. 
-* In addition to your 2GB on /project, your sponsor (jgraham or mcneney) has a 1TB quota. 
+* In addition to your personal 2GB quota on `/project`, your sponsor (jgraham or mcneney) has a 1TB `/project` quota. 
 * Files count towards quotas according to (i) which disk they are on and (ii) which "group owner" they have (see below for information on Unix groups).
-* Files that reside *anywhere* on `/project` with group ownership `<user>` count towards the user's personal `/project` quota, files on `/project` with group ownership `def-jgraham` count towards Jinko's 1TB `/project` quota and files on `/project` with group ownership `def-mcneney` count towards Brad's 1TB `/project` quota.
+* Files in `/project` with group ownership `<user>` count towards the user's personal `/project` quota, files on `/project` with group ownership `def-jgraham` count towards Jinko's 1TB `/project` quota and files on `/project` with group ownership `def-mcneney` count towards Brad's 1TB `/project` quota.
+    * Important note: It doesn't matter where on `/project` a file is, only
+    its group ownership. For example, if Jinko gives Brad permission to 
+    write files in `/project/def-jgraham/` and he moves a file there 
+    that has group ownership `def-mcneney`, the file counts against 
+    **his** `def-mcneney` `/project` quota, not Jinko's.
+
 
 ## Copying files to `/project`
 
@@ -43,7 +55,7 @@ Roughly speaking
 cp first, then rm old copy, sets group ownership to def-<sponsor>
 
 
-## Shared space
+## SFU Statgen datasharing group
 
 * shared space between two sponsors is ...
 * Use cp and rm, not mv, to move files from home or scratch to project.
