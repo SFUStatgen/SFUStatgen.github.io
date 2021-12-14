@@ -41,8 +41,8 @@ Roughly speaking
 * On `/home` you have 50GB, on `/project` you have 2GB and on `/scratch` you have 20TB. 
 * In addition to your personal 2GB quota on `/project`, your sponsor (jgraham or mcneney) has a 1TB `/project` quota. 
 * Files count towards quotas according to (i) which disk they are on and (ii) which "group owner" they have (see below for information on Unix groups).
-* Files in `/home/<user>` and `/scratch/<user>` should always have group ownership `<user>` and will count towards the user's quote on those disks.
-* Files in `/project` with group ownership `<user>` count towards the user's 2GB personal `/project` quota, files on `/project` with group ownership `def-jgraham` count towards Jinko's 1TB `/project` quota and files on `/project` with group ownership `def-mcneney` count towards Brad's 1TB `/project` quota.
+* Files in `/home/<user>` and `/scratch/<user>` should always have group ownership `<user>` and will count towards the user's quota on those disks.
+* Files in `/project` with group ownership `<user>` count towards the user's 2GB personal `/project` quota, files in `/project` with group ownership `def-jgraham` count towards Jinko's 1TB `/project` quota and files in `/project` with group ownership `def-mcneney` count towards Brad's 1TB `/project` quota.
     * Important note: As far as quotas go, it doesn't 
     matter where on `/project` a file is, only
     its group ownership. For example, if Jinko gives Brad permission to 
