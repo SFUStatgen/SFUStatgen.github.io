@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Working with files and disk quotas on Compute Canada
+title: Compute Canada files and quotas
 ---
 
 # Compute Canada files and quotas
@@ -25,43 +25,54 @@ as user `<user>` you will be in the `/home/<user>` directory.
 Roughly speaking
 * `/home` is for code and other files that you work with but don't need to share with anyone.
     * Note: You should plan to share **everything** you do that leads
-    to research output, such as a thesis or paper. This is a basic
+    to research output, such as a thesis or a paper. This is a basic
     requirement of open science.
 * `/project` is for files that need to be stored long-term and shared with others.
     * Scripts and data needed to reproduce your research findings should go here. 
-    * Most of the research we do is as a group and should be saved in the group's shared directory. See the **SFU Statgen datasharing group** below.
-* `/scratch` is for your computing. 
-    * Copy scripts and data needed for your jobs from `/home` or `/project`, and run the jobs from your `/scratch/<user>` diretory (or a sub-directory). 
+    * Most of the research we do should be saved in the Graham and McNeney group's shared directory. See the **sfu-statgen datasharing group** below.
+* `/scratch` is where you will do most of your computing. 
+    * Copy scripts and data needed for your jobs from `/home` or `/project` to your `/scratch/<user>` directory (or a sub-directory) and submit your job scripts from there. 
     * Output files will end up in the same directory you run from. 
-    * Copy any output you need to `/project` or `/home`, depending on whether or not they are to be shared. (See **Copying to `/project`** below for tips on copying.)
+    * Copy any output you need back to `/project` or `/home`, depending on whether or not they are to be shared. (See **Copying to `/project`** below for tips on copying.)
 
 ## Disk quotas
 
 * You have quotas on each disk. 
-* On `/home` you have about 50GB, on `/project` you have about 2GB and on `/scratch` you have about 20TB. 
+* On `/home` you have 50GB, on `/project` you have 2GB and on `/scratch` you have 20TB. 
 * In addition to your personal 2GB quota on `/project`, your sponsor (jgraham or mcneney) has a 1TB `/project` quota. 
 * Files count towards quotas according to (i) which disk they are on and (ii) which "group owner" they have (see below for information on Unix groups).
-* Files in `/project` with group ownership `<user>` count towards the user's personal `/project` quota, files on `/project` with group ownership `def-jgraham` count towards Jinko's 1TB `/project` quota and files on `/project` with group ownership `def-mcneney` count towards Brad's 1TB `/project` quota.
-    * Important note: It doesn't matter where on `/project` a file is, only
+* Files in `/home/<user>` and `/scratch/<user>` should always have group ownership `<user>` and will count towards the user's quote on those disks.
+* Files in `/project` with group ownership `<user>` count towards the user's 2GB personal `/project` quota, files on `/project` with group ownership `def-jgraham` count towards Jinko's 1TB `/project` quota and files on `/project` with group ownership `def-mcneney` count towards Brad's 1TB `/project` quota.
+    * Important note: As far as quotas go, it doesn't 
+    matter where on `/project` a file is, only
     its group ownership. For example, if Jinko gives Brad permission to 
     write files in `/project/def-jgraham/` and he moves a file there 
     that has group ownership `def-mcneney`, the file counts against 
     **his** `def-mcneney` `/project` quota, not Jinko's.
 
 
-## Copying files to `/project`
+## Copying files to/from `/project`
 
-* Use cp and rm, not mv, to move files from home or scratch to project.
-cp first, then rm old copy, sets group ownership to def-<sponsor>
+* Avoid using the Unix `mv` command when copying files. `mv` preserves file ownership, and this is not what you want when copying files to/from
+`/project`. 
+* Instead, use `cp` and `rm` to copy directories as follows (copying individual files is similar).
+* For example, say you want to copy `TestDir` from your `/scratch/<user>`
+directory to `/project/def-mcneney/share`. First change directory to
+`/scratch/<user>`
+and then type `cp -R TestDir /project/def-mcneney/share/.` 
+* Within `/project/def-mcneney/share`, the directory `TestDir` will
+automatically have group ownership `def-mcneney`, inherited from 
+its new parent directory ('project/def-mcneney/share`) when it was
+copied.
+* If you won't need `TestDir` in your scratch directory any more, remove it 
+with `rm -R TestDir`. 
 
 
 ## SFU Statgen datasharing group
 
 * shared space between two sponsors is ...
-* Use cp and rm, not mv, to move files from home or scratch to project.
-cp first, then rm old copy, sets group ownership to def-<sponsor>
-
-* home scratch project , getfacl, setfacl
+* Remember to cp, not mv files to here
+* Share with the group with setfacl
 for a directory called Testing, execute the following from the 
 parent directory:
 '''setfacl -R -m g:sfu-statgen:rwX Testing'''
