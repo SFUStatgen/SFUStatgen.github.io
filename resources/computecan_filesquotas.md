@@ -63,9 +63,9 @@ and then type `cp -r TestDir /project/def-mcneney/share/.` (The `-r`
 is to recursively copy subdirectories.)
 * After copying, the directory `TestDir` will
 automatically have group ownership `def-mcneney`, inherited from 
-its new parent directory, 'project/def-mcneney/share`.
+its new parent directory, `project/def-mcneney/share`.
 * If you won't need `TestDir` in your scratch directory any more, remove it 
-by typing `rm -R TestDir`.
+by typing `rm -r TestDir`.
 
 
 ## SFU Statgen datasharing group
