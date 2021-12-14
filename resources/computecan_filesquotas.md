@@ -10,15 +10,14 @@ that we use.
 
 ## Compute Canada Filespace
 
-* We can think of the filespace on cedar.computecanada.ca as three *separate* disks named `/home`, `/project`, and `/scratch`.
+* The filespace on cedar.computecanada.ca is comprised of three separate disks named `/home`, `/project`, and `/scratch`.
 * When you log in to cedar.computecanada.ca 
 as user `<user>` you will be in the `/home/<user>` directory.
 * When you list the contents of `/home/<user>` you will see `project` and `scratch`, which are "softlinks", or short-cuts. Changing directory (`cd`) to these will take you to `/project/def-<sponsor>/<user>` and `/scratch/<user>`, respectively, where `<sponsor>` is your account sponsor (jgraham or mcneney).
     * Aside 1: Ignore `projects` (plural) -- this is only useful for people
     who work with multiple sponsors.
-    * Aside 2: The `nearline` directory is for archival storage. We haven't
-    been using this.
-* Files in `/home` and `/project` are permanent, until you delete them yourself, but files in `/scratch` are deleted by the system about once a month. 
+    * Aside 2: Also ignore the `nearline` directory -- this is for archival storage, which we haven't been using.
+* Files you put in `/home` and `/project` stay are there until you delete them yourself, but files in `/scratch` are automatically deleted by the system about once a month. 
 
 ## Purpose of each disk
 
@@ -33,18 +32,18 @@ Roughly speaking
 * `/scratch` is where you will do most of your computing. 
     * Copy scripts and data needed for your jobs from `/home` or `/project` to your `/scratch/<user>` directory (or a sub-directory) and submit your job scripts from there. 
     * Output files will end up in the same directory you run from. 
-    * Copy any output you need back to `/project` or `/home`, depending on whether or not they are to be shared. (See **Copying to `/project`** below for tips on copying.)
+    * After the job finishes, copy any output you need back to `/project` or `/home`, depending on whether or not they are to be shared. (See **Copying to `/project`** below for tips on copying.)
 
 ## Disk quotas
 
 * You have quotas on each disk. 
 * On `/home` you have 50GB, on `/project` you have 2GB and on `/scratch` you have 20TB. 
 * In addition to your personal 2GB quota on `/project`, your sponsor (jgraham or mcneney) has a 1TB `/project` quota. 
-* Files count towards quotas according to (i) which disk they are on and (ii) which "group owner" they have (see below for information on Unix groups).
+* Files count towards quotas according to (i) which disk they are on and (ii) which "group owner" they have (see the **Unix groups** section below for information on Unix groups).
 * Files in `/home/<user>` and `/scratch/<user>` should always have group ownership `<user>` and will count towards the user's quota on those disks.
 * Files in `/project` with group ownership `<user>` count towards the user's 2GB personal `/project` quota, files in `/project` with group ownership `def-jgraham` count towards Jinko's 1TB `/project` quota and files in `/project` with group ownership `def-mcneney` count towards Brad's 1TB `/project` quota.
-    * Important note: As far as quotas go, it doesn't 
-    matter where on `/project` a file is, only
+    * Important note: As far as quotas on `/project` go, it doesn't 
+    matter where a file is, only
     its group ownership. For example, if Jinko gives Brad permission to 
     write files in `/project/def-jgraham/` and he moves a file there 
     that has group ownership `def-mcneney`, the file counts against 
@@ -68,11 +67,13 @@ its new parent directory, `project/def-mcneney/share`.
 by typing `rm -r TestDir`.
 
 
-## SFU Statgen datasharing group
+## sfu-statgen datasharing group
 
 GOT HERE
 
-* shared space between two sponsors is ...
+* For 
+* shared space between two sponsors is managed by an 
+"access control list" called `sfu-statgen`. 
 * Remember to cp, not mv files to here
 * Share with the group with setfacl
 for a directory called Testing, execute the following from the 
