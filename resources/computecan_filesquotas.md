@@ -59,13 +59,13 @@ Roughly speaking
 * For example, say you want to copy `TestDir` from your `/scratch/<user>`
 directory to `/project/def-mcneney/share`. First change directory to
 `/scratch/<user>`
-and then type `cp -R TestDir /project/def-mcneney/share/.` (The `-R` 
+and then type `cp -r TestDir /project/def-mcneney/share/.` (The `-r` 
 is to recursively copy subdirectories.)
 * After copying, the directory `TestDir` will
 automatically have group ownership `def-mcneney`, inherited from 
 its new parent directory, 'project/def-mcneney/share`.
 * If you won't need `TestDir` in your scratch directory any more, remove it 
-by typing `rm -R TestDir` from your `/scratch/<user>` directory. 
+by typing `rm -R TestDir`.
 
 
 ## SFU Statgen datasharing group
