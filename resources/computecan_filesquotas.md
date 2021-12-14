@@ -55,20 +55,22 @@ Roughly speaking
 
 * Avoid using the Unix `mv` command when copying files. `mv` preserves file ownership, and this is not what you want when copying files to/from
 `/project`. 
-* Instead, use `cp` and `rm` to copy directories as follows (copying individual files is similar).
+* Instead, use `cp` and `rm` to copy directories and files.
 * For example, say you want to copy `TestDir` from your `/scratch/<user>`
 directory to `/project/def-mcneney/share`. First change directory to
 `/scratch/<user>`
-and then type `cp -R TestDir /project/def-mcneney/share/.` 
-* Within `/project/def-mcneney/share`, the directory `TestDir` will
+and then type `cp -R TestDir /project/def-mcneney/share/.` (The `-R` 
+is to recursively copy subdirectories.)
+* After copying, the directory `TestDir` will
 automatically have group ownership `def-mcneney`, inherited from 
-its new parent directory ('project/def-mcneney/share`) when it was
-copied.
+its new parent directory, 'project/def-mcneney/share`.
 * If you won't need `TestDir` in your scratch directory any more, remove it 
-with `rm -R TestDir`. 
+by typing `rm -R TestDir` from your `/scratch/<user>` directory. 
 
 
 ## SFU Statgen datasharing group
+
+GOT HERE
 
 * shared space between two sponsors is ...
 * Remember to cp, not mv files to here
