@@ -113,7 +113,7 @@ As another example, here is a partial listing of some of the sub-directories of 
 drwxr-x---      5 jgraham jgraham        4096 Mar 11  2021 msprime_env
 drwxr-xr-x      2 root    jgraham        4096 May 15  2019 nearline
 ```
-For the first sub-directory, the user owner and group owner are bothe `jgraham`. For the second
+For the first sub-directory, the user owner and group owner are both `jgraham`. For the second
 sub-directory, the user owner is `root` (the super-user) and the group owner is `jgraham`.
 We can see that the second sub-directory was created by `root` but counts toward `jgraham`'s personal
 quota on `/home`.
