@@ -13,10 +13,10 @@ that we use.
 * The filespace on cedar.computecanada.ca is comprised of three separate disks named `/home`, `/project`, and `/scratch`. Each disk is organized to host separate users.
 * When you log in to cedar.computecanada.ca 
 as user `<user>` you will be in the `/home/<user>` directory.
-* When you list the contents of `/home/<user>` you will see `project` and `scratch`, which are "softlinks", or short-cuts. Changing directory (`cd`) to these will take you to `/project/def-<sponsor>` (i.e. your group's project directory, a communal space)  and `/scratch/<user>` (i.e. your personal scratch directory), respectively, where `<sponsor>` is your account sponsor (jgraham or mcneney).
-    * Aside: When you list the contents of `/home/<user>` you will also see a `projects` (plural) directory and a `nearline` directory. Ignore these. `projects` is only useful for people
+* When you list the contents of `/home/<user>` you will see `project` and `scratch`, which are "softlinks", or short-cuts. Changing directory (`cd`) to these will take you to `/project/def-<sponsor>`, your group's project directory (a communal space for the group of your account sponsor `<sponsor>`)  and `/scratch/<user>`, your personal scratch directory).
+    * Aside: When you list the contents of `/home/<user>` you will also see a `projects` (plural) directory and a `nearline` directory. Ignore these for now; `projects` is only useful for people
     who work with multiple sponsors and  `nearline` is for archival storage, which we haven't been using.
-* Files you put in `/home` and `/project` stay are there until you delete them yourself, but files in `/scratch` are automatically deleted by the system about once a month. 
+* Files you put in `/home` and `/project` stay until you delete them, but files in `/scratch` are automatically deleted by the system about once a month. 
 
 ## Purpose of each disk
 
