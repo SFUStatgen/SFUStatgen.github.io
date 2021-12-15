@@ -76,8 +76,8 @@ groups.-->
 * The place to share files is `/project/def-mcneney/share`.
 * Use `cp` to copy directories and files to an approprioate 
 sub-directory of the share space. 
-* The files you copy will have group ownership `def-mcneney`, 
-but to share them there are two more steps to take.
+* By default, the directories and files you copy to `/project/def-mcneney/share` will have group ownership `def-mcneney`, 
+but to allow other users to read, write and execute the directories/files there are two more steps to take.
 * Suppose you copied the directory `TestDir` into
 `/project/def-mcneney/share`. Change to this directory
 and execute the following two commands
@@ -94,23 +94,26 @@ setfacl -R -m g:sfu-statgen:rwX Testing
 
 On Unix, files have two levels of ownership, the "owner" 
 (the user who created it) and the "group" 
-(the Unix group that the user belongs to).
-
+(the Unix group that the user belongs to). You can see 
+the ownership of files using `ls -la`. For example, 
+here is an excerpt of the listing of the `/project/def-jgraham` directory.
+We are interested in the third and fourth columns of output.
 ```
-[mcneney@cedar5 share]$ ls -la
-total 36
-drwxrws---+ 7 mcneney  def-mcneney  4096 Mar 20  2021 .
-drwxrws--x+ 9 mcneney  def-mcneney  4096 Dec 13 17:00 ..
-drwxrws---+ 3 mcneney  def-mcneney 12288 Jun  6  2020 1000g
-drwxrws---+ 6 mcneney  def-mcneney  4096 Jun  9  2020 adni
-drwxrws---+ 3 mcneney  def-mcneney  4096 Mar 20  2021 impute2
-drwxrws---+ 6 bhagya85 def-mcneney  4096 Dec 13 09:49 PBJ
-drwxrws---+ 2 mcneney  def-mcneney  4096 May  4  2021 simht
+drwx--S---    9 epasiedn def-jgraham   4096 Nov 17 06:58 epasiedn
+drwx--S---    2 jgraham  def-jgraham   4096 Mar 17  2021 jgraham
 ```
+For the first directory, the user owner is `epasiedn` and the group owner is `def-jgraham`. 
+For the second directory, the user owner is `jgraham` and the group owner is `def-jgraham`. 
+Since the group owner is `def-jgraham` for both directories, both count against the communal
+quota of Jinko's project.
 
-
-. are given directories within each one. For a user named <user> sponsored by <sponsor> they are
-  /home/<user>
- /project/def-<sponsor>/<user>
- /scratch/def-<sponsor>/<user>
-
+As another example, here is a partial listing of `/home/jgraham`:
+```
+drwxr-x---      5 jgraham jgraham        4096 Mar 11  2021 msprime_env
+drwxr-xr-x      2 root    jgraham        4096 May 15  2019 nearline
+```
+For the first directory, the user owner and group owner are bothe `jgraham`. For the second
+directory, the user owner is `root` (the super-user) and the group owner is `jgraham`.
+We can see that the second file was created by `root` but counts toward `jgraham`'s personal
+quota on `/home`.
+   
