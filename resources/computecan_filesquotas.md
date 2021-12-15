@@ -51,8 +51,8 @@ Roughly speaking
 
 ## Copying files to/from `/project`
 
-* Be careful about using the Unix `mv` command to copy files you own to /project. Since `mv` preserves file ownership, using it to move a file you own to the communal /project directory will mean that the file counts against your 2GB <user> quota rather than the communal 1TB quota of <def-sponsor>. 
-* Instead, use `cp` to copy directories and files into the communal /project space.
+* Be careful about using the Unix `mv` command to copy files you own to `/project`. Since `mv` preserves file ownership, using it to move a file you own to the communal `/project` directory will mean that the file counts against your 2GB `<user>` quota rather than the communal 1TB quota of `def-<sponsor>`. 
+* Instead, use `cp` to copy directories and files into the communal `/project` space.
 * For example, say you want to copy `TestDir` from your `/scratch/<user>`
 directory to `/project/def-jgraham/share`. First change directory to
 `/scratch/<user>`
@@ -74,21 +74,22 @@ we have what's called a datasharing group, `sfu-statgen`.
 the file permissions of files that we'd like to share between
 groups.-->
 * The place to share files is `/project/def-mcneney/share`.
-* Use `cp` to copy directories and files to an approprioate 
+* Use `cp` to copy directories and files to an appropriate 
 sub-directory of the share space. 
 * By default, the directories and files you copy to `/project/def-mcneney/share` will have group ownership `def-mcneney`, 
-but to allow other users to read, write and execute the directories/files there are two more steps to take.
+but to allow other users to read, write and execute them there are two more steps to take.
 * Suppose you copied the directory `TestDir` into
 `/project/def-mcneney/share`. Change to this directory
 and execute the following two commands
 ```
-setfacl -d -m g:sfu-statgen:rwx Testing
+setfacl -d -m g:sfu-statgen:rwx TestDir
 ```
 ```
-setfacl -R -m g:sfu-statgen:rwX Testing
+setfacl -R -m g:sfu-statgen:rwX TestDir
 ```
 
-(note the capital X in the second `setfacl` command).
+(note the capital X in the second `setfacl` command).  Other members of the `sfu-statgen` datasharing
+group can now work with `TestDir` and its contents as if they were their own.
 
 ## Unix groups 
 
