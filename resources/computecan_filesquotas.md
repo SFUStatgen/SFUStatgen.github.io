@@ -41,39 +41,38 @@ Roughly speaking
 * Files count towards quotas according to (i) which disk they are on and (ii) which "group owner" they have (see the **Unix groups** section below for information on Unix groups).
 * Files in `/home/<user>` and `/scratch/<user>` should always have group ownership `<user>` and will count towards the user's quota on those disks.
 * Files in `/project` with group ownership `<user>` count towards the user's 2GB personal `/project` quota, files in `/project` with group ownership `def-jgraham` count towards Jinko's 1TB `/project` quota and files in `/project` with group ownership `def-mcneney` count towards Brad's 1TB `/project` quota.
-    * Important note: As far as quotas on `/project` go, it doesn't 
+* Important: As far as quotas on `/project` go, it doesn't 
     matter where a file is, only
     its group ownership. For example, if Jinko gives Brad permission to 
-    write files in `/project/def-jgraham/` and he moves a file there 
+    write files to `/project/def-jgraham/` and he moves a file there 
     that has group ownership `def-mcneney`, the file counts against 
     **his** `def-mcneney` `/project` quota, not Jinko's.
 
 
 ## Copying files to/from `/project`
 
-* Avoid using the Unix `mv` command when copying files. `mv` preserves file ownership, and this is not what you want when copying files to/from
-`/project`. 
-* Instead, use `cp` and `rm` to copy directories and files.
+* Be careful about using the Unix `mv` command to copy files you own to /project. Since `mv` preserves file ownership, using it to move a file you own to the communal /project directory will mean that the file counts against your 2GB <user> quota rather than the communal 1TB quota of <def-sponsor>. 
+* Instead, use `cp` to copy directories and files into the communal /project space.
 * For example, say you want to copy `TestDir` from your `/scratch/<user>`
-directory to `/project/def-mcneney/share`. First change directory to
+directory to `/project/def-jgraham/share`. First change directory to
 `/scratch/<user>`
-and then type `cp -r TestDir /project/def-mcneney/share/.` (The `-r` 
+and then type `cp -r TestDir /project/def-jgraham/share/.` (The `-r` 
 is to recursively copy sub-directories.)
-* The copy of  `TestDir` in `/project/def-mcneney/shares/` will
-automatically have group ownership `def-mcneney`.
+* The copy of  `TestDir` in `/project/def-jgraham/shares/` will
+automatically have group ownership `def-jgraham`.
 * If you won't need `TestDir` in your scratch directory any more, remove it 
 by typing `rm -r TestDir`.
 
 
 ## sfu-statgen datasharing group
 
-* The communal space in `/project` is good for sharing files between
-sponsored users of the same project, but not between projects.
+* The group communal space in `/project` is good for sharing files between
+sponsored users of the same project, but not between different projects.
 * Since we need to share data between Jinko's and Brad's projects
-we have what's called a datasharing group, called `sfu-statgen`. 
-* Using special tools developped by Compute Canada we can set 
+we have what's called a datasharing group, `sfu-statgen`. 
+<!--* Using special tools developed by Compute Canada we can set 
 the file permissions of files that we'd like to share between
-groups.
+groups.-->
 * The place to share files is `/project/def-mcneney/share`.
 * Use `cp` to copy directories and files to an approprioate 
 sub-directory of the share space. 
