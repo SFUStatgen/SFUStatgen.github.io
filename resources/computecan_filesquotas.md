@@ -93,7 +93,7 @@ group can now work with `TestDir` and its contents as if they were their own.
 
 ## Unix groups 
 
-On Unix, directories and files have two levels of ownership, the "owner" 
+On Unix, directories and files have two levels of ownership, the "user" 
 (the user who created it) and the "group" 
 (the Unix group that the user belongs to). You can see 
 the ownership of files using `ls -la`. For example, 
