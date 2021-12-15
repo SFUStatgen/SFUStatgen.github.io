@@ -83,12 +83,15 @@ but to share them there are two more steps to take.
 * Suppose you copied the directory `TestDir` into
 `/project/def-mcneney/share`. Change to this directory
 and execute the following two commands
+
 '''
 setfacl -d -m g:sfu-statgen:rwx Testing
 '''
+
 '''
 setfacl -R -m g:sfu-statgen:rwX Testing
 '''
+
 (note the capital X in the second `setfacl` command).
 
 ## Unix groups 
