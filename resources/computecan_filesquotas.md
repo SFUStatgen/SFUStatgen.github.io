@@ -59,31 +59,54 @@ Roughly speaking
 directory to `/project/def-mcneney/share`. First change directory to
 `/scratch/<user>`
 and then type `cp -r TestDir /project/def-mcneney/share/.` (The `-r` 
-is to recursively copy subdirectories.)
-* After copying, the directory `TestDir` will
-automatically have group ownership `def-mcneney`, inherited from 
-its new parent directory, `project/def-mcneney/share`.
+is to recursively copy sub-directories.)
+* The copy of  `TestDir` in `/project/def-mcneney/shares/` will
+automatically have group ownership `def-mcneney`.
 * If you won't need `TestDir` in your scratch directory any more, remove it 
 by typing `rm -r TestDir`.
 
 
 ## sfu-statgen datasharing group
 
-GOT HERE
-
-* For 
-* shared space between two sponsors is managed by an 
-"access control list" called `sfu-statgen`. 
-* Remember to cp, not mv files to here
-* Share with the group with setfacl
-for a directory called Testing, execute the following from the 
-parent directory:
+* The communal space in `/project` is good for sharing files between
+sponsored users of the same project, but not between projects.
+* Since we need to share data between Jinko's and Brad's projects
+we have what's called a datasharing group, called `sfu-statgen`. 
+* Using special tools developped by Compute Canada we can set 
+the file permissions of files that we'd like to share between
+groups.
+* The place to share files is `/project/def-mcneney/share`.
+* Use `cp` to copy directories and files to an approprioate 
+sub-directory of the share space. 
+* The files you copy will have group ownership `def-mcneney`, 
+but to share them there are two more steps to take.
+* Suppose you copied the directory `TestDir` into
+`/project/def-mcneney/share`. Change to this directory
+and execute the following two commands
+'''setfacl -d -m g:sfu-statgen:rwx Testing'''
 '''setfacl -R -m g:sfu-statgen:rwX Testing'''
-To set the permissions for 
+(note the capital X in the second `setfacl` command).
 
 ## Unix groups 
 
-On Unix, files have two levels of ownership, the "owner" (user who created it) and the "group" (the Unix group . are given directories within each one. For a user named <user> sponsored by <sponsor> they are
+On Unix, files have two levels of ownership, the "owner" 
+(the user who created it) and the "group" 
+(the Unix group that the user belongs to).
+
+```
+[mcneney@cedar5 share]$ ls -la
+total 36
+drwxrws---+ 7 mcneney  def-mcneney  4096 Mar 20  2021 .
+drwxrws--x+ 9 mcneney  def-mcneney  4096 Dec 13 17:00 ..
+drwxrws---+ 3 mcneney  def-mcneney 12288 Jun  6  2020 1000g
+drwxrws---+ 6 mcneney  def-mcneney  4096 Jun  9  2020 adni
+drwxrws---+ 3 mcneney  def-mcneney  4096 Mar 20  2021 impute2
+drwxrws---+ 6 bhagya85 def-mcneney  4096 Dec 13 09:49 PBJ
+drwxrws---+ 2 mcneney  def-mcneney  4096 May  4  2021 simht
+```
+
+
+. are given directories within each one. For a user named <user> sponsored by <sponsor> they are
   /home/<user>
  /project/def-<sponsor>/<user>
  /scratch/def-<sponsor>/<user>
