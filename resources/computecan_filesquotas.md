@@ -96,24 +96,25 @@ On Unix, files have two levels of ownership, the "owner"
 (the user who created it) and the "group" 
 (the Unix group that the user belongs to). You can see 
 the ownership of files using `ls -la`. For example, 
-here is an excerpt of the listing of the `/project/def-jgraham` directory.
+here is an excerpt of the listing of some of the sub-directories
+of the `/project/def-jgraham` directory.
 We are interested in the third and fourth columns of output.
 ```
 drwx--S---    9 epasiedn def-jgraham   4096 Nov 17 06:58 epasiedn
 drwx--S---    2 jgraham  def-jgraham   4096 Mar 17  2021 jgraham
 ```
-For the first directory, the user owner is `epasiedn` and the group owner is `def-jgraham`. 
-For the second directory, the user owner is `jgraham` and the group owner is `def-jgraham`. 
+For the first sub-directory, the user owner is `epasiedn` and the group owner is `def-jgraham`. 
+For the second sub-directory, the user owner is `jgraham` and the group owner is `def-jgraham`. 
 Since the group owner is `def-jgraham` for both directories, both count against the communal
 quota of Jinko's project.
 
-As another example, here is a partial listing of `/home/jgraham`:
+As another example, here is a partial listing of some of the sub-directories of `/home/jgraham`:
 ```
 drwxr-x---      5 jgraham jgraham        4096 Mar 11  2021 msprime_env
 drwxr-xr-x      2 root    jgraham        4096 May 15  2019 nearline
 ```
-For the first directory, the user owner and group owner are bothe `jgraham`. For the second
-directory, the user owner is `root` (the super-user) and the group owner is `jgraham`.
-We can see that the second file was created by `root` but counts toward `jgraham`'s personal
+For the first sub-directory, the user owner and group owner are bothe `jgraham`. For the second
+sub-directory, the user owner is `root` (the super-user) and the group owner is `jgraham`.
+We can see that the second sub-directory was created by `root` but counts toward `jgraham`'s personal
 quota on `/home`.
    
