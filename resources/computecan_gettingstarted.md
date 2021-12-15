@@ -32,8 +32,3 @@ with an SSH client. See the Compute Canada [documentation on SSH](https://docs.c
 Copy data files to/from cedar using 'scp' or 'globus'. More information 
 is available at [https://docs.computecanada.ca/wiki/Transferring_data](https://docs.computecanada.ca/wiki/Transferring_data)
 
-## Getting help
-
-* WestGrid (the Western Canada division of Compute Canada) has its own [youtube channel](https://www.youtube.com/user/WGSeminarSeries) where they post videos of past seminars/webinars.
-* Sharcnet (the Ontario division of Compute Canada) also has a [youtube channel](https://www.youtube.com/channel/UCCRmb5_GMWT2hSlALHlwIMg). Their "new users" webinars look useful.
-* Contact [Compute Canada tech support](https://docs.computecanada.ca/wiki/Technical_support).
