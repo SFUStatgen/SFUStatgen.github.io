@@ -13,7 +13,7 @@ that we use.
 * The filespace on cedar.computecanada.ca is comprised of three separate disks named `/home`, `/project`, and `/scratch`. Each disk is organized to host separate users.
 * When you log in to cedar.computecanada.ca 
 as user `<user>` you will be in the `/home/<user>` directory.
-* When you list the contents of `/home/<user>` you will see `project` and `scratch`, which are "softlinks", or short-cuts. Changing directory (`cd`) to these will take you to `/project/def-<sponsor>`, your group's project directory (a communal space for the group of your account sponsor `<sponsor>`)  and `/scratch/<user>`, your personal scratch directory).
+* When you list the contents of `/home/<user>` you will see `project` and `scratch`, which are "softlinks", or short-cuts. Changing directory (`cd`) to these will take you to `/project/def-<sponsor>`, your group's project directory (a communal space for the group of your account sponsor `<sponsor>`)  and `/scratch/<user>`, your personal scratch directory.
     * Aside: When you list the contents of `/home/<user>` you will also see a `projects` (plural) directory and a `nearline` directory. Ignore these for now; `projects` is only useful for people
     who work with multiple sponsors and  `nearline` is for archival storage, which we haven't been using.
 * Files you put in `/home` and `/project` stay until you delete them, but files in `/scratch` are automatically deleted by the system about once a month. 
@@ -23,15 +23,15 @@ as user `<user>` you will be in the `/home/<user>` directory.
 Roughly speaking
 * `/home` is for code and other files that you work with but don't need to share with anyone.
     * Note: You should plan to share **everything** you do that leads
-    to research output, such as a thesis or a paper. This is a basic
+    to research output, such as a thesis or a paper. Fully reproducible research is a basic
     requirement of open science.
 * `/project` is for files that need to be stored long-term and shared with others.
     * Scripts and data needed to reproduce your research findings should go here. 
-    * Most of the research we do should be saved in the Graham and McNeney group's shared directory. See the **sfu-statgen datasharing group** below.
+ <!--   * Most of the research we do should be saved in the Graham and McNeney group's shared directory. See the **sfu-statgen datasharing group** below. -->
 * `/scratch` is where you will do most of your computing. 
     * Copy scripts and data needed for your jobs from `/home` or `/project` to your `/scratch/<user>` directory (or a sub-directory) and submit your job scripts from there. 
     * Output files will end up in the same directory you run from. 
-    * After the job finishes, copy any output you need back to `/project` or `/home`, depending on whether or not they are to be shared. (See **Copying to `/project`** below for tips on copying.)
+    * After the job finishes, copy any output you need back to `/project` or `/home`, depending on whether or not they're to be shared, respectively. (See **Copying to `/project`** below for tips on copying.)
 
 ## Disk quotas
 
