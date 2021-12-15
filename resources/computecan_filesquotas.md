@@ -64,22 +64,22 @@ automatically have group ownership `def-jgraham`.
 by typing `rm -r TestDir`.
 
 
-## sfu-statgen datasharing group
+## The sfu-statgen data-sharing group
 
 * The group communal space in `/project` is good for sharing files between
 sponsored users of the same project, but not between different projects.
-* Since we need to share data between Jinko's and Brad's projects
-we have what's called a datasharing group, `sfu-statgen`. 
+* Since project members of def-jgraham and def-mcneney frequently share data,  
+we've set up a data-sharing group of Share, `sfu-statgen`.
 <!--* Using special tools developed by Compute Canada we can set 
 the file permissions of files that we'd like to share between
 groups.-->
-* The place to share files is `/project/def-mcneney/share`.
+* The place to share files between groups is `/project/def-mcneney/share`.
 * Use `cp` to copy directories and files to an appropriate 
 sub-directory of the share space. 
-* By default, the directories and files you copy to `/project/def-mcneney/share` will have group ownership `def-mcneney`, 
-but to allow other users to read, write and execute them there are two more steps to take.
-* Suppose you copied the directory `TestDir` into
-`/project/def-mcneney/share`. Change to this directory
+* By default, the directories and files you copy to the Share  `/project/def-mcneney/share` will have group ownership `def-mcneney`, 
+but nobody but you will be able to read, write and execute them.
+* To allow other users to read, write and execute the files you copy into the Share, you need to take two more steps.
+* Suppose you copied the directory `TestDir` into `/project/def-mcneney/share`. Change to this directory in the Share
 and execute the following two commands
 ```
 setfacl -d -m g:sfu-statgen:rwx TestDir
@@ -88,7 +88,7 @@ setfacl -d -m g:sfu-statgen:rwx TestDir
 setfacl -R -m g:sfu-statgen:rwX TestDir
 ```
 
-(note the capital X in the second `setfacl` command).  Other members of the `sfu-statgen` datasharing
+(note the capital X in the second `setfacl` command).  Other members of the `sfu-statgen` data-sharing
 group can now work with `TestDir` and its contents as if they were their own.
 
 ## Unix groups 
