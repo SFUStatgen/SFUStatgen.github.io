@@ -19,6 +19,7 @@ used by Compute Canada is slurm.
 * For jobs that run R, the last line of the slurm batch script will
 be of the form `R CMD BATCH <myscript.R>` where `<myscript.R>` is
 your R script. 
+* Say something about setting seeds for reproducibility.
 * See the [Parallel Computing in R with WestGrid](https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/ParallelComputing_inR_CC.pdf)
  presentation by Bhagya Karunarathna. (Note: WestGrid is the western-Canada division of Compute Canada.)
 
