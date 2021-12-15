@@ -13,7 +13,7 @@ that we use.
 * The filespace on cedar.computecanada.ca is comprised of three separate disks named `/home`, `/project`, and `/scratch`.
 * When you log in to cedar.computecanada.ca 
 as user `<user>` you will be in the `/home/<user>` directory.
-* When you list the contents of `/home/<user>` you will see `project` and `scratch`, which are "softlinks", or short-cuts. Changing directory (`cd`) to these will take you to `/project/def-<sponsor>/<user>` and `/scratch/<user>`, respectively, where `<sponsor>` is your account sponsor (jgraham or mcneney).
+* When you list the contents of `/home/<user>` you will see `project` and `scratch`, which are "softlinks", or short-cuts. Changing directory (`cd`) to these will take you to `/project/def-<sponsor>` and `/scratch/<user>`, respectively, where `<sponsor>` is your account sponsor (jgraham or mcneney).
     * Aside 1: Ignore `projects` (plural) -- this is only useful for people
     who work with multiple sponsors.
     * Aside 2: Also ignore the `nearline` directory -- this is for archival storage, which we haven't been using.
