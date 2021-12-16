@@ -29,6 +29,6 @@ with an SSH client. See the Compute Canada [documentation on SSH](https://docs.c
 
 ## Transferring data
 
-Copy data files to/from cedar using 'scp' or 'globus'. More information 
+Copy data files to/from cedar using `scp` or `globus`. More information 
 is available at [https://docs.computecanada.ca/wiki/Transferring_data](https://docs.computecanada.ca/wiki/Transferring_data)
 
