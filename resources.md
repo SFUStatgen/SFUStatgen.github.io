@@ -11,6 +11,7 @@ title: Resources
 * These days we do most of our computationally-demanding work on [Compute Canada](https://computecanada.ca).
 See our [Compute Canada introduction](resources/computecan.html) page for information on registering with Compute Canada and using their
 resources.
+* [GitHub](https://github.com) is an essential tool for code development and collaboration. See the [Pro Git](https://git-scm.com/book/en/v2) online book to learn more about git and GitHub, or our [Git with RStudio](GitRStudioDoc.pdf) documentation for tips on working with git in RStudio and resolving conflicts with another user.
 * The Department's [computing resources](https://www.sfu.ca/stat-actsci/research/research-resources/computing-research.html) webpage gives information on getting help at SFU, access to our Unix network, and links to software that is available to SFU faculty, staff and students.
 * Advice on scientific computing for [beginners](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510) and more [advanced](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745) users, from the people who developed the [Software and Data Carpentry](https://carpentries.org/) workshops.
 
