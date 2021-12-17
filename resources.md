@@ -50,7 +50,7 @@ store the ancestral history of a set of DNA sequences. See also:
 * [Documentation](https://www.python.org/doc/)
 * [Integrated development environments](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments)
 
-## Responding to reviewers
+## Responding to reviewers <a name="Respond_Reviewers"></a>
 
 Some tips from Michael Pyrcz, U. of Texas Austin:
 
