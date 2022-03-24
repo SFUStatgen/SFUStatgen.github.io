@@ -71,7 +71,8 @@ title: Members
 <li>Zhijian Chen, MSc&nbsp; 2006:&nbsp; PhD Statistics, University of Waterloo; current position Risk Modeller, Alibaba Group, Hangzhou City, Zhejiang, China.</li>
 <li>David Zamar, MSc 2006: Data Scientist, School of Population and Public Health, UBC, Vancouver BC.<br>
 </li>
-<li>Mercedeh Ghadessi, MSc 2005: Lead Statistician for Genomics and Biomarker Statistics, Bayer HealthCare, NJ.<br>
+<li>Mercedeh Ghadessi, MSc 2005: Director, Principal Statistician in Biomarker and Data insight at Bayer Pharmaceuticals,
+Morris Plains, NJ.<br>
 </li>
 <li>Karey Shumansky, MSc 2005: Data Scientist, Shopify, Oakland CA.</li>
 </ol>
