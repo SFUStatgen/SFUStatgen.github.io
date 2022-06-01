@@ -22,6 +22,10 @@ An R package to identify cryptic relatedness in genetic association studies. For
 
 ### Recent Publications
 
+<h6 style="font-family: tahoma , arial , helvetica , sans-serif;">2022</h6>
+<ul style="font-family: tahoma , arial , helvetica , sans-serif;">
+<li>Epasinghege Dona N and Graham J (2022). Datasets for a simulated family-based exome-sequencing study. <i>Data in Brief</i> 42: 396.&nbsp;&nbsp;<b><a href="https://doi.org/10.1016/j.dib.2022.108311">DOI: 10.1016/j.dib.2022.108311.</a></b></li>
+</ul>
 <h6 style="font-family: tahoma , arial , helvetica , sans-serif;">2021</h6>
 <ul style="font-family: tahoma , arial , helvetica , sans-serif;">
 <li>Gill E, Smith M, Gibson K, Morishita K, Lee A,, Falsafi R, <b>Graham J</b>, Foell D, Benseler S, Ross C, Luqmani R, Cabral D, Hancock R, Brown KL, the PedVas Initiative Investigators (2021). Different disease endotypes in phenotypically similar vasculitides affecting small-to-medium sized blood vessels. <i>Frontiers in Immunology</i> 12: 396.&nbsp;&nbsp;<b><a href="https://doi.org/10.3389/fimmu.2021.638571">DOI: 10.3389/fimmu.2021.638571</a></b></li>
