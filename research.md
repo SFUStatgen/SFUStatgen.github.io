@@ -24,7 +24,7 @@ An R package to identify cryptic relatedness in genetic association studies. For
 
 #### 2022
 
-* Epasinghege Dona N and Graham J (2022). Datasets for a simulated family-based exome-sequencing study. *Data in Brief* 42: 108311. [DOI: 10.1016/j.dib.2022.108311](https://doi.org/10.1016/j.dib.2022.108311">).
+* Epasinghege Dona N and Graham J (2022). Datasets for a simulated family-based exome-sequencing study. *Data in Brief* 42: 108311. **[DOI: 10.1016/j.dib.2022.108311](https://doi.org/10.1016/j.dib.2022.108311">)**.
 
 <h6 style="font-family: tahoma , arial , helvetica , sans-serif;">2022</h6>
 <ul style="font-family: tahoma , arial , helvetica , sans-serif;">
