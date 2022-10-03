@@ -133,6 +133,16 @@ An R package to identify cryptic relatedness in genetic association studies. For
 <table cellspacing="0" cellpadding="1" border="0" style="font-family: tahoma , arial , helvetica , sans-serif;">
 <tbody>
  <tr>
+    <td valign="top" width="90">Sept. 2022</td>
+    <td>International Genetic Epidemiology Society Annual Meeting, Paris;  An Exploration of Linkage Fine-Mapping on Sequences from Case-Control Studies. P Nickchi, C Karunarathna and J Graham (presenter)
+    </td>
+ </tr>
+  <tr>
+    <td valign="top" width="90">Sept. 2022</td>
+    <td>International Genetic Epidemiology Society Annual Meeting, Paris;  Inference of gene-environment interaction from heterogeneous case-parent trios}. P Ratnasekera, J Graham and B McNeney (presenter)
+    </td>
+ </tr>
+ <tr>
     <td valign="top" width="90">May 2022</td>
     <td>Annual Meeting of the Statistical Society of Canada, online; Sampling Partial Genealogies Using Sequential Importance Sampling. D Liu (presenter) and J Graham
     </td>
