@@ -33,6 +33,7 @@ title: Members
 </ul>
 <p><b>Visitors</b></p>
 <ul>
+<li>Ting-Huei Chen, Université Laval, Québec, Canada.</li> 
 <li>Gwang Joo Jeon, Professor and Director, Genomic Informatics Centre, Hankyong National University, Korea (2005).</li>
 </ul>
 <p><b>Alumni</b></p>
