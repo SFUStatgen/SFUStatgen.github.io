@@ -9,7 +9,7 @@ title: Resources
 #### General Computing
 
 * We've prepared a summary of the [workflow](https://sfustatgen.github.io/resources/workflow.pdf) for [open science](https://en.wikipedia.org/wiki/Open_science) used in our research group.
-<!-- * These days we do most of our computationally-demanding work on [Compute Canada](https://computecanada.ca).
+<!-- * These days we do most of our computationally-demanding work on [Compute Canada](https://computecanada.ca). -->
 See our [Compute Canada introduction](https://sfustatgen.github.io/resources/computecan.html) page for information on registering with Compute Canada and using their
 resources.
 * [GitHub](https://github.com) is an essential tool for code development and collaboration based on a version control system called git. The [Pro Git](https://git-scm.com/book/en/v2) online book is the user manual for git and GitHub. Most of us use the RStudio/git interface, which can be set up in RStudio as described in [this document](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN). See our [Git with RStudio](https://sfustatgen.github.io/resources/GitRStudioDoc.pdf) documentation for tips on resolving conflicts that can arise when working with collaborators and a general introduction to working with git in RStudio. -->
@@ -84,32 +84,13 @@ Some tips from Michael Pyrcz, U. of Texas Austin:
 </li>
 </ul>
 </li>
-<li>Information from Jean Shin (Dated Nov. 3, 2010) on poster printing places @ SFU and costs:<ul>
-<li>School of Resource and Environmental Management (REM) [updated by Elena Szefer, Apr. 2015]:<ul>
-<li>Regular paper only; $48 for an A0 poster.<br>
-</li>
-<li>If you send a pdf file to Laurence Lee (laurence_lee@sfu.ca) by 11AM, you can have the poster by 2 or 3PM in the same day</li>
-<li>You can send the grant account number to be charged to Laurence. Charlene can provide the account number that is required.&nbsp;<br>
-</li>
-<li>Before they release your poster to you, your supervisor needs to sign an invoice to agree to have their account charged.&nbsp; You need to return this invoice to the REM office.&nbsp; It's also possible to pick up a hard copy of the invoice before your poster is done printing to have signed by your supervisor.</li>
-<li>I'm not sure which option is best, but it would be a good idea to ask about the invoice with Laurence when you place your order to make sure that you will be able to get your poster in time.</li>
-</ul>
-</li>
-<li>Cornerstone:<br>
+<li>Poster printing at Cornerstone Printing at SFU:
 <ul>
-<li>$3.99/ sq. ft (regular paper) and $5.99/ sq. ft (thicker glossy paper)</li>
+<li>$4.49/ sq. ft for regular paper, $5.49/ sq. ft for thicker glossy paper and $7.48/sq. ft for fabric (can be folded)</li>
 <li>they need 1 business day</li>
-<li>Bhagya Karunarathna (Apr. 2015) reports a cost of about $40 for an A0 poster on regular paper, but no invoicing.</li>
 </ul>
-</li>
-<li>IRMACS:<ul>
-<li>$6 per square-foot (white background) or $7 (dark background)</li>
-<li>they need at least 24 hours</li>
 </ul>
-</li>
-</ul>
-A typical sized poster (4ft-by-3ft) costs $48 (REM), $48~$72 (cornerstone) and $72 ~ $84 (IRMACS).</li>
-</ul>
+
 
 ## Old documents and resources
 
