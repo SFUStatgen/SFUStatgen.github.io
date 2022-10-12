@@ -13,8 +13,10 @@ title: Members
 <li>Pulindu Ratnasekera, PhD student, Statistics &amp; Actuarial Science, SFU</li>
 <li>Nirodha Epasinghege, PhD student, Statistics &amp; Actuarial Science, SFU</li>
 <li>Ying Daisy Yu, PhD student, Statistics &amp; Actuarial Science, SFU</li>
-<li>Tianyu Yang, MSc student, Statistics &amp; Actuarial Science, SFU</li>
 <li>Xuefei Gloria Yang, PhD student, Statistics &amp; Actuarial Science, SFU</li>
+<li>Fabiha Binte Farooq, PhD student, Statistics &amp; Actuarial Science, SFU</li>
+<li>Tianyu Yang, MSc student, Statistics &amp; Actuarial Science, SFU</li>
+<li>Diksha Jethnani, MSc student, Statistics &amp; Actuarial Science, SFU</li>
 </ul>
 <p><b>Undergraduate Students</b></p>
 <ul>
