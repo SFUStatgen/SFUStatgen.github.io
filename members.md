@@ -13,8 +13,6 @@ title: Members
 <li>Pulindu Ratnasekera, PhD student, Statistics &amp; Actuarial Science, SFU</li>
 <li>Nirodha Epasinghege, PhD student, Statistics &amp; Actuarial Science, SFU</li>
 <li>Ying Daisy Yu, PhD student, Statistics &amp; Actuarial Science, SFU</li>
-<li>Zayed Shahjahan, MSc student, Statistics &amp; Actuarial Science, SFU</li>
-<li>Kaiying Zhang,&nbsp;MSc student, Statistics &amp; Actuarial Science, SFU</li>
 <li>Tianyu Yang, MSc student, Statistics &amp; Actuarial Science, SFU</li>
 <li>Xuefei Gloria Yang, PhD student, Statistics &amp; Actuarial Science, SFU</li>
 </ul>
@@ -37,6 +35,7 @@ title: Members
 </ul>
 <p><b>Alumni</b></p>
 <ol>
+<li>Zayed Shahjahan, MSc 2022:  Bioinformatics Statistical Analyst, EMMES Canada, Vancouver BC.</li>
 <li>Christina Nieuwoudt, PhD 2021: Senior Biostatistician, EMMES Canada, Vancouver BC.</li>
 <li>Charith (Bhagya) Karunarathna, PhD 2021: Postdoctoral Researcher, Department of Mathematics and Statistics, Dalhousie University, Halifax NS.</li>
 <li>Gloria Yang, MSc 2021: PhD student, Statistics and Actuarial Science, SFU.</li>
