@@ -86,8 +86,8 @@ Some tips from Michael Pyrcz, U. of Texas Austin:
 </li>
 <li>Poster printing at Cornerstone Printing at SFU:
 <ul>
-<li>$4.49/ sq. ft for regular paper, $5.49/ sq. ft for thicker glossy paper and $7.48/sq. ft for fabric (can be folded)</li>
-<li>they need 1 business day</li>
+<li>$4.49/ sq. ft for regular paper, $5.49/ sq. ft for thicker glossy paper and $7.49/sq. ft for fabric (can be folded)</li>
+<li>they say they need 1 business day, but in our experience they can do it in one dat</li>
 </ul>
 </ul>
 
