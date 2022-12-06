@@ -34,10 +34,13 @@ An R package to identify cryptic relatedness in genetic association studies. For
 <li>Gill E, Smith M, Gibson K, Morishita K, Lee A,, Falsafi R, <strong>Graham J</strong>, Foell D, Benseler S, Ross C, Luqmani R, Cabral D, Hancock R, Brown KL, the PedVas Initiative Investigators (2021). Different disease endotypes in phenotypically similar vasculitides affecting small-to-medium sized blood vessels. <i>Frontiers in Immunology</i> 12: 396.&nbsp;&nbsp;<b><a href="https://doi.org/10.3389/fimmu.2021.638571">DOI: 10.3389/fimmu.2021.638571</a></b></li>
 <li><strong>Ratnasekera P</strong> and <strong>McNeney B</strong> (2021). Re-analysis of a genome-wide gene-by-environment interaction study of case-parent trios, adjusted for population stratification. Front. Genet. 11:600232. <a href="https://doi.org/10.3389/fgene.2020.600232">doi: 10.3389/fgene.2020.600232</a></li>
 </ul>
+<h6>2020</h6>
+<ul>
+<li><strong>Nieuwoudt C, </strong>Brooks-Wilson A and <strong>Graham J. </strong>SimRVsequences: an R package to simulate genetic sequence data for pedigrees. Bioinformatics, btz881,&nbsp;<a href="https://doi.org/10.1093/bioinformatics/btz881">https://doi.org/10.1093/bioinformatics/btz881</a>.<b>&nbsp;</b></li>
+</ul>
 <h6 style="font-family: tahoma , arial , helvetica , sans-serif;">2019</h6>
 <ul style="font-family: tahoma , arial , helvetica , sans-serif;">
 <li><strong>CB Karunarathna&nbsp;</strong>and&nbsp;<strong>J Graham</strong>. perfectphyloR: An R package for reconstructing perfect phylogenies.<b>&nbsp;</b><i>BMC Bioinformatics</i>&nbsp;20, Article number: 729 (2019). <a href="https://doi.org/10.1186/s12859-019-3313-4">DOI 10.1186/s12859-019-3313-4</a>.</li>
-<li><strong>Nieuwoudt C, </strong>Brooks-Wilson A and <strong>Graham J. </strong>SimRVsequences: an R package to simulate genetic sequence data for pedigrees. Bioinformatics, btz881,&nbsp;<a href="https://doi.org/10.1093/bioinformatics/btz881">https://doi.org/10.1093/bioinformatics/btz881</a>.<b>&nbsp;</b></li>
 <li><strong>Choi JC</strong>, Lu D, Beg MF, <strong>Graham J</strong>, and <strong>McNeney B</strong> for the Alzheimer's Disease Neuroimaging Initiative (2019).&nbsp;The Contribution Plot: Decomposition and Graphical Display of the RV Coefficient, with Application to Genetic and Brain Imaging Biomarkers of Alzheimer's Disease. Human Heredity,&nbsp;<a href="https://doi.org/10.1159/000501334">https://doi.org/10.1159/000501334</a>.</li>
 <li>K Gibson, K Morishita, P Dancey, P Moorehead, B Drögemöller, X Xhan,&nbsp;<strong>J Graham</strong>, B Hancock, D Foell, S Benseler, R Luqmani, R Yeung, S Shenoi, M Bohm, A Rosenberg, C Ross, D Cabral, K Brown. Identification of novel Adenosine Deaminase 2 gene variants and varied clinical phenotype in pediatric vasculitis.&nbsp;<i>Arthritis &amp; Rheumatology</i>&nbsp; 71: 1747-1755&nbsp;<a href="https://doi.org/10.1002/art.40913">DOI 10.1002/art.40913</a></li>
 </ul>
