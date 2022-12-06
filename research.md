@@ -34,8 +34,8 @@ An R package to identify cryptic relatedness in genetic association studies. For
 <li>Gill E, Smith M, Gibson K, Morishita K, Lee A,, Falsafi R, <strong>Graham J</strong>, Foell D, Benseler S, Ross C, Luqmani R, Cabral D, Hancock R, Brown KL, the PedVas Initiative Investigators (2021). Different disease endotypes in phenotypically similar vasculitides affecting small-to-medium sized blood vessels. <i>Frontiers in Immunology</i> 12: 396.&nbsp;&nbsp;<b><a href="https://doi.org/10.3389/fimmu.2021.638571">DOI: 10.3389/fimmu.2021.638571</a></b></li>
 <li><strong>Ratnasekera P</strong> and <strong>McNeney B</strong> (2021). Re-analysis of a genome-wide gene-by-environment interaction study of case-parent trios, adjusted for population stratification. Front. Genet. 11:600232. <a href="https://doi.org/10.3389/fgene.2020.600232">doi: 10.3389/fgene.2020.600232</a></li>
 </ul>
-<h6>2020</h6>
-<ul>
+<h6 style="font-family: tahoma , arial , helvetica , sans-serif;">2020</h6>
+<ul style="font-family: tahoma , arial , helvetica , sans-serif;">
 <li><strong>Nieuwoudt C, </strong>Brooks-Wilson A and <strong>Graham J. </strong>SimRVsequences: an R package to simulate genetic sequence data for pedigrees. Bioinformatics, btz881,&nbsp;<a href="https://doi.org/10.1093/bioinformatics/btz881">https://doi.org/10.1093/bioinformatics/btz881</a>.<b>&nbsp;</b></li>
 </ul>
 <h6 style="font-family: tahoma , arial , helvetica , sans-serif;">2019</h6>
