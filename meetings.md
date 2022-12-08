@@ -13,7 +13,7 @@ title: Meetings
     <tr>
     <td width="55" valign="top">May 31, 2022</td>
     <td width="90" valign="top">Brad McNeney (SFU)</td>
-    <td width="330" valign="top">SSC 2022, Invited session on Current challenges in Genomic Epidemiology: Robust inference of gene-environment interaction from heterogeneous samples of case-parent trios</td>
+    <td width="330" valign="top">SSC 2022, Invited session on Current Challenges in Genomic Epidemiology: Robust inference of gene-environment interaction from heterogeneous samples of case-parent trios</td>
     <td valign="top">Zoom,&nbsp; 15:30-16:00</td>
    </tr>
    <tr>
