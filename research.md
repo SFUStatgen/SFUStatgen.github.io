@@ -24,7 +24,7 @@ An R package to identify cryptic relatedness in genetic association studies. For
 
 ###### 2023
 
-* **Ratnasekera P**, **Graham J**, **McNeney B** (2023). Inference of gene-environment interaction from heterogeneous case-parent trios. *Front. Genet. - Statistical Genetics and Methodology* **[DOI: https://doi.org/10.3389/fgene.2022.1065568]
+* **Ratnasekera P**, **Graham J**, **McNeney B** (2023). Inference of gene-environment interaction from heterogeneous case-parent trios. *Front. Genet. - Statistical Genetics and Methodology* **[DOI: https://doi.org/10.3389/fgene.2022.1065568] (https://doi.org/10.3389/fgene.2022.1065568)**.
 
 ###### 2022
 
