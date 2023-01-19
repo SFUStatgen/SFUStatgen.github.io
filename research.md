@@ -22,9 +22,12 @@ An R package to identify cryptic relatedness in genetic association studies. For
 
 ### Recent Publications
 
+###### 2023
+
+* **Ratnasekera P**, **Graham J**, **McNeney B** (2023). Inference of gene-environment interaction from heterogeneous case-parent trios. *Front. Genet. - Statistical Genetics and Methodology* **[DOI: https://doi.org/10.3389/fgene.2022.1065568]
+
 ###### 2022
 
-* **Ratnasekera P**, **Graham J**, **McNeney B** (2022). Inference of gene-environment interaction from heterogeneous case-parent trios. *Front. Genet. - Statistical Genetics and Methodology* In Press.
 * **Nickchi P**, **Karunarathna C**, **Graham J** (2022). An exploration of linkage fine-mapping on sequences from case-control studies. *Genetic Epidemiology*, 1– 17. **[DOI: https://doi.org/10.1002/gepi.22502](https://doi.org/10.1002/gepi.22502)**.
 * **Yu Y**, **Chen S**, Jones SJ, Hoque R, Vishnyakova O, Brooks-Wilson A, **McNeney B** (2022) Penalized logistic regression analysis for genetic association studies of binary phenotypes *Human Heredity* **[DOI: 10.1159/000525650](https://doi.org/10.1159/000525650)**.
 * **Epasinghege Dona N** and **Graham J** (2022). Datasets for a simulated family-based exome-sequencing study. *Data in Brief* 42: 108311. **[DOI: 10.1016/j.dib.2022.108311](https://doi.org/10.1016/j.dib.2022.108311)**.
