@@ -15,13 +15,25 @@ title: Meetings
     <td width="90" valign="top">Brad McNeney (SFU)</td>
     <td width="330" valign="top">SSC 2022, Invited session on Current Challenges in Genomic Epidemiology: Robust inference of gene-environment interaction from heterogeneous samples of case-parent trios</td>
     <td valign="top">Zoom,&nbsp; 15:30-16:00</td>
-   </tr>
-   <tr>
+ </tr>
+ <tr>
+    <td width="55" valign="top">Nov. 20, 2021</td>
+    <td width="90" valign="top">Jinko Graham (SFU)</td>
+    <td width="330" valign="top">Joint SFU/UBC Graduate Student Seminar: Creating a niche to be a happy researcher</td>
+    <td valign="top">Zoom,&nbsp; 12:05-1:05</td>
+</tr>
+ <tr>
     <td width="55" valign="top">Nov. 19, 2021</td>
     <td width="90" valign="top">Payman Nickchi (SFU)</td>
     <td width="330" valign="top">CANSSI Showcase lightning talk: A comparison of association methods for fine-mapping rare variants in case-control studies</td>
-    <td valign="top">Zoom,&nbsp; 12:00-1:00</td>
-   </tr>
+    <td valign="top">Zoom,&nbsp; 12:00-1:0</td>
+</tr>
+<tr>
+    <td width="55" valign="top">April, 2021</td>
+    <td width="90" valign="top">Jinko Graham (SFU)</td>
+    <td width="330" valign="top">Statistics Seminar, Université du Québec à Montréal: Gene genealogies in populations</td>
+    <td valign="top">Zoom,&nbsp; 12:30-1:30</td>
+</tr>
    <tr>
     <td width="55" valign="top">Sept. 13, 2021</td>
     <td width="90" valign="top">Christina Nieuwoudt (SFU)</td>
@@ -40,6 +52,12 @@ title: Meetings
     <td width="330" valign="top">MSc defence: Covariance-adjusted, sparse, reduced-rank regression with adjustment for confounders</td>
     <td valign="top">Zoom,&nbsp; 10:30-11:45</td>
   </tr>
+<tr>
+    <td width="55" valign="top">July, 2021</td>
+    <td width="90" valign="top">Jinko Graham (SFU)</td>
+    <td width="330" valign="top">Statistics 2021 Canada: Gene genealogies and DNA sharing</td>
+    <td valign="top">Zoom,&nbsp; 12:30-1:30</td>
+</tr>
   <tr>
     <td width="55" valign="top">Jun. 8, 2021</td>
     <td width="90" valign="top">Payman Nickchi (SFU)</td>
@@ -52,15 +70,37 @@ title: Meetings
     <td width="330" valign="top">SSC 2021, Session on Methods in Spatial, Cohort, or Case-Control Studies: Using the relatedness of sequences to fine-map genetic variants</td>
     <td valign="top">Zoom,&nbsp; 1:15-1:30</td>
   </tr>
-  <tr><td width="55" valign="top">Jun. 8, 2021</td>
-<td width="90" valign="top">Ying (Daisy) Yu (SFU)</td>
-<td width="330" valign="top">SSC 2021, Session on Understanding Genes and the Genome: Shrinkage Parameter Estimation in Penalized Logistic Regression Analysis of Case-Control Data</td>
-<td valign="top">Zoom,&nbsp; 11:30-11:45</td>
-</tr><tr><td width="55" valign="top">Jun. 8, 2021</td>
-<td width="90" valign="top">Pulindu Ratnasekera (SFU)</td>
-<td width="330" valign="top">SSC 2021, Session on Understanding Genes and the Genome: Re-analysis of a genome-wide gene-by-environment interaction study of case parent trios, adjusted for population stratification</td>
-<td valign="top">Zoom,&nbsp; 11:00-11:15</td>
-</tr><tr><td width="55" valign="top">Aug. 19, 2020</td>
+<tr>
+    <td width="55" valign="top">Jun. 8, 2021</td>
+    <td width="90" valign="top">Ying (Daisy) Yu (SFU)</td>
+    <td width="330" valign="top">SSC 2021, Session on Understanding Genes and the Genome: Shrinkage Parameter Estimation in Penalized Logistic Regression Analysis of Case-Control Data</td>
+    <td valign="top">Zoom,&nbsp; 11:30-11:45</td>
+</tr>
+<tr>
+    <td width="55" valign="top">Jun. 8, 2021</td>
+    <td width="90" valign="top">Pulindu Ratnasekera (SFU)</td>
+    <td width="330" valign="top">SSC 2021, Session on Understanding Genes and the Genome: Re-analysis of a genome-wide gene-by-environment interaction study of case parent trios, adjusted for population stratification</td>
+    <td valign="top">Zoom,&nbsp; 11:00-11:15</td>
+</tr>
+<tr>
+    <td width="55" valign="top">April, 2021</td>
+    <td width="90" valign="top">Jinko Graham (SFU)</td>
+    <td width="330" valign="top">Statistics Seminar, Université du Québec à Montréal: Gene genealogies in populations</td>
+    <td valign="top">Zoom,&nbsp; 12:30-1:30</td>
+</tr>
+<tr>
+    <td width="55" valign="top">March, 2021</td>
+    <td width="90" valign="top">Jinko Graham (SFU)</td>
+    <td width="330" valign="top">Statistics Seminar, Dalhousie University: Gene genealogies in populations</td>
+    <td valign="top">Zoom,&nbsp; 12:30-1:30</td>
+</tr>
+<tr>
+    <td width="55" valign="top">Feb, 2021</td>
+    <td width="90" valign="top">Jinko Graham (SFU)</td>
+    <td width="330" valign="top">SAGE/Biostatistics Seminar, University of Calgary: Gene genealogies and DNA sharing</td>
+    <td valign="top">Zoom,&nbsp; 12:30-1:30</td>
+</tr>
+<tr><td width="55" valign="top">Aug. 19, 2020</td>
 <td width="90" valign="top">Coco Liu (SFU)</td>
 <td width="330" valign="top">MSc defence: Curating and combining big data from genetic studies</td>
 <td valign="top">Zoom,&nbsp; 12:30-1:30</td>
