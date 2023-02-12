@@ -17,6 +17,18 @@ title: Meetings
     <td valign="top">Zoom,&nbsp; 15:30-16:00</td>
  </tr>
  <tr>
+    <td width="55" valign="top">April 22, 2022</td>
+    <td width="90" valign="top">Jinko Graham (SFU)</td>
+    <td width="330" valign="top">Statistics Seminar Series, Simon Fraser University: Relatedness, gene genealogies and DNA sharing</td>
+    <td valign="top">Halpern 126,&nbsp;SFU, 13:30-14:30</td>
+</tr>
+ <tr>
+    <td width="55" valign="top">April 22, 2022</td>
+    <td width="90" valign="top">Jinko Graham (SFU)</td>
+    <td width="330" valign="top">Statistical Genetics Journal Club, University of Toronto: Relatedness, gene genealogies and DNA sharing</td>
+    <td valign="top">Zoom,&nbsp; 7:00-8:30</td>
+</tr>
+ <tr>
     <td width="55" valign="top">Nov. 20, 2021</td>
     <td width="90" valign="top">Jinko Graham (SFU)</td>
     <td width="330" valign="top">Joint SFU/UBC Graduate Student Seminar: Creating a niche to be a happy researcher</td>
