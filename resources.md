@@ -58,8 +58,7 @@ Some tips from Michael Pyrcz, U. of Texas Austin:
 <img src="assets/images/RtoR_tips.png" alt="respreview" width="100%">
 
 
-<h2>TeX/LaTeX<br>
-</h2>
+<h2>TeX/LaTeX<br></h2>
 <ul>
 <li>Templates for SFU Master's projects and PhD theses in LaTeX.<ul>
 <li>&nbsp;<a href="http://www.lib.sfu.ca/help/publish/thesis/templates#latex-template">LaTeX template</a> from the SFU Library.<br>
@@ -92,6 +91,8 @@ Some tips from Michael Pyrcz, U. of Texas Austin:
 </ul>
 
 
-## Old documents and resources
+<h2>Old documents and resources</h2>
 
-* See [here](resources/olddocs.html) for other, possibly out-dated, resources
+<ul>
+   <li>See [here](resources/olddocs.html) for other, possibly out-dated, resources</li>
+ </ul
