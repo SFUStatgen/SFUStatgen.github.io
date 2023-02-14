@@ -83,4 +83,4 @@ Some tips from Michael Pyrcz, U. of Texas Austin:
 
 ## Old documents and resources
 
-*See [here](resources/olddocs.html) for other, possibly out-dated, resources
+* See [here](resources/olddocs.html) for other, possibly out-dated, resources
