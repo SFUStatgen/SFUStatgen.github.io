@@ -90,8 +90,6 @@ Some tips from Michael Pyrcz, U. of Texas Austin:
 </ul>
 
 
-<h2>Old documents and resources</h2>
+## Old documents and resources
 
-<ul>
-   <li>See [here](resources/olddocs.html) for other, possibly out-dated, resources</li>
- </ul
+*See [here](resources/olddocs.html) for other, possibly out-dated, resources
