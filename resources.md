@@ -88,7 +88,6 @@ Some tips from Michael Pyrcz, U. of Texas Austin:
 <li>$4.49/ sq. ft for regular paper, $5.49/ sq. ft for thicker glossy paper and $7.49/sq. ft for fabric (can be folded)</li>
 <li>they say they need 1 business day, but in our experience they can do it in one dat</li>
 </ul>
-</ul>
 
 
 <h2>Old documents and resources</h2>
