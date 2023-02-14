@@ -58,36 +58,27 @@ Some tips from Michael Pyrcz, U. of Texas Austin:
 <img src="assets/images/RtoR_tips.png" alt="respreview" width="100%">
 
 
-<h2>TeX/LaTeX<br></h2>
-<ul>
-<li>Templates for SFU Master's projects and PhD theses in LaTeX.<ul>
-<li>&nbsp;<a href="http://www.lib.sfu.ca/help/publish/thesis/templates#latex-template">LaTeX template</a> from the SFU Library.<br>
-</li>
-<li>A BibTeX sytle file forwarded by Flora Qu: <a href="https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/jasasty-ay.bst">jasasty-ay.bst</a>. The &quot;ay&quot; in the name appears to refer to &quot;author-year&quot; style references [e.g. Qu (2009)], rather than numeric citations in the text. Flora reports having had trouble with other bibtex style files, but that this one works. She notes: &quot;When you use this bib style file, you need to add \usepackage{natbib} in the main tex file.&quot;</li>
-<li>In addition to the LaTeX files, MSc students may be interested in looking at a few recent projects from the department to get sense of the scope and size of a typical MSc project: (i) <a href="https://www.sfu.ca/content/dam/sfu/stat/alumnitheses/2015/chenlu%20shi_finalproject.pdf">Chenlu Shi</a>, (ii) &nbsp;<a href="https://www.sfu.ca/content/dam/sfu/stat/alumnitheses/2014/MSc%20Project%20Report%20-%20Kunasekaran%20Nirmalkanna.pdf">Kunasekaran Nirmalkanna</a>, (iii) &nbsp;<a href="https://www.sfu.ca/content/dam/sfu/stat/alumnitheses/2014/RachelLipson%20Final%201141.pdf">Rachel Lipson</a></li>
-</ul>
-</li>
-<li>LaTeX posters:<ul>
-<li>The package tizkposter is popular these days.<ul>
-<li>Download the LaTeX package <a href="https://mirrors.ctan.org/graphics/pgf/contrib/tikzposter.zip">zipfile</a>,</li>
-<li>use unzip to unpack it into its own directory,</li>
-<li>change to this directory and run &quot;latex tikzposter.ins&quot; to generate the class files and examples.</li>
-<li>The documentation file is tikzposter.pdf. An example poster is in the file tikzposter-example.tex. A template that you can use as a starting point for your own posters is in the file tizkposter-template.tex.</li>
-</ul>
-</li>
-<li>Another possibility is the beamerposter package, which you may prefer over tikzposter if you use beamer for presentations.<ul>
-<li>Downoad the LaTeX package <a href="https://mirrors.ctan.org/macros/latex/contrib/beamerposter.zip">zipfile</a>,</li>
-<li>use unzip to unpack it into its own directory and change to this directory.</li>
-<li>The documentation is in the file beamerposter.pdf, and an example is in the file example.tex.</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Poster printing at Cornerstone Printing at SFU:
-<ul>
-<li>$4.49/ sq. ft for regular paper, $5.49/ sq. ft for thicker glossy paper and $7.49/sq. ft for fabric (can be folded)</li>
-<li>they say they need 1 business day, but in our experience they can do it in one dat</li>
-</ul>
+## TeX/LaTeX
+
+* Templates for SFU Master's projects and PhD theses in LaTeX.
+    * [LaTeX template](http://www.lib.sfu.ca/help/publish/thesis/templates#latex-template) from the SFU Library
+    * A BibTeX sytle file forwarded by Flora Qu: [jasasty.bst](https://www.sfu.ca/content/dam/sfu/stat/documents/Statgen/jasasty-ay.bst). The "ay" in the name appears to refer to "author-year" style references [e.g. Qu (2009)], rather than numeric citations in the text. Flora reports having had trouble with other bibtex style files, but that this one works. She notes: "When you use this bib style file, you need to add `\usepackage{natbib}` in the main tex file"
+    * In addition to the LaTeX files, MSc students may be interested in looking at a few recent projects from the department to get sense of the scope and size of a typical MSc project: (i) [Chenlu Shi](https://www.sfu.ca/content/dam/sfu/stat/alumnitheses/2015/chenlu%20shi_finalproject.pdf) (ii) [Kunasekaran Nirmalkanna](https://www.sfu.ca/content/dam/sfu/stat/alumnitheses/2014/MSc%20Project%20Report%20-%20Kunasekaran%20Nirmalkanna.pdf), (iii) [Rachel Lipson](https://www.sfu.ca/content/dam/sfu/stat/alumnitheses/2014/RachelLipson%20Final%201141.pdf)
+
+* LaTeX posters:
+    * The package tizkposter is popular these days.
+        * Download the LaTeX package [zipfile](https://mirrors.ctan.org/graphics/pgf/contrib/tikzposter.zip)
+        * use unzip to unpack it into its own directory,
+        * change to this directory and run "latex tikzposter.ins" to generate the class files and examples.
+        * The documentation file is tikzposter.pdf. An example poster is in the file tikzposter-example.tex. A template that you can use as a starting point for your own posters is in the file tizkposter-template.tex.
+    * Another possibility is the beamerposter package, which you may prefer over tikzposter if you use beamer for presentations.
+        * Downoad the LaTeX package [zipfile](https://mirrors.ctan.org/macros/latex/contrib/beamerposter.zip)
+        * use unzip to unpack it into its own directory and change to this directory.
+        * The documentation is in the file beamerposter.pdf, and an example is in the file example.tex.
+
+* Poster printing at Cornerstone Printing at SFU:
+    * $4.49/ sq. ft for regular paper, $5.49/ sq. ft for thicker glossy paper and $7.49/sq. ft for fabric (can be folded)
+    * they say they need 1 business day, but in our experience they can do it in one dat
 
 
 ## Old documents and resources
