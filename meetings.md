@@ -41,10 +41,10 @@ title: Meetings
     <td valign="top">Zoom,&nbsp; 12:00-1:0</td>
 </tr>
 <tr>
-    <td width="55" valign="top">April, 2021</td>
-    <td width="90" valign="top">Jinko Graham (SFU)</td>
-    <td width="330" valign="top">Statistics Seminar, Université du Québec à Montréal: Gene genealogies in populations</td>
-    <td valign="top">Zoom,&nbsp; 12:30-1:30</td>
+    <td width="55" valign="top">Oct., 2021</td>
+    <td width="90" valign="top">Charith (Bhagya) Karunarathna (SFU)</td>
+    <td width="330" valign="top">Statistics Seminar, Dalhousie University: Sequence clustering for genetic mapping of binary traits</td>
+    <td valign="top">#319 Colloquium Room, Chase Building, 11:30-12:30</td>
 </tr>
    <tr>
     <td width="55" valign="top">Sept. 13, 2021</td>
