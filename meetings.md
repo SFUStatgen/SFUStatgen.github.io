@@ -41,7 +41,7 @@ title: Meetings
     <td valign="top">Zoom,&nbsp; 12:00-1:0</td>
 </tr>
 <tr>
-    <td width="55" valign="top">Oct., 2021</td>
+    <td width="55" valign="top">Oct. 28, 2021</td>
     <td width="90" valign="top">Charith (Bhagya) Karunarathna (SFU)</td>
     <td width="330" valign="top">Statistics Seminar, Dalhousie University: Sequence clustering for genetic mapping of binary traits</td>
     <td valign="top">Room 319, Chase Building, 11:30-12:30</td>
