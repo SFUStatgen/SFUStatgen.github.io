@@ -8,7 +8,7 @@ title: Resources
 
 #### General Computing
 
-* We've prepared a summary of the [workflow](https://sfustatgen.github.io/resources/workflow.pdf) for [open science](https://en.wikipedia.org/wiki/Open_science) used in our research group.
+<!-- * We've prepared a summary of the [workflow](https://sfustatgen.github.io/resources/workflow.pdf) for [open science](https://en.wikipedia.org/wiki/Open_science) used in our research group. -->
 <!-- * These days we do most of our computationally-demanding work on [Compute Canada](https://computecanada.ca). -->
 * See our [Compute Canada introduction](https://sfustatgen.github.io/resources/computecan.html) page for information on registering with Compute Canada and using their
 resources.
