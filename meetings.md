@@ -11,6 +11,18 @@ title: Meetings
 <table cellspacing="10">
 <tbody>
     <tr>
+    <td width="55" valign="top">June 9, 2023</td>
+    <td width="90" valign="top">Brad McNeney (SFU)</td>
+    <td width="330" valign="top">University of Toronto StatGen Seminar: Robust inference of gene-environment interaction from heterogeneous samples of case-parent trios</td>
+    <td valign="top">Zoom,&nbsp; 10:00-11:00</td>
+ </tr>
+    <tr>
+    <td width="55" valign="top">May 29, 2023</td>
+    <td width="90" valign="top">Jinko Graham (SFU)</td>
+    <td width="330" valign="top">SSC 2023, Session on Causal Inference Methods in Applied Statistics: An exploration of linkage fine-mapping on sequences from case-control studies</td>
+    <td valign="top">Carleton University, Room TB238, 15:45 to 16:00</td>
+</tr>
+    <tr>
     <td width="55" valign="top">May 31, 2022</td>
     <td width="90" valign="top">Brad McNeney (SFU)</td>
     <td width="330" valign="top">SSC 2022, Invited session on Current Challenges in Genomic Epidemiology: Robust inference of gene-environment interaction from heterogeneous samples of case-parent trios</td>
