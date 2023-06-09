@@ -13,7 +13,7 @@ title: Meetings
     <tr>
     <td width="55" valign="top">June 9, 2023</td>
     <td width="90" valign="top">Brad McNeney (SFU)</td>
-    <td width="330" valign="top">University of Toronto StatGen Seminar: Robust inference of gene-environment interaction from heterogeneous samples of case-parent trios</td>
+    <td width="330" valign="top">Statistical Genetics Journal Club, University of Toronto: Robust inference of gene-environment interaction from heterogeneous samples of case-parent trios</td>
     <td valign="top">Zoom,&nbsp; 10:00-11:00</td>
  </tr>
     <tr>
