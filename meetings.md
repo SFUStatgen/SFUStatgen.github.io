@@ -10,17 +10,23 @@ title: Meetings
 <p><b>Schedule:</b></p>
 <table cellspacing="10">
 <tbody>
-    <tr>
+<tr>
     <td width="55" valign="top">June 9, 2023</td>
     <td width="90" valign="top">Brad McNeney (SFU)</td>
     <td width="330" valign="top">Statistical Genetics Journal Club, University of Toronto: Robust inference of gene-environment interaction from heterogeneous samples of case-parent trios</td>
     <td valign="top">Zoom,&nbsp; 10:00-11:00</td>
  </tr>
-    <tr>
+ <tr>
     <td width="55" valign="top">May 29, 2023</td>
     <td width="90" valign="top">Jinko Graham (SFU)</td>
     <td width="330" valign="top">SSC 2023, Session on Causal Inference Methods in Applied Statistics: An exploration of linkage fine-mapping on sequences from case-control studies</td>
-    <td valign="top">Room TB238, Carleton University, 15:45 to 16:00</td>
+    <td valign="top">Room TB 238, Carleton University, 15:45 to 16:00</td>
+</tr>
+<tr>
+    <td width="55" valign="top">May 29, 2023</td>
+    <td width="90" valign="top">Fabiha Binte Farooq (SFU)</td>
+    <td width="330" valign="top">SSC 2023, Session on New Developments In Statistical Theory And Analysis: Statistical prioritization of sequencing variants in disease-enriched families</td>
+    <td valign="top">Room RB 1201, Carleton University, 11:05 to 11:20</td>
 </tr>
     <tr>
     <td width="55" valign="top">May 31, 2022</td>
