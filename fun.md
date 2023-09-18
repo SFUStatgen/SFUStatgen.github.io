@@ -15,4 +15,4 @@ Bhagya's convocation at SFU, Oct. 7, 2021
 
 Jinko and Brad's visit to Qingrun and Quan's labs in Calgary Sept 2023
 
-<img src="assets/images/CalgaryVisit.jpeg" alt="CalgaryVisit" width="400">
+<img src="assets/images/CalgaryVisit.jpg" alt="CalgaryVisit" width="400">
