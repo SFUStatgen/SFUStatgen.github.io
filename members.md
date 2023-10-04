@@ -37,7 +37,7 @@ title: Members
 <p><b>Alumni</b></p>
 <ol>
 <li>Pulindu Ratnasekera, PhD 2023: Data Analyst, Public Health Agency of Canada, Vancouver BC.</li>
-<li>Daisy Yu, PhD 2023</li>
+<li>Daisy Yu, PhD 2023; MSc 2019</li>
 <li>Tianyu Yang, MSc 2023: Statistical Consultant, Vancouver BC.</li>
 <li>ZS, MSc 2022:  Bioinformatics Statistical Analyst, EMMES Canada, Vancouver BC.</li>
 <li>Christina Nieuwoudt, PhD 2021: Senior Biostatistician, EMMES Canada, Vancouver BC.</li>
