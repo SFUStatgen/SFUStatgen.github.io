@@ -38,7 +38,7 @@ title: Members
 </ul>
 <p><b>Alumni</b></p>
 <ol>
-<li>Zayed Shahjahan, MSc 2022:  Bioinformatics Statistical Analyst, EMMES Canada, Vancouver BC.</li>
+<li>ZS, MSc 2022:  Bioinformatics Statistical Analyst, EMMES Canada, Vancouver BC.</li>
 <li>Christina Nieuwoudt, PhD 2021: Senior Biostatistician, EMMES Canada, Vancouver BC.</li>
 <li>Charith (Bhagya) Karunarathna, PhD 2021: Postdoctoral Researcher, Department of Mathematics and Statistics, Dalhousie University, Halifax NS.</li>
 <li>Gloria Yang, MSc 2021: PhD student, Statistics and Actuarial Science, SFU.</li>
