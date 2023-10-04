@@ -10,13 +10,12 @@ title: Members
 <li><a href="https://mcneney.github.io/">Brad McNeney</a>, Faculty, Statistics &amp; Actuarial Science, SFU</li>
 <li>Dongmeng Liu, PhD student, Statistics &amp; Actuarial Science, SFU</li>
 <li>Payman Nickchi, PhD student, Statistics &amp; Actuarial Science, SFU</li>
-<li>Pulindu Ratnasekera, PhD student, Statistics &amp; Actuarial Science, SFU</li>
 <li>Nirodha Epasinghege, PhD student, Statistics &amp; Actuarial Science, SFU</li>
-<li>Ying Daisy Yu, PhD student, Statistics &amp; Actuarial Science, SFU</li>
 <li>Xuefei Gloria Yang, PhD student, Statistics &amp; Actuarial Science, SFU</li>
 <li>Fabiha Binte Farooq, PhD student, Statistics &amp; Actuarial Science, SFU</li>
 <li>Tianyu Yang, MSc student, Statistics &amp; Actuarial Science, SFU</li>
 <li>Diksha Jethnani, MSc student, Statistics &amp; Actuarial Science, SFU</li>
+<li>Chen Liu, MSc student, Statistics &amp; Actuarial Science, SFU</li>
 </ul>
 <p><b>Undergraduate Students</b></p>
 <ul>
@@ -38,6 +37,8 @@ title: Members
 </ul>
 <p><b>Alumni</b></p>
 <ol>
+<li>Pulindu Ratnasekera, PhD 2023</li>
+<li>Daisy Yu, PhD 2023</li>
 <li>ZS, MSc 2022:  Bioinformatics Statistical Analyst, EMMES Canada, Vancouver BC.</li>
 <li>Christina Nieuwoudt, PhD 2021: Senior Biostatistician, EMMES Canada, Vancouver BC.</li>
 <li>Charith (Bhagya) Karunarathna, PhD 2021: Postdoctoral Researcher, Department of Mathematics and Statistics, Dalhousie University, Halifax NS.</li>
