@@ -37,11 +37,11 @@ title: Members
 </ul>
 <p><b>Alumni</b></p>
 <ol>
-<li>Pulindu Ratnasekera, PhD 2023</li>
+<li>Pulindu Ratnasekera, PhD 2023: Data Analyst, Public Health Agency of Canada, Vancouver BC.</li>
 <li>Daisy Yu, PhD 2023</li>
 <li>ZS, MSc 2022:  Bioinformatics Statistical Analyst, EMMES Canada, Vancouver BC.</li>
 <li>Christina Nieuwoudt, PhD 2021: Senior Biostatistician, EMMES Canada, Vancouver BC.</li>
-<li>Charith (Bhagya) Karunarathna, PhD 2021: Postdoctoral Researcher, Department of Mathematics and Statistics, Dalhousie University, Halifax NS.</li>
+<li>Charith (Bhagya) Karunarathna, PhD 2021: Senior Statistician, BC Renal at Provincial Health Services Authority, Vancouver BC.</li>
 <li>Gloria Yang, MSc 2021: PhD student, Statistics and Actuarial Science, SFU.</li>
 <li>Coco Liu, MSc 2020: Research Consultant, Cytel, Vancouver BC.</li>
 <li>Siyuan Chen, MSc 2020: PhD student, Biostatistics, Penn State University, State College PA.</li>
