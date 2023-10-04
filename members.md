@@ -13,7 +13,6 @@ title: Members
 <li>Nirodha Epasinghege, PhD student, Statistics &amp; Actuarial Science, SFU</li>
 <li>Xuefei Gloria Yang, PhD student, Statistics &amp; Actuarial Science, SFU</li>
 <li>Fabiha Binte Farooq, PhD student, Statistics &amp; Actuarial Science, SFU</li>
-<li>Tianyu Yang, MSc student, Statistics &amp; Actuarial Science, SFU</li>
 <li>Diksha Jethnani, MSc student, Statistics &amp; Actuarial Science, SFU</li>
 <li>Chen Liu, MSc student, Statistics &amp; Actuarial Science, SFU</li>
 </ul>
@@ -39,6 +38,7 @@ title: Members
 <ol>
 <li>Pulindu Ratnasekera, PhD 2023: Data Analyst, Public Health Agency of Canada, Vancouver BC.</li>
 <li>Daisy Yu, PhD 2023</li>
+<li>Tianyu Yang, MSc 2023: Statistical Consultant, Vancouver BC.</li>
 <li>ZS, MSc 2022:  Bioinformatics Statistical Analyst, EMMES Canada, Vancouver BC.</li>
 <li>Christina Nieuwoudt, PhD 2021: Senior Biostatistician, EMMES Canada, Vancouver BC.</li>
 <li>Charith (Bhagya) Karunarathna, PhD 2021: Senior Statistician, BC Renal at Provincial Health Services Authority, Vancouver BC.</li>
