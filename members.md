@@ -46,7 +46,6 @@ title: Members
 <li>Coco Liu, MSc 2020: Research Consultant, Cytel, Vancouver BC.</li>
 <li>Siyuan Chen, MSc 2020: PhD student, Biostatistics, Penn State University, State College PA.</li>
 <li>Haoyao Ruan, MSc 2019: Research Consultant, Cytel, Toronto ON.</li>
-<li>Daisy Yu, MSc 2019: PhD student, Statistics and Actuarial Science, SFU.</li>
 <li>JinCheol Choi, MSc 2018: Biostatistician, BC Centre for Substance Use, Vancouver BC.</li>
 <li>Dilshani Induruwage, MSc 2017: Statistician, BC Provincial Health Services Authority, Vancouver BC.<br>
 </li>
