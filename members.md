@@ -35,10 +35,10 @@ title: Members
 <p><b>Alumni</b></p>
 <ol>
   
-<li>Nirodha Epasinghege, PhD 2024: Postdoctoral associate, Statistics &amp; Actuarial Science, SFU, Burnaby</li>
-  <li>Payman Nickchi, PhD 2024: Postdoctoral associate, Statistics &amp; Actuarial Science, SFU, Burnaby</li>
-<li>Pulindu Ratnasekera, PhD 2023: Postdoctoral associate, Statistics &amp; Actuarial Science, SFU, Burnaby</li>
-<li>Daisy Yu, PhD 2023; MSc 2019: Statistician, Government of Alberta, Edmonton</li>
+<li>Nirodha Epasinghege, PhD 2024: Postdoctoral associate, Statistics &amp; Actuarial Science, SFU, Burnaby BC.</li>
+  <li>Payman Nickchi, PhD 2024: Postdoctoral associate, Statistics &amp; Actuarial Science, SFU, Burnaby BC.</li>
+<li>Pulindu Ratnasekera, PhD 2023: Postdoctoral associate, Statistics &amp; Actuarial Science, SFU, Burnaby BC.</li>
+<li>Daisy Yu, PhD 2023; MSc 2019: Statistician, Government of Alberta, Edmonton AB.</li>
 <li>Tianyu Yang, MSc 2023: Statistical Consultant, Vancouver BC.</li>
 <li>ZS, MSc 2022:  Bioinformatics Statistical Analyst, EMMES Canada, Vancouver BC.</li>
 <li>Christina Nieuwoudt, PhD 2021: Senior Biostatistician, EMMES Canada, Vancouver BC.</li>
