@@ -44,7 +44,7 @@ title: Members
 <li>Christina Nieuwoudt, PhD 2021: Senior Biostatistician, EMMES Canada, Vancouver BC.</li>
 <li>Charith (Bhagya) Karunarathna, PhD 2021: Senior Statistician, BC Renal at Provincial Health Services Authority, Vancouver BC.</li>
 <li>Gloria Yang, MSc 2021: PhD student, Statistics and Actuarial Science, SFU.</li>
-<li>Coco Liu, MSc 2020: Research Consultant, Cytel, Vancouver BC.</li>
+<li>Coco Liu, MSc 2020: Research Statistician, PRECISIONheor, Vancouver BC.</li>
 <li>Siyuan Chen, MSc 2020: PhD student, Biostatistics, Penn State University, State College PA.</li>
 <li>Haoyao Ruan, MSc 2019: Research Consultant, Cytel, Toronto ON.</li>
 <li>JinCheol Choi, MSc 2018: Biostatistician, BC Centre for Substance Use, Vancouver BC.</li>
