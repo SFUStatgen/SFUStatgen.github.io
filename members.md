@@ -37,7 +37,7 @@ title: Members
   
 <li>Nirodha Epasinghege, PhD 2024: Senior Data Analyst, BC Ministry of Health, Vancouver BC.</li>
   <li>Payman Nickchi, PhD 2024: Postdoctoral associate, Statistics &amp; Actuarial Science, SFU, Burnaby BC.</li>
-<li>Pulindu Ratnasekera, PhD 2023: Postdoctoral associate, Statistics &amp; Actuarial Science, SFU, Burnaby BC.</li>
+<li>Pulindu Ratnasekera, PhD 2023: Lecturer, Statistics, Indiana University, Bloomington IN.</li>
 <li>Daisy Yu, PhD 2023; MSc 2019: Statistician, Government of Alberta, Edmonton AB.</li>
 <li>Tianyu Yang, MSc 2023: Statistical Consultant, Vancouver BC.</li>
 <li>ZS, MSc 2022:  Bioinformatics Statistical Analyst, EMMES Canada, Vancouver BC.</li>
