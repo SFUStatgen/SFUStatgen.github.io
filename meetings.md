@@ -17,6 +17,12 @@ title: Meetings
     <td valign="top">Zoom, 9:00-10:30</td>
  </tr>
 <tr>
+    <td width="55" valign="top">Dec. 19, 2023</td>
+    <td width="90" valign="top">Payman Nickchi (SFU)</td>
+    <td width="330" valign="top">PhD defence: Linkage fine-mapping on sequences from case-control studies and Goodness-of-fit tests based on empirical distribution function for general likelihood model</td>
+    <td valign="top">Library Room 2020, SFU; 10:00-11:30</td>
+ </tr>
+<tr>
     <td width="55" valign="top">Oct. 23, 2023</td>
     <td width="90" valign="top">Nirodha Epasinghege Dona (SFU)</td>
     <td width="330" valign="top">PhD defence: Big data applications in genetics and sports</td>
