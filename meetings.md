@@ -11,6 +11,12 @@ title: Meetings
 <table cellspacing="10">
 <tbody>
 <tr>
+    <td width="55" valign="top">Apr. 9, 2024</td>
+    <td width="90" valign="top">Diksha Jethnani (SFU)</td>
+    <td width="330" valign="top">MSc defence: Analysis of rare variants in the first exon of the ataxin-2 gene in patients with neurodegenerative diseases</td>
+    <td valign="top">Zoom, 9:00-10:30</td>
+ </tr>
+<tr>
     <td width="55" valign="top">Sept. 18, 2023</td>
     <td width="90" valign="top">Brad McNeney (SFU)</td>
     <td width="330" valign="top">Biostatistics Seminar Series, U of Calgary: Robust inference of gene-environment interaction from heterogeneous samples of case-parent trios</td>
