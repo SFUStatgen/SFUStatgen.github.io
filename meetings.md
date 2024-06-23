@@ -98,6 +98,12 @@ Location: Zoom
     <td width="330" valign="top">Statistical Genetics Journal Club, University of Toronto: Relatedness, gene genealogies and DNA sharing</td>
     <td valign="top">Zoom,&nbsp; 7:00-8:30</td>
 </tr>
+<tr>
+    <td width="55" valign="top">April 12, 2022</td>
+    <td width="90" valign="top">Zayed Shahjahan (SFU)</td>
+    <td width="330" valign="top">MSc defence: Bayesian variable selection in regression with genetics application</td>
+    <td valign="top">Zoom,&nbsp; 9:30-11:00</td>
+</tr>
  <tr>
     <td width="55" valign="top">Nov. 20, 2021</td>
     <td width="90" valign="top">Jinko Graham (SFU)</td>
