@@ -41,6 +41,12 @@ title: Meetings
     <td valign="top">Room MS 522, U of Calgary Main Campus, 13:00 to 14:00</td>
 </tr>
 <tr> 
+    <td width="55" valign="top">Aug. 17, 2023</td>
+    <td width="90" valign="top">Ying (Daisy) Yu (SFU)</td>
+    <td width="330" valign="top">PhD defence: Penalized likelihood methods for sparse datasets, with applications to genetic epidemiology</td>
+    <td valign="top">Library Room 2020, SFU; 10:00-11:30</td>
+ </tr>
+<tr> 
     <td width="55" valign="top">Aug. 16, 2023</td>
     <td width="90" valign="top">Pulindu Ratnasekera (SFU)</td>
     <td width="330" valign="top">PhD defence: Inference of gene-environment interaction from heterogeneous case-parent trios</td>
@@ -70,6 +76,16 @@ title: Meetings
     <td width="330" valign="top">SSC 2022, Invited session on Current Challenges in Genomic Epidemiology: Robust inference of gene-environment interaction from heterogeneous samples of case-parent trios</td>
     <td valign="top">Zoom,&nbsp; 15:30-16:00</td>
  </tr>
+A pedigree-transmission likelihood for multiplex families
+Date: Thursday, April 6th, 2023
+Time: 10:00am
+Location: Zoom
+ <tr>
+    <td width="55" valign="top">April 26, 2022</td>
+    <td width="90" valign="top">Tianyu Yang (SFU)</td>
+    <td width="330" valign="top">MSc defence: A pedigree-transmission likelihood for multiplex families</td>
+    <td valign="top">Zoom, 10:00-11:30</td>
+</tr>
  <tr>
     <td width="55" valign="top">April 22, 2022</td>
     <td width="90" valign="top">Jinko Graham (SFU)</td>
