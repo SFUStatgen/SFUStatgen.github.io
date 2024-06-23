@@ -28,16 +28,6 @@ title: Meetings
     <td width="330" valign="top">PhD defence: Big data applications in genetics and sports</td>
     <td valign="top">Library Room 2020, SFU; 10:00-11:30</td>
  </tr>
-    <td width="55" valign="top">Sept. 18, 2023</td>
-    <td width="90" valign="top">Brad McNeney (SFU)</td>
-    <td width="330" valign="top">Biostatistics Seminar Series, U of Calgary: Robust inference of gene-environment interaction from heterogeneous samples of case-parent trios</td>
-    <td valign="top">Room G384, U of Calgary Foothills Campus; 10:00-11:00</td>
-</tr>
-    <td width="55" valign="top">Sept. 18, 2023</td>
-    <td width="90" valign="top">Brad McNeney (SFU)</td>
-    <td width="330" valign="top">Biostatistics Seminar Series, U of Calgary: Robust inference of gene-environment interaction from heterogeneous samples of case-parent trios</td>
-    <td valign="top">Room G384, U of Calgary Foothills Campus; 10:00-11:00</td>
- </tr>
 <tr>
     <td width="55" valign="top">Sept. 18, 2023</td>
     <td width="90" valign="top">Brad McNeney (SFU)</td>
@@ -50,6 +40,12 @@ title: Meetings
     <td width="330" valign="top">Biostatistics Seminar Series, U of Calgary: DNA sharing and linkage analysis on sequence</td>
     <td valign="top">Room MS 522, U of Calgary Main Campus, 13:00 to 14:00</td>
 </tr>
+<tr> 
+    <td width="55" valign="top">Aug. 16, 2023</td>
+    <td width="90" valign="top">Pulindu Ratnasekera (SFU)</td>
+    <td width="330" valign="top">PhD defence: Inference of gene-environment interaction from heterogeneous case-parent trios</td>
+    <td valign="top">Library Room 2020, SFU; 10:00-11:30</td>
+ </tr>
 <tr>
     <td width="55" valign="top">June 9, 2023</td>
     <td width="90" valign="top">Brad McNeney (SFU)</td>
