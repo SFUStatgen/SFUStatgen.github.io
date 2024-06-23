@@ -17,6 +17,22 @@ title: Meetings
     <td valign="top">Zoom, 9:00-10:30</td>
  </tr>
 <tr>
+    <td width="55" valign="top">Oct. 23, 2023</td>
+    <td width="90" valign="top">Nirodha Epasinghege Dona (SFU)</td>
+    <td width="330" valign="top">PhD defence: Big data applications in genetics and sports</td>
+    <td valign="top">Library Room 2020, SFU; 10:00-11:30</td>
+ </tr>
+    <td width="55" valign="top">Sept. 18, 2023</td>
+    <td width="90" valign="top">Brad McNeney (SFU)</td>
+    <td width="330" valign="top">Biostatistics Seminar Series, U of Calgary: Robust inference of gene-environment interaction from heterogeneous samples of case-parent trios</td>
+    <td valign="top">Room G384, U of Calgary Foothills Campus; 10:00-11:00</td>
+</tr>
+    <td width="55" valign="top">Sept. 18, 2023</td>
+    <td width="90" valign="top">Brad McNeney (SFU)</td>
+    <td width="330" valign="top">Biostatistics Seminar Series, U of Calgary: Robust inference of gene-environment interaction from heterogeneous samples of case-parent trios</td>
+    <td valign="top">Room G384, U of Calgary Foothills Campus; 10:00-11:00</td>
+ </tr>
+<tr>
     <td width="55" valign="top">Sept. 18, 2023</td>
     <td width="90" valign="top">Brad McNeney (SFU)</td>
     <td width="330" valign="top">Biostatistics Seminar Series, U of Calgary: Robust inference of gene-environment interaction from heterogeneous samples of case-parent trios</td>
