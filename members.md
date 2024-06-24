@@ -53,7 +53,7 @@ title: Members
 </li>
 <li>Khalif Halani, MSc 2016: Senior Biostatistician, EMMES Canada, Vancouver BC.<br>
 </li>
-<li>Joanna Lubieniecka, PDF 2016: Research Scientist, Ruhr-Universität Bochum, Department of Human Genetics, Bochum Germany<br>
+<li>Joanna Lubieniecka, PDF 2016: Research Professor, Human Genetics, Ruhr-Universität Bochum, Germany<br>
 </li>
 <li>Elena Szefer, MSc 2014: Senior Coordinator, Data Collection and Analysis, First Nations Health Authority, Victoria BC<br>
 </li>
@@ -69,7 +69,7 @@ title: Members
 <li>Jeong Eun Min, MSc 2009: Senior Statistician, Centre for Health Evaluation and Outcome Sciences (CHÉOS), Vancouver BC.</li>
 <li>Flora Qu, MSc 2009: Genetic Statistician, Fred Hutchinson Cancer Research Center, Seattle WA.<br>
 </li>
-<li>Linnea Duke, MSc 2007: Medical Doctor, Department of Pathology, McGill University, Montréal QC.</li>
+<li>Linnea Duke, MSc 2007: Forensic and Anatomical Pathologist, EORLA - Eastern Ontario Regional Laboratory Association.</li>
 <li>Zhijian Chen, MSc&nbsp; 2006:&nbsp; PhD Statistics, University of Waterloo; current position Risk Modeller, Alibaba Group, Hangzhou City, Zhejiang, China.</li>
 <li>David Zamar, MSc 2006: Data Scientist, School of Population and Public Health, UBC, Vancouver BC.<br>
 </li>
