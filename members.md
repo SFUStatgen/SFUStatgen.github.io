@@ -49,7 +49,7 @@ title: Members
 <li>JinCheol Choi, MSc 2018: Biostatistician, BC Centre for Substance Use, Vancouver BC.</li>
 <li>Dilshani Induruwage, MSc 2017: Statistician, BC Provincial Health Services Authority, Vancouver BC.<br>
 </li>
-<li>Jiying Wen, MSc 2016: Data Scientist, Amazon, Seattle WA.<br>
+<li>Jiying Wen, MSc 2016: Machine learning engineer, Uber, Seattle WA.<br>
 </li>
 <li>Khalif Halani, MSc 2016: Senior Biostatistician, EMMES Canada, Vancouver BC.<br>
 </li>
