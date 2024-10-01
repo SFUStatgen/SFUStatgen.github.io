@@ -24,7 +24,7 @@ An R package to identify cryptic relatedness in genetic association studies. For
 
 ###### 2024
 
-* **Nieuwoudt C**, **Binte Farooq F**, Brooks-Wilson A, Bureau A, **Graham J** (2024). Statistics to prioritize rare variants in family-based sequencing studies with disease subtypes. *Genetic Epidemiology* Published online June 28. **[DOI: 10.1002/gepi.22579](https://doi.org/10.1002/gepi.22579)**.
+* **Nieuwoudt C**, **Binte Farooq F**, Brooks-Wilson A, Bureau A, **Graham J** (2024). Statistics to prioritize rare variants in family-based sequencing studies with disease subtypes. *Genetic Epidemiology*, 48(7), 324-343. **[DOI: 10.1002/gepi.22579](https://doi.org/10.1002/gepi.22579)**.
 
 ###### 2023
 
