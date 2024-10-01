@@ -24,7 +24,7 @@ An R package to identify cryptic relatedness in genetic association studies. For
 
 ###### 2024
 
-* **Nieuwoudt C**, **Binte Farooq F**, Brooks-Wilson A, Bureau A, **Graham J** (2024). Statistics to prioritize rare variants in family-based sequencing studies with disease subtypes. *Genetic Epidemiology*, 48(7), 324-343. **[DOI: 10.1002/gepi.22579](https://doi.org/10.1002/gepi.22579)**.
+* **Nieuwoudt C**, **Binte Farooq F**, Brooks-Wilson A, Bureau A, **Graham J** (2024). Statistics to prioritize rare variants in family-based sequencing studies with disease subtypes. *Genetic Epidemiology*, 48(7): 324-343. **[DOI: 10.1002/gepi.22579](https://doi.org/10.1002/gepi.22579)**.
 
 ###### 2023
 
@@ -32,7 +32,7 @@ An R package to identify cryptic relatedness in genetic association studies. For
 
 ###### 2022
 
-* **Nickchi P**, **Karunarathna C**, **Graham J** (2022). An exploration of linkage fine-mapping on sequences from case-control studies. *Genetic Epidemiology*, 1– 17. **[DOI: 10.1002/gepi.22502](https://doi.org/10.1002/gepi.22502)**.
+* **Nickchi P**, **Karunarathna C**, **Graham J** (2022). An exploration of linkage fine-mapping on sequences from case-control studies. *Genetic Epidemiology*, 47(1):1– 17. **[DOI: 10.1002/gepi.22502](https://doi.org/10.1002/gepi.22502)**.
 * **Yu Y**, **Chen S**, Jones SJ, Hoque R, Vishnyakova O, Brooks-Wilson A, **McNeney B** (2022) Penalized logistic regression analysis for genetic association studies of binary phenotypes *Human Heredity* **[DOI: 10.1159/000525650](https://doi.org/10.1159/000525650)**.
 * **Epasinghege Dona N** and **Graham J** (2022). Datasets for a simulated family-based exome-sequencing study. *Data in Brief* 42: 108311. **[DOI: 10.1016/j.dib.2022.108311](https://doi.org/10.1016/j.dib.2022.108311)**.
 
