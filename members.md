@@ -39,7 +39,7 @@ title: Members
 <li>Pulindu Ratnasekera, PhD 2023: Lecturer, Statistics, Indiana University, Bloomington IN.</li>
 <li>Daisy Yu, PhD 2023; MSc 2019: Statistician, Government of Alberta, Edmonton AB.</li>
 <li>Tianyu Yang, MSc 2023: Biostatistician, Praxis Spinal Cord Institute,  Vancouver BC.</li>
-<li>ZS, MSc 2022:  Bioinformatics Statistical Analyst, Dept. of Psychiatry, Faculty of Medicine, UBC, Vancouver BC.</li>
+<li>ZS, MSc 2022:  Biostatistician, Faculty of Medicine, UBC, Vancouver BC.</li>
 <li>Christina Nieuwoudt, PhD 2021: Senior Biostatistician, EMMES Canada, Vancouver BC.</li>
 <li>Charith (Bhagya) Karunarathna, PhD 2021: Senior Statistician, BC Renal at Provincial Health Services Authority, Vancouver BC.</li>
 <li>Gloria Yang, MSc 2021: PhD student, Statistics and Actuarial Science, SFU.</li>
