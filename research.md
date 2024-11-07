@@ -144,7 +144,7 @@ An R package to identify cryptic relatedness in genetic association studies. For
 <table cellspacing="0" cellpadding="1" border="0" style="font-family: tahoma , arial , helvetica , sans-serif;">
 <tbody>
  <tr>
-    <td valign="top" width="90">Nov 2024</td>
+    <td valign="top" width="90">Nov. 2024</td>
     <td>International Genetic Epidemiology Society Annual Meeting, Denver;  Statistics to prioritize rare variants in family-based sequencing studies with disease subtypes. Christina Nieuwoudt, Fabiha Binte Farooq, 
 Angela Brooks-Wilson, Alexandre Bureau and Jinko Graham (presenter)
     </td>
