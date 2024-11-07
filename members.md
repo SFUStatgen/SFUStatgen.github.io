@@ -51,7 +51,7 @@ title: Members
 </li>
 <li>Jiying Wen, MSc 2016: Machine learning engineer, Uber, Seattle WA.<br>
 </li>
-<li>Khalif Halani, MSc 2016: Senior Biostatistician, EMMES Canada, Vancouver BC.<br>
+<li>Khalif Halani, MSc 2016: Senior Biostatistician, Cytel, Vancouver BC.<br>
 </li>
 <li>Joanna Lubieniecka, PDF 2016: Research Professor, Human Genetics, Ruhr-Universität Bochum, Germany<br>
 </li>
