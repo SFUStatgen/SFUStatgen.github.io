@@ -76,10 +76,6 @@ title: Meetings
     <td width="330" valign="top">SSC 2022, Invited session on Current Challenges in Genomic Epidemiology: Robust inference of gene-environment interaction from heterogeneous samples of case-parent trios</td>
     <td valign="top">Zoom,&nbsp; 15:30-16:00</td>
  </tr>
-A pedigree-transmission likelihood for multiplex families
-Date: Thursday, April 6th, 2023
-Time: 10:00am
-Location: Zoom
  <tr>
     <td width="55" valign="top">April 26, 2022</td>
     <td width="90" valign="top">Tianyu Yang (SFU)</td>
