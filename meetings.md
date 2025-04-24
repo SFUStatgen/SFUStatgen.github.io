@@ -11,6 +11,12 @@ title: Meetings
 <table cellspacing="10">
 <tbody>
 <tr>
+    <td width="55" valign="top">Apr. 16, 2025</td>
+    <td width="90" valign="top">Chen Liu (SFU)</td>
+    <td width="330" valign="top">MSc defence: A comparison of two extreme-phenotype sampling designs for sequencing studies of disease endophenotypes</td>
+    <td valign="top">Library Room 2020, 9:30-10:30</td>
+ </tr>
+<tr>
     <td width="55" valign="top">Apr. 9, 2024</td>
     <td width="90" valign="top">Diksha Jethnani (SFU)</td>
     <td width="330" valign="top">MSc defence: Analysis of rare variants in the first exon of the ataxin-2 gene in patients with neurodegenerative diseases</td>
