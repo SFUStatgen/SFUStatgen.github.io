@@ -11,7 +11,6 @@ title: Members
 <li>Dongmeng Liu, PhD student, Statistics &amp; Actuarial Science, SFU</li>
 <li>Xuefei Gloria Yang, PhD student, Statistics &amp; Actuarial Science, SFU</li>
 <li>Fabiha Binte Farooq, PhD student, Statistics &amp; Actuarial Science, SFU</li>
-<li>Chen Liu, MSc student, Statistics &amp; Actuarial Science, SFU</li>
 </ul>
 <p><b>Undergraduate Students</b></p>
 <ul>
@@ -33,6 +32,7 @@ title: Members
 </ul>
 <p><b>Alumni</b></p>
 <ol>
+<li>Chen Liu, MSc 2025: Statistical Consultant, Freelance, Vancouver BC.</li>
 <li>Diksha Jethnani, MSc 2024: Data Scientist and Research & Teaching Support, Freelance.</li>
 <li>Nirodha Epasinghege Dona, PhD 2024: Senior Data Analyst, BC Ministry of Health, Vancouver BC.</li>
   <li>Payman Nickchi, PhD 2024: Postdoctoral research and teaching fellow, Master of Data Science Program, UBC.</li>
