@@ -32,7 +32,7 @@ title: Members
 </ul>
 <p><b>Alumni</b></p>
 <ol>
-<li>Chen Liu, MSc 2025: Statistical Consultant, Freelance, Vancouver BC.</li>
+<li>Chen Liu, MSc 2025: Statistician, Freelance, Vancouver BC.</li>
 <li>Diksha Jethnani, MSc 2024: Data Scientist and Research & Teaching Consultant, Freelance, Vancouver BC.</li>
 <li>Nirodha Epasinghege Dona, PhD 2024: Senior Data Analyst, BC Ministry of Health, Vancouver BC.</li>
   <li>Payman Nickchi, PhD 2024: Postdoctoral research and teaching fellow, Master of Data Science Program, UBC.</li>
