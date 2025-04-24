@@ -14,7 +14,7 @@ title: Meetings
     <td width="55" valign="top">Apr. 16, 2025</td>
     <td width="90" valign="top">Chen Liu (SFU)</td>
     <td width="330" valign="top">MSc defence: A comparison of two extreme-phenotype sampling designs for sequencing studies of disease endophenotypes</td>
-    <td valign="top">Library Room 2020, 9:30-10:30</td>
+    <td valign="top">Library Room 2020, 9:30-11:00</td>
  </tr>
 <tr>
     <td width="55" valign="top">Apr. 9, 2024</td>
