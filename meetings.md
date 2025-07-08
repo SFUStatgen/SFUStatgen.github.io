@@ -20,7 +20,7 @@ title: Meetings
     <td width="55" valign="top">May 27, 2025</td>
     <td width="90" valign="top">Jinko Graham (SFU)</td>
     <td width="330" valign="top">SSC 2025, Session on Recent Developments in Statistical Genetics and Genomics: Statistical Integration of Genomic Annotations for Prioritizing Sequencing Variants in Disease-Enriched Families</td>
-    <td valign="top">Room Arts 133, Saskatoon University, Saskatchewan, 15:30 to 15:45</td>
+    <td valign="top">Room Arts 133, University of Saskatchewan, Saskatooon, 15:30 to 15:45</td>
 </tr>
 <tr>
     <td width="55" valign="top">Apr. 16, 2025</td>
