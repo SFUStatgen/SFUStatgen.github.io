@@ -13,13 +13,13 @@ title: Meetings
 <tr>
     <td width="55" valign="top">June 7, 2025</td>
     <td width="90" valign="top">Jinko Graham (SFU)</td>
-    <td width="330" valign="top">WNAR 2025, Session on Advancing Methods for Risk Prediction: Statistical Integration of Genomic Annotations for Prioritizing Sequencing Variants in Disease-Enriched Families</td>
+    <td width="330" valign="top">WNAR 2025, Invited session on Advancing Methods for Risk Prediction: Statistical Integration of Genomic Annotations for Prioritizing Sequencing Variants in Disease-Enriched Families</td>
     <td valign="top">Room Alpine A, Westin Hotel, Whistler, 15:30 to 15:45</td>
 </tr>
 <tr>
     <td width="55" valign="top">May 27, 2025</td>
     <td width="90" valign="top">Jinko Graham (SFU)</td>
-    <td width="330" valign="top">SSC 2025, Session on Recent Developments in Statistical Genetics and Genomics: Statistical Integration of Genomic Annotations for Prioritizing Sequencing Variants in Disease-Enriched Families</td>
+    <td width="330" valign="top">SSC 2025, Contributed session on Recent Developments in Statistical Genetics and Genomics: Statistical Integration of Genomic Annotations for Prioritizing Sequencing Variants in Disease-Enriched Families</td>
     <td valign="top">Room Arts 133, University of Saskatchewan, Saskatooon, 15:30 to 15:45</td>
 </tr>
 <tr>
