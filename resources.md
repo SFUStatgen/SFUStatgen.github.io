@@ -10,7 +10,7 @@ title: Resources
 
 <!-- * We've prepared a summary of the [workflow](https://sfustatgen.github.io/resources/workflow.pdf) for [open science](https://en.wikipedia.org/wiki/Open_science) used in our research group. -->
 <!-- * These days we do most of our computationally-demanding work on [Compute Canada](https://computecanada.ca). -->
-* See our [Compute Canada introduction](https://sfustatgen.github.io/resources/computecan.html) page for information on registering with Compute Canada and using their
+* See our [Alliance Canada introduction](https://sfustatgen.github.io/resources/computecan.html) page for information on registering with the Digital Research Alliance of Canada (Alliance Canada) and using their
 resources.
 * [GitHub](https://github.com) is an essential tool for code development and collaboration based on a version control system called git. The [Pro Git](https://git-scm.com/book/en/v2) online book is the user manual for git and GitHub. Most of us use the RStudio/git interface, which can be set up in RStudio as described in [this document](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN). See our [Git with RStudio](https://sfustatgen.github.io/resources/GitRStudioDoc.pdf) documentation for tips on resolving conflicts that can arise when working with collaborators and a general introduction to working with git in RStudio.
 * The Department's [computing resources](https://www.sfu.ca/stat-actsci/research/research-resources/computing-research.html) webpage gives information on getting help at SFU, access to our Unix network, and links to software that is available to SFU faculty, staff and students.
