@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Compute Canada files and quotas
+title: Alliance Canada files and quotas
 ---
 
-# Compute Canada files and quotas
+# Alliance Canada files and quotas
 
-This information is specific to the cluster cedar.computecanada.ca 
+This information is specific to the cluster fir.alliancecanada.ca 
 that we use.
 
-## Compute Canada Filespace
+## Alliance Canada Filespace
 
-* The filespace on cedar.computecanada.ca is comprised of three separate disks named `/home`, `/project`, and `/scratch`. Each disk is organized to host separate users.
-* When you log in to cedar.computecanada.ca 
+* The filespace on fir.alliancecanada.ca is comprised of three separate disks named `/home`, `/project`, and `/scratch`. Each disk is organized to host separate users.
+* When you log in to fir.alliancecanada.ca 
 as user `<user>` you will be in the `/home/<user>` directory.
 * When you list the contents of `/home/<user>` you will see `project` and `scratch`, which are "softlinks", or short-cuts. Changing directory (`cd`) to these will take you to `/project/def-<sponsor>`, your group's project directory (a communal space for the group of your account sponsor `<sponsor>`)  and `/scratch/<user>`, your personal scratch directory.
     * Aside: When you list the contents of `/home/<user>` you will also see a `projects` (plural) directory and a `nearline` directory. Ignore these for now; `projects` is only useful for people
@@ -70,7 +70,7 @@ by typing `rm -r TestDir`.
 sponsored users of the same project, but not between different projects.
 * Since project members of def-jgraham and def-mcneney frequently share data,  
 we've set up a data-sharing group of Share, `sfu-statgen`.
-<!--* Using special tools developed by Compute Canada we can set 
+<!--* Using special tools developed by Alliance Canada we can set 
 the file permissions of files that we'd like to share between
 groups.-->
 * The place to share files between groups is `/project/def-mcneney/share`.
