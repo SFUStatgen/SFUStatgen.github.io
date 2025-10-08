@@ -12,7 +12,7 @@ user ID (CCRI).
 
 Next, go to the Alliance Canada login/registration page at
 
-[https://ccdb.alliancecanada.ca/security/login](https://ccdb.alliancecanada.ca/security/login)
+[https://ccdb.alliancecan.ca/security/login](https://ccdb.alliancecan.ca/security/login)
 
 and click on "Register" near the bottom right. Fill out the following application pages. When asked about your "Position" say MSc or PhD 
 student, as appropriate, under "Sponsored User". After you submit the form, the Alliance Canada system should send your supervisor
@@ -24,11 +24,11 @@ The Alliance Canada servers run the Unix operating system. If you are unfamiliar
 
 ## Logging in to cedar
 
-The cluster that we use most is [cedar.computecanada.ca](https://docs.computecanada.ca/wiki/Cedar). You will need to log in to cedar
-with an SSH client. See the Alliance Canada [documentation on SSH](https://docs.computecanada.ca/wiki/SSH) for more information.
+The cluster that we use most is [fir.alliancecan.ca](https://docs.alliancecan.ca/wiki/Fir) (formerly cedar.computecanada.ca). You will need to log in to cedar
+with an SSH client. See the Alliance Canada [documentation on SSH](https://docs.alliancecan.ca/wiki/SSH) for more information.
 
 ## Transferring data
 
 Copy data files to/from cedar using `scp` or `globus`. More information 
-is available at [https://docs.computecanada.ca/wiki/Transferring_data](https://docs.computecanada.ca/wiki/Transferring_data)
+is available at [https://docs.alliancecan.ca/wiki/Transferring_data](https://docs.alliancecan.ca/wiki/Transferring_data)
 
