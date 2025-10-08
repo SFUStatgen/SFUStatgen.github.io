@@ -5,13 +5,13 @@ title: Alliance Canada files and quotas
 
 # Alliance Canada files and quotas
 
-This information is specific to the cluster fir.alliancecanada.ca 
+This information is specific to the cluster fir.alliancecan.ca 
 that we use.
 
 ## Alliance Canada Filespace
 
-* The filespace on fir.alliancecanada.ca is comprised of three separate disks named `/home`, `/project`, and `/scratch`. Each disk is organized to host separate users.
-* When you log in to fir.alliancecanada.ca 
+* The filespace on fir.alliancecan.ca is comprised of three separate disks named `/home`, `/project`, and `/scratch`. Each disk is organized to host separate users.
+* When you log in to fir.alliancecan.ca 
 as user `<user>` you will be in the `/home/<user>` directory.
 * When you list the contents of `/home/<user>` you will see `project` and `scratch`, which are "softlinks", or short-cuts. Changing directory (`cd`) to these will take you to `/project/def-<sponsor>`, your group's project directory (a communal space for the group of your account sponsor `<sponsor>`)  and `/scratch/<user>`, your personal scratch directory.
     * Aside: When you list the contents of `/home/<user>` you will also see a `projects` (plural) directory and a `nearline` directory. Ignore these for now; `projects` is only useful for people
