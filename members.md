@@ -39,7 +39,7 @@ title: Members
   <li>Payman Nickchi, PhD 2024: Postdoctoral research and teaching fellow, Master of Data Science Program, UBC.</li>
 <li>Pulindu Ratnasekera, PhD 2023: Lecturer, Statistics, Indiana University, Bloomington IN.</li>
 <li>Daisy Yu, PhD 2023; MSc 2019: Senior Analyst, Canadian Institute for Health Information (CIHI), Toronto ON.</li>
-<li>Tianyu Yang, MSc 2023: Biostatistician, Praxis Spinal Cord Institute,  Vancouver BC.</li>
+<li>Tianyu Yang, MSc 2023: Statistician,  Broadstreet HEOR, Vancouver BC.</li>
 <li>Zayed S, MSc 2022:  Biostatistician, Faculty of Medicine, UBC, Vancouver BC.</li>
 <li>Christina Nieuwoudt, PhD 2021: Senior Biostatistician, EMMES Canada, Vancouver BC.</li>
 <li>Charith (Bhagya) Karunarathna, PhD 2021: Senior Statistician, BC Renal at Provincial Health Services Authority, Vancouver BC.</li>
